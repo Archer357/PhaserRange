@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Holodeck2.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{B3DBB166-F924-4206-804F-B759079E3F41}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Holodeck2.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Holodeck2Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{DD690B59-8489-4D92-9D5F-671AD11EA862}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Holodeck2">
+			<UniqueIdentifier>{35806635-8E24-4249-8FCB-8273463CA912}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Holodeck2\Holodeck2.Build.cs">
+			<Filter>Source\Holodeck2</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Holodeck2\Holodeck2.cpp">
+			<Filter>Source\Holodeck2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Holodeck2\Holodeck2.h">
+			<Filter>Source\Holodeck2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Holodeck2\Holodeck2GameModeBase.cpp">
+			<Filter>Source\Holodeck2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Holodeck2\Holodeck2GameModeBase.h">
+			<Filter>Source\Holodeck2</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
