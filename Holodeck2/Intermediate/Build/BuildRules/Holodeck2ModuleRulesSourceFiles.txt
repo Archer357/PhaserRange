@@ -1,3 +1,0 @@
-C:\Users\darkm\Documents\GitHub\PhaserRange\Holodeck2\Source\Holodeck2\Holodeck2.Build.cs
-C:\Users\darkm\Documents\GitHub\PhaserRange\Holodeck2\Source\Holodeck2.Target.cs
-C:\Users\darkm\Documents\GitHub\PhaserRange\Holodeck2\Source\Holodeck2Editor.Target.cs
