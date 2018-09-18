@@ -634,3 +634,43 @@ LogInit: Object subsystem initialized
 [2018.09.18-02.14.08:591][709]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Saved/Holodeck9E754EF94862392A68774A88E22C9A3E.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/Levels/Holodeck.umap'
 [2018.09.18-02.14.08:634][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Holodeck_BuiltData" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/Levels/Holodeck_BuiltData.uasset" SILENT=true
 [2018.09.18-02.14.08:670][709]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Saved/Holodeck_BuiltData306A10A747799688C837FDAB19C6909C.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/Levels/Holodeck_BuiltData.uasset'
+[2018.09.18-02.33.25:970][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PhaserRange_Floor)
+[2018.09.18-02.33.26:147][128]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-02.33.35:831][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-02.40.27:603][ 70]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.18-02.40.42:471][952]LogMetaData: Removing '/Game/System/Framework/VRGameMode.VRGameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/System/Framework/Player.PackageMetaData'
+[2018.09.18-02.40.42:471][952]LogMetaData: Removing '/Game/System/Framework/VRGameMode.SKEL_VRGameMode_C' ref from Metadata '/Game/System/Framework/Player.PackageMetaData'
+[2018.09.18-02.40.42:471][952]LogMetaData: Removing '/Game/System/Framework/VRGameMode.VRGameMode_C' ref from Metadata '/Game/System/Framework/Player.PackageMetaData'
+[2018.09.18-02.40.42:471][952]LogMetaData: Removing '/Game/System/Framework/VRGameMode.VRGameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/System/Framework/Player.PackageMetaData'
+[2018.09.18-02.40.42:471][952]LogMetaData: Removing '/Game/System/Framework/VRGameMode.VRGameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/System/Framework/Player.PackageMetaData'
+[2018.09.18-02.40.42:500][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/Framework/VRGameMode" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/System/Framework/VRGameMode.uasset" SILENT=true
+[2018.09.18-02.40.42:516][952]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Saved/VRGameMode785F10C847E963D68E42C286E61FCBA8.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/System/Framework/VRGameMode.uasset'
+[2018.09.18-02.54.54:768][922]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2018.09.18-02.55.01:599][256]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.18-02.55.01:646][256]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Holodeck1
+[2018.09.18-02.55.01:646][256]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.18-02.55.01:646][256]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.09.18-02.55.01:646][256]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.18-02.55.01:646][256]LogTemp: BranchPath = DESKTOP-2QNA1SC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-2QNA1SC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.18-02.55.01:670][256]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\darkm\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.18-02.55.20:034][355]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.18-02.55.38:241][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Holodeck" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/Levels/Holodeck.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.18-02.55.38:304][439]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Saved/HolodeckAE7655E04434F5D6C019578FD6E06516.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/Levels/Holodeck.umap'
+[2018.09.18-02.55.38:340][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Holodeck_BuiltData" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/Levels/Holodeck_BuiltData.uasset" SILENT=true
+[2018.09.18-02.55.38:369][439]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Saved/Holodeck_BuiltData60E817EF48717CF1481D9D80D467CDB9.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/Levels/Holodeck_BuiltData.uasset'
+[2018.09.18-03.16.25:668][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PhaserRange_Ring)
+[2018.09.18-03.16.27:332][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.09.18-03.16.33:604][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-03.16.33:762][682]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/System/Framework/VRGameMode.VRGameMode
+[2018.09.18-03.16.34:555][682]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.09.18-03.16.36:453][722]LogSlate: Took 0.005443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.18-03.16.37:198][758]LogRenderer: Reallocating scene render targets to support 852x548 Format 26 NumSamples 1 (Frame:73).
+[2018.09.18-03.16.37:349][767]LogSlate: Window 'VRGameMode' being destroyed
+[2018.09.18-03.16.38:456][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/Framework/VRGameMode" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/System/Framework/VRGameMode.uasset" SILENT=true
+[2018.09.18-03.16.38:483][832]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Saved/VRGameModeA32C9105478769F23C4BB3A7AC7BBC11.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/System/Framework/VRGameMode.uasset'
+[2018.09.18-03.33.39:937][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/Framework/VRGameMode" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/System/Framework/VRGameMode.uasset" SILENT=true
+[2018.09.18-03.33.39:959][ 97]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Saved/VRGameMode2E728C004870FCD3F48070A9B7FE59E3.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/System/Framework/VRGameMode.uasset'
+[2018.09.18-03.33.41:042][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Holodeck" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/Levels/Holodeck.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.18-03.33.41:108][160]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Saved/HolodeckD60AFF75416E895CBB4979811C0EF303.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/Levels/Holodeck.umap'
+[2018.09.18-03.33.41:142][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Holodeck_BuiltData" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/Levels/Holodeck_BuiltData.uasset" SILENT=true
+[2018.09.18-03.33.41:172][160]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Saved/Holodeck_BuiltDataC6A04312481C36F6FFB35E8E8A82BE48.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/Levels/Holodeck_BuiltData.uasset'
