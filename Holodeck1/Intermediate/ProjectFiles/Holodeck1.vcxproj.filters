@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Holodeck1.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{C7FEB099-99C7-4396-A7E2-731EEB3CD374}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Holodeck1.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Holodeck1Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{1134D0B1-0217-4F41-81CF-A24A0A77D20E}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultScalability.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Holodeck1">
+			<UniqueIdentifier>{CEE2468C-3719-4AEB-A88A-BDE5ECBD480A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Holodeck1\Holodeck1.Build.cs">
+			<Filter>Source\Holodeck1</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Holodeck1\Holodeck1.cpp">
+			<Filter>Source\Holodeck1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Holodeck1\Holodeck1.h">
+			<Filter>Source\Holodeck1</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Holodeck1\MyClass.cpp">
+			<Filter>Source\Holodeck1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Holodeck1\MyClass.h">
+			<Filter>Source\Holodeck1</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
