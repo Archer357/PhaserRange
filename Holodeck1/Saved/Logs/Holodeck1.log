@@ -2031,3 +2031,35 @@ LogInit: Object subsystem initialized
 [2018.09.19-02.46.20:191][922]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Saved/HolodeckEE50413C43D45662692397AB8F0C5A82.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/Levels/Holodeck.umap'
 [2018.09.19-02.46.20:237][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Holodeck_BuiltData" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/Levels/Holodeck_BuiltData.uasset" SILENT=true
 [2018.09.19-02.46.20:279][922]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Saved/Holodeck_BuiltData143434774A8C3B1549D034A2BEED74BA.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck1/Content/Levels/Holodeck_BuiltData.uasset'
+[2018.09.19-07.15.22:169][ 53]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{dfe3755f-1c6b-47ab-a407-ba218f7b56b9} was removed. Shutting down audio device.
+[2018.09.19-07.15.22:216][ 53]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.19-10.15.38:929][930]LogHttp: Warning: 000001D2B4AAAE80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.19-10.15.38:930][930]LogHttp: Warning: 000001D2B4AAAE80: libcurl info message cache 0 (Connection 203 seems to be dead!)
+[2018.09.19-10.15.38:930][930]LogHttp: Warning: 000001D2B4AAAE80: libcurl info message cache 1 (Closing connection 203)
+[2018.09.19-10.15.38:931][930]LogHttp: Warning: 000001D2B4AAAE80: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.09.19-10.15.38:931][930]LogHttp: Warning: 000001D2B4AAAE80: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.19-10.15.38:932][930]LogHttp: Warning: 000001D2B4AAAE80: libcurl info message cache 4 (Closing connection 204)
+[2018.09.20-00.09.13:583][ 10]LogHttp: Warning: 000001D2B4AAAE80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.20-00.09.13:583][ 10]LogHttp: Warning: 000001D2B4AAAE80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.20-00.09.13:583][ 10]LogHttp: Warning: 000001D2B4AAAE80: libcurl info message cache 1 (Closing connection 205)
+[2018.09.20-01.56.13:540][582]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.09.20-01.56.13:540][582]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.09.20-01.56.14:207][584]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.09.20-01.56.14:546][585]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.09.20-01.56.15:043][586]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.09.20-01.56.21:184][600]LogHttp: Warning: 000001D207FEF380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.20-01.56.21:184][600]LogHttp: Warning: 000001D207FEF380: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1d23d57bfa0 [can pipeline])
+[2018.09.20-01.56.21:184][600]LogHttp: Warning: 000001D207FEF380: libcurl info message cache 1 (Re-using existing connection! (#218) with host datarouter.ol.epicgames.com)
+[2018.09.20-01.56.21:184][600]LogHttp: Warning: 000001D207FEF380: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.3.59.227) port 443 (#218))
+[2018.09.20-01.56.21:184][600]LogHttp: Warning: 000001D207FEF380: libcurl info message cache 3 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2018.09.20-01.56.21:185][600]LogHttp: Warning: 000001D207FEF380: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2018.09.20-01.56.21:185][600]LogHttp: Warning: 000001D207FEF380: libcurl info message cache 5 (Closing connection 218)
+[2018.09.20-01.56.21:185][600]LogHttp: Warning: 000001D207FEF380: libcurl info message cache 6 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B99C6DDA3-4389-1F35-980F-BBAA1F478AC0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=b914ff53478b5f622d6555bf0841b6f9%7C86b6ae209afd4afba3857a84ef1c03f5%7C42b6a3b4-a436-4b48-864c-cd0cc8a0dc50&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.09.20-01.56.21:185][600]LogHttp: Warning: 000001D207FEF380: libcurl info message cache 7 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.20-01.56.21:185][600]LogHttp: Warning: 000001D207FEF380: libcurl info message cache 8 (Closing connection 219)
+[2018.09.20-02.11.59:882][814]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.20-02.12.00:073][814]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.20-02.12.00:217][814]LogSlate: Window 'Holodeck1 - Unreal Editor' being destroyed
+[2018.09.20-02.12.00:219][814]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.20-02.12.00:650][815]Cmd: QUIT_EDITOR
+[2018.09.20-02.12.01:217][815]LogExit: Preparing to exit.
