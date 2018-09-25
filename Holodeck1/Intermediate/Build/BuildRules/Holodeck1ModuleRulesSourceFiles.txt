@@ -1,3 +1,5 @@
-C:\Users\darkm\Documents\GitHub\PhaserRange\Holodeck1\Source\Holodeck1\Holodeck1.Build.cs
-C:\Users\darkm\Documents\GitHub\PhaserRange\Holodeck1\Source\Holodeck1.Target.cs
-C:\Users\darkm\Documents\GitHub\PhaserRange\Holodeck1\Source\Holodeck1Editor.Target.cs
+D:\GitHub\PhaserRange\Holodeck1\Source\Holodeck1\Holodeck1.Build.cs
+D:\GitHub\PhaserRange\Holodeck1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\OpenVRExpansionPlugin.Build.cs
+D:\GitHub\PhaserRange\Holodeck1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\VRExpansionPlugin.Build.cs
+D:\GitHub\PhaserRange\Holodeck1\Source\Holodeck1.Target.cs
+D:\GitHub\PhaserRange\Holodeck1\Source\Holodeck1Editor.Target.cs

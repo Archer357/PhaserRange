@@ -1,0 +1,44 @@
+﻿  Performing full C++ include scan (hot reloading a new target)
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for hot reloading Holodeck1Editor (no existing makefile)
+  Compiling game modules for hot reload
+  Using Visual Studio 2017 14.15.26726 toolchain (D:\Visual Studio 2017\VC\Tools\MSVC\14.15.26726) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for Holodeck1Editor
+    Running UnrealHeaderTool "D:\GitHub\PhaserRange\Holodeck1\Holodeck1.uproject" "D:\GitHub\PhaserRange\Holodeck1\Intermediate\Build\Win64\Holodeck1Editor\Development\Holodeck1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for Holodeck1Editor in 9.6764615 seconds
+  Building 27 actions with 12 processes...
+    [1/27] PCLaunch.rc
+    [2/27] PCLaunch.rc
+    [3/27] PCLaunch.rc
+    [4/27] SharedPCH.UnrealEd.cpp
+    [5/27] SharedPCH.Engine.cpp
+    [6/27] Holodeck1.cpp
+    [7/27] Module.OpenVRExpansionPlugin.gen.cpp
+    [8/27] Module.VRExpansionPlugin.3_of_3.cpp
+    [9/27] MyClass.cpp
+    [10/27] UE4Editor-Holodeck1-4474.lib
+       Creating library D:\GitHub\PhaserRange\Holodeck1\Intermediate\Build\Win64\UE4Editor\Development\Holodeck1\UE4Editor-Holodeck1-4474.lib and object D:\GitHub\PhaserRange\Holodeck1\Intermediate\Build\Win64\UE4Editor\Development\Holodeck1\UE4Editor-Holodeck1-4474.exp
+    [11/27] Module.OpenVRExpansionPlugin.cpp
+    [12/27] UE4Editor-OpenVRExpansionPlugin-6271.lib
+       Creating library D:\GitHub\PhaserRange\Holodeck1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin-6271.lib and object D:\GitHub\PhaserRange\Holodeck1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin-6271.exp
+    [13/27] Module.VRExpansionPlugin.gen.3_of_9.cpp
+    [14/27] Module.VRExpansionPlugin.gen.1_of_9.cpp
+    [15/27] Module.VRExpansionPlugin.gen.2_of_9.cpp
+    [16/27] UE4Editor-Holodeck1-4474.dll
+       Creating library D:\GitHub\PhaserRange\Holodeck1\Intermediate\Build\Win64\UE4Editor\Development\Holodeck1\UE4Editor-Holodeck1-4474.suppressed.lib and object D:\GitHub\PhaserRange\Holodeck1\Intermediate\Build\Win64\UE4Editor\Development\Holodeck1\UE4Editor-Holodeck1-4474.suppressed.exp
+    [17/27] UE4Editor-OpenVRExpansionPlugin-6271.dll
+       Creating library D:\GitHub\PhaserRange\Holodeck1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin-6271.suppressed.lib and object D:\GitHub\PhaserRange\Holodeck1\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin-6271.suppressed.exp
+    [18/27] Module.VRExpansionPlugin.gen.8_of_9.cpp
+    [19/27] Module.VRExpansionPlugin.gen.7_of_9.cpp
+    [20/27] Module.VRExpansionPlugin.gen.5_of_9.cpp
+    [21/27] Module.VRExpansionPlugin.gen.6_of_9.cpp
+    [22/27] Module.VRExpansionPlugin.gen.4_of_9.cpp
+    [23/27] Module.VRExpansionPlugin.gen.9_of_9.cpp
+    [24/27] Module.VRExpansionPlugin.2_of_3.cpp
+    [25/27] Module.VRExpansionPlugin.1_of_3.cpp
+    [26/27] UE4Editor-VRExpansionPlugin-4474.lib
+       Creating library D:\GitHub\PhaserRange\Holodeck1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin-4474.lib and object D:\GitHub\PhaserRange\Holodeck1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin-4474.exp
+    [27/27] UE4Editor-VRExpansionPlugin-4474.dll
+       Creating library D:\GitHub\PhaserRange\Holodeck1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin-4474.suppressed.lib and object D:\GitHub\PhaserRange\Holodeck1\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin-4474.suppressed.exp
+  Deploying Holodeck1Editor Win64 Development...
+  Total build time: 101.11 seconds (Parallel executor: 51.55 seconds)
