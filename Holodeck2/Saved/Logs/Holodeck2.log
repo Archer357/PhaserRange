@@ -374,3 +374,507 @@ LogInit: Object subsystem initialized
 [2018.09.26-03.10.28:588][ 80]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Range_BuiltDataFCEF1F7144FC70F1620356951DB87232.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range_BuiltData.uasset'
 [2018.09.26-03.10.32:535][356]LogSlate: Window 'Save Content' being destroyed
 [2018.09.26-03.10.32:645][356]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/BP_Weapon_Parent099B401C41411020FFBE52B659575F5D.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/GameObjects/BP_Weapon_Parent.uasset'
+[2018.09.26-03.16.10:326][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.16.10:558][743]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Range7B0E673E43F49C51C39950903690792D.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap'
+[2018.09.26-03.16.10:615][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Holodeck/Level/Range_BuiltData" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range_BuiltData.uasset" SILENT=true
+[2018.09.26-03.16.10:661][743]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Range_BuiltDataBD7D36FD439CBE0642CEBCB4A85CB87B.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range_BuiltData.uasset'
+[2018.09.26-03.16.37:261][278]LogSlate: Window 'Message' being destroyed
+[2018.09.26-03.16.43:439][ 10]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.26-03.17.03:519][412]BlueprintLog: New page: Compile BP_Weapon_Parent
+[2018.09.26-03.17.04:201][457]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/BP_Weapon_Parent0D84DD264186B7EE9B7F548CC408FF95.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/GameObjects/BP_Weapon_Parent.uasset'
+[2018.09.26-03.18.06:041][473]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube
+[2018.09.26-03.19.57:005][611]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.26-03.20.21:442][284]BlueprintLog: New page: Compile BP_Weapon_Parent
+[2018.09.26-03.20.22:253][339]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/BP_Weapon_ParentCBC4FB924D9723DAD045DEA4A34388D5.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/GameObjects/BP_Weapon_Parent.uasset'
+[2018.09.26-03.26.30:688][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.26.42:726][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-03.26.42:741][527]PIE: New page: SIE session: Range (Sep 25, 2018, 1:26:42 PM)
+[2018.09.26-03.26.42:743][527]LogPlayLevel: Creating play world package: /Game/Holodeck/Level/UEDPIE_0_Range
+[2018.09.26-03.26.42:747][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004035s)
+[2018.09.26-03.26.42:749][527]LogAIModule: Creating AISystem for world Range
+[2018.09.26-03.26.42:750][527]LogPlayLevel: PIE: World Init took: (0.002660s)
+[2018.09.26-03.26.42:750][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Holodeck/Level/Range.Range to /Game/Holodeck/Level/UEDPIE_0_Range.Range (0.007255s)
+[2018.09.26-03.26.42:824][527]LogInit: XAudio2 using 'Speakers (2- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.09.26-03.26.42:844][527]LogInit: FAudioDevice initialized.
+[2018.09.26-03.26.43:335][527]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.09.26-03.26.43:355][527]LogWorld: Bringing World /Game/Holodeck/Level/UEDPIE_0_Range.Range up for play (max tick rate 0) at 2018.09.25-20.26.43
+[2018.09.26-03.26.43:356][527]LogWorld: Bringing up level for play took: 0.001541
+[2018.09.26-03.26.43:394][527]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2018.09.26-03.26.43:397][527]PIE: Play in editor start time for /Game/Holodeck/Level/UEDPIE_0_Range 1.358
+[2018.09.26-03.27.04:007][ 17]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.26-03.27.10:461][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.27.10:576][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.27.10:619][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-03.27.10:680][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.27.10:712][380]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.09.26-03.27.11:402][447]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.09.26-03.27.14:827][702]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.09.26-03.27.14:992][713]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.26-03.27.23:476][383]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.09.26-03.28.24:218][367]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Range_Auto15677F58B4C8829B15AE5A3937C1EC7B4.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Autosaves/Game/Holodeck/Level/Range_Auto1.umap'
+[2018.09.26-03.28.24:225][367]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Holodeck/Level/Range' took 0.100
+[2018.09.26-03.28.24:225][367]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.100
+[2018.09.26-03.28.24:229][367]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Holodeck/GameObjects/Phaser_TNG_Type_2] ([1] browsable assets)...
+[2018.09.26-03.28.24:260][367]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Holodeck/GameObjects/Phaser_TNG_Type_2.Phaser_TNG_Type_2]
+[2018.09.26-03.28.24:260][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/Holodeck/GameObjects/Phaser_TNG_Type_2]
+[2018.09.26-03.28.24:310][367]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Phaser_TNG_Type_2_Auto1FB611AA048521B3493F934B959AD3C6E.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Autosaves/Game/Holodeck/GameObjects/Phaser_TNG_Type_2_Auto1.uasset'
+[2018.09.26-03.28.24:313][367]LogFileHelpers: Auto-saving content packages took 0.085
+[2018.09.26-03.32.18:841][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-03.32.30:318][491]LogTemp: Repeating last play command: Simulate
+[2018.09.26-03.32.30:371][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-03.32.30:371][491]PIE: New page: SIE session: Range (Sep 25, 2018, 1:32:30 PM)
+[2018.09.26-03.32.30:371][491]LogPlayLevel: Creating play world package: /Game/Holodeck/Level/UEDPIE_0_Range
+[2018.09.26-03.32.30:374][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002966s)
+[2018.09.26-03.32.30:376][491]LogAIModule: Creating AISystem for world Range
+[2018.09.26-03.32.30:376][491]LogPlayLevel: PIE: World Init took: (0.001673s)
+[2018.09.26-03.32.30:376][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Holodeck/Level/Range.Range to /Game/Holodeck/Level/UEDPIE_0_Range.Range (0.004915s)
+[2018.09.26-03.32.30:456][491]LogInit: XAudio2 using 'Speakers (2- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.09.26-03.32.30:478][491]LogInit: FAudioDevice initialized.
+[2018.09.26-03.32.30:512][491]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.09.26-03.32.30:515][491]LogWorld: Bringing World /Game/Holodeck/Level/UEDPIE_0_Range.Range up for play (max tick rate 0) at 2018.09.25-20.32.30
+[2018.09.26-03.32.30:516][491]LogWorld: Bringing up level for play took: 0.001357
+[2018.09.26-03.32.30:530][491]PIE: Play in editor start time for /Game/Holodeck/Level/UEDPIE_0_Range 0.492
+[2018.09.26-03.32.33:327][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.32.33:366][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-03.32.33:433][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.32.33:488][669]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.09.26-03.32.39:869][ 94]Warning: RebindPackages not possible (no packages specified)
+[2018.09.26-03.32.40:333][127]LogTemp: Repeating last play command: Simulate
+[2018.09.26-03.32.40:391][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-03.32.40:391][127]PIE: New page: SIE session: Range (Sep 25, 2018, 1:32:40 PM)
+[2018.09.26-03.32.40:391][127]LogPlayLevel: Creating play world package: /Game/Holodeck/Level/UEDPIE_0_Range
+[2018.09.26-03.32.40:395][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003039s)
+[2018.09.26-03.32.40:396][127]LogAIModule: Creating AISystem for world Range
+[2018.09.26-03.32.40:397][127]LogPlayLevel: PIE: World Init took: (0.001903s)
+[2018.09.26-03.32.40:397][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Holodeck/Level/Range.Range to /Game/Holodeck/Level/UEDPIE_0_Range.Range (0.005372s)
+[2018.09.26-03.32.40:475][127]LogInit: XAudio2 using 'Speakers (2- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.09.26-03.32.40:494][127]LogInit: FAudioDevice initialized.
+[2018.09.26-03.32.40:533][127]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.09.26-03.32.40:536][127]LogWorld: Bringing World /Game/Holodeck/Level/UEDPIE_0_Range.Range up for play (max tick rate 0) at 2018.09.25-20.32.40
+[2018.09.26-03.32.40:536][127]LogWorld: Bringing up level for play took: 0.000962
+[2018.09.26-03.32.40:550][127]PIE: Play in editor start time for /Game/Holodeck/Level/UEDPIE_0_Range 0.513
+[2018.09.26-03.32.41:498][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.32.41:538][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-03.32.41:600][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.32.41:626][200]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.09.26-03.32.42:802][299]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.09.26-03.32.44:005][378]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-03.32.49:121][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-03.33.01:220][673]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.26-03.33.01:332][674]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Holodeck2
+[2018.09.26-03.33.01:332][674]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.26-03.33.01:332][674]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.09.26-03.33.01:332][674]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.26-03.33.01:333][674]LogTemp: BranchPath = DESKTOP-2QNA1SC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-2QNA1SC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.26-03.33.01:377][676]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\darkm\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.26-03.34.00:936][729]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.26-03.34.06:764][319]LogTemp: Repeating last play command: Simulate
+[2018.09.26-03.34.06:799][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-03.34.06:799][319]PIE: New page: SIE session: Range (Sep 25, 2018, 1:34:06 PM)
+[2018.09.26-03.34.06:799][319]LogPlayLevel: Creating play world package: /Game/Holodeck/Level/UEDPIE_0_Range
+[2018.09.26-03.34.06:802][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002044s)
+[2018.09.26-03.34.06:802][319]LogAIModule: Creating AISystem for world Range
+[2018.09.26-03.34.06:803][319]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2018.09.26-03.34.06:803][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Holodeck/Level/Range.Range to /Game/Holodeck/Level/UEDPIE_0_Range.Range (0.003195s)
+[2018.09.26-03.34.06:861][319]LogInit: XAudio2 using 'Speakers (2- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.09.26-03.34.06:875][319]LogInit: FAudioDevice initialized.
+[2018.09.26-03.34.06:914][319]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.09.26-03.34.06:916][319]LogWorld: Bringing World /Game/Holodeck/Level/UEDPIE_0_Range.Range up for play (max tick rate 0) at 2018.09.25-20.34.06
+[2018.09.26-03.34.06:916][319]LogWorld: Bringing up level for play took: 0.000850
+[2018.09.26-03.34.06:930][319]PIE: Play in editor start time for /Game/Holodeck/Level/UEDPIE_0_Range 0.891
+[2018.09.26-03.34.21:857][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.34.21:901][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-03.34.21:941][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.34.21:962][577]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.09.26-03.34.31:322][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.34.35:606][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.34.35:714][691]LogTemp: Repeating last play command: Simulate
+[2018.09.26-03.34.35:760][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-03.34.35:761][691]PIE: New page: SIE session: Range (Sep 25, 2018, 1:34:35 PM)
+[2018.09.26-03.34.35:761][691]LogPlayLevel: Creating play world package: /Game/Holodeck/Level/UEDPIE_0_Range
+[2018.09.26-03.34.35:764][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003136s)
+[2018.09.26-03.34.35:765][691]LogAIModule: Creating AISystem for world Range
+[2018.09.26-03.34.35:765][691]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2018.09.26-03.34.35:765][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Holodeck/Level/Range.Range to /Game/Holodeck/Level/UEDPIE_0_Range.Range (0.004721s)
+[2018.09.26-03.34.35:897][691]LogInit: XAudio2 using 'Speakers (2- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.09.26-03.34.35:915][691]LogInit: FAudioDevice initialized.
+[2018.09.26-03.34.35:955][691]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.09.26-03.34.35:958][691]LogWorld: Bringing World /Game/Holodeck/Level/UEDPIE_0_Range.Range up for play (max tick rate 0) at 2018.09.25-20.34.35
+[2018.09.26-03.34.35:959][691]LogWorld: Bringing up level for play took: 0.001677
+[2018.09.26-03.34.35:977][691]PIE: Play in editor start time for /Game/Holodeck/Level/UEDPIE_0_Range -0.062
+[2018.09.26-03.34.44:738][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.34.44:783][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-03.34.44:845][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.34.44:872][326]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.09.26-03.35.05:197][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.35.07:613][ 79]LogSlate: Window 'Save Content' being destroyed
+[2018.09.26-03.35.07:706][ 79]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Phaser_TNG_Type_2D43F4A324ADA5787B54FC8993FED2655.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/GameObjects/Phaser_TNG_Type_2.uasset'
+[2018.09.26-03.35.07:984][ 79]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Range9A7D0F8B45BD83A7FC5B34858FD760FE.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap'
+[2018.09.26-03.35.08:047][ 79]LogFileHelpers: Saving map 'Range' took 0.326
+[2018.09.26-03.35.18:974][ 79]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.26-03.35.30:129][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.35.33:393][982]LogActorFactory: Actor Factory created Cube
+[2018.09.26-03.35.35:553][105]LogActorFactory: Actor Factory created Cube
+[2018.09.26-03.35.35:846][122]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.26-03.35.44:514][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PhaserRangeFloor)
+[2018.09.26-03.35.52:351][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PhaserRangeFloor)
+[2018.09.26-03.35.53:691][312]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-03.35.58:858][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WorldFloor)
+[2018.09.26-03.35.59:355][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PhaserRangeRing)
+[2018.09.26-03.36.00:989][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-03.36.03:801][961]LogMaterial: Warning: Material /Engine/EngineDebugMaterials/M_SimpleOpaque.M_SimpleOpaque needed to have new flag set bUsedWithStaticLighting !
+[2018.09.26-03.36.03:806][961]LogMaterial: Display: Missing cached shader map for material M_SimpleOpaque, compiling. 
+[2018.09.26-03.36.03:942][961]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.26-03.36.03:942][961]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.26-03.36.03:942][961]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.26-03.36.03:942][961]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.26-03.36.14:328][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.36.14:399][356]MapCheck: New page: Map Check
+[2018.09.26-03.36.14:460][356]Cmd: MAP REBUILD ALLVISIBLE
+[2018.09.26-03.36.14:461][356]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.09.26-03.36.18:850][356]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_CineMat_CameraBody, compiling. 
+[2018.09.26-03.36.18:864][356]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.26-03.36.18:864][356]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_CineCam_ViewFinder, compiling. 
+[2018.09.26-03.36.18:876][356]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.09.26-03.36.18:891][356]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.26-03.36.18:891][356]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.26-03.36.18:891][356]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.09.26-03.36.19:376][356]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.26-03.36.19:377][356]TextureStreamingBuild: Display: Compiling optional shaders took 0.536 seconds.
+[2018.09.26-03.36.19:411][356]LogLevel: Display: Export Material TexCoord Scales took 0.034 seconds.
+[2018.09.26-03.36.19:431][356]TextureStreamingBuild: Display: Build Texture Streaming took 0.020 seconds.
+[2018.09.26-03.36.19:493][356]LightingResults: New page: Lighting Build - Sep 25, 2018, 1:36:19 PM
+[2018.09.26-03.36.19:581][356]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.26-03.36.19:800][356]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.26-03.36.19:821][356]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.26-03.36.20:341][356]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.26-03.36.20:341][356]LogSwarmInterface: [TryOpenConnection] Local Process ID is 21756
+[2018.09.26-03.36.26:145][356]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.09.26-03.36.26:145][356]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.26-03.36.26:145][356]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.26-03.36.26:145][356]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.26-03.36.26:145][356]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.26-03.36.26:145][356]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.26-03.36.26:322][356]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.09.26-03.36.26:322][356]MapCheck: New page: Range - Sep 25, 2018, 1:36:26 PM
+[2018.09.26-03.36.26:322][356]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.09.26-03.36.26:461][356]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 138.843ms to complete.
+[2018.09.26-03.36.26:486][356]LogEditorBuildUtils: Build time 0:12
+[2018.09.26-03.36.26:504][356]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_CineMat_CameraBody, compiling. 
+[2018.09.26-03.36.26:513][356]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.26-03.36.26:513][356]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_CineMat_CameraBody, compiling. 
+[2018.09.26-03.36.26:554][356]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.26-03.36.26:597][357]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_CineCam_ViewFinder, compiling. 
+[2018.09.26-03.36.26:612][357]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.26-03.36.26:612][357]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_CineCam_ViewFinder, compiling. 
+[2018.09.26-03.36.26:624][357]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.26-03.36.32:150][510]Job is a success!
+[2018.09.26-03.36.32:213][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-03.36.32:294][511]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2018.09.26-03.36.32:294][511]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.09.26-03.36.32:294][511]LogVolumetricLightmapImport:      BrickData 365x5x5 = 0.4Mb
+[2018.09.26-03.36.32:294][511]LogVolumetricLightmapImport:      Bricks at Level
+[2018.09.26-03.36.32:294][511]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2018.09.26-03.36.32:294][511]LogVolumetricLightmapImport:          1: 21.9% covering 25.0% of volume
+[2018.09.26-03.36.32:294][511]LogVolumetricLightmapImport:          2: 76.7% covering 1.4% of volume
+[2018.09.26-03.36.32:373][511]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2018.09.26-03.36.32:373][511]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.09.26-03.36.32:373][511]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.09.26-03.36.32:373][511]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X64)
+[2018.09.26-03.36.32:440][511]Lightmass on DESKTOP-2QNA1SC: 3.47 sec total, 276 ms importing, 52 ms setup, 1.07 sec photons, 2.05 sec processing, 0 ms extra exporting [4/4 mappings]. Threads: 14.1 sec total, 2.84 sec processing.
+[2018.09.26-03.36.32:520][511]LogStaticLightingSystem: Illumination: 12.9 sec (49 ms encoding lightmaps, 9 ms encoding shadowmaps)
+[2018.09.26-03.36.32:521][511]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.09.26-03.36.32:521][511]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2018.09.26-03.36.33:154][511]DumpUnbuiltLightIteractions
+[2018.09.26-03.36.33:154][511]Lights with unbuilt interactions: 0
+[2018.09.26-03.36.33:154][511]
+[2018.09.26-03.36.33:154][511]Primitives with unbuilt interactions: 0
+[2018.09.26-03.36.33:161][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-03.36.33:229][512]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.26-03.36.33:229][512]MapCheck: New page: Range - Sep 25, 2018, 1:36:33 PM
+[2018.09.26-03.36.33:357][512]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 128.38ms to complete.
+[2018.09.26-03.36.36:743][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.26-03.36.37:120][787]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.26-03.36.39:044][966]LogEditorViewport: Clicking on Actor (LMB): VR_Player_C (VR_Player)
+[2018.09.26-03.36.40:277][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.36.41:231][150]LogEditorActor: Deleted Actor: PlayerStart
+[2018.09.26-03.36.41:285][150]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2018.09.26-03.36.43:253][354]LogTemp: Repeating last play command: Simulate
+[2018.09.26-03.36.43:315][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-03.36.43:315][354]PIE: New page: SIE session: Range (Sep 25, 2018, 1:36:43 PM)
+[2018.09.26-03.36.43:315][354]LogPlayLevel: Creating play world package: /Game/Holodeck/Level/UEDPIE_0_Range
+[2018.09.26-03.36.43:319][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003162s)
+[2018.09.26-03.36.43:320][354]LogAIModule: Creating AISystem for world Range
+[2018.09.26-03.36.43:320][354]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2018.09.26-03.36.43:320][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Holodeck/Level/Range.Range to /Game/Holodeck/Level/UEDPIE_0_Range.Range (0.004705s)
+[2018.09.26-03.36.43:382][354]LogInit: XAudio2 using 'Speakers (2- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.09.26-03.36.43:400][354]LogInit: FAudioDevice initialized.
+[2018.09.26-03.36.43:434][354]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.09.26-03.36.43:437][354]LogWorld: Bringing World /Game/Holodeck/Level/UEDPIE_0_Range.Range up for play (max tick rate 0) at 2018.09.25-20.36.43
+[2018.09.26-03.36.43:437][354]LogWorld: Bringing up level for play took: 0.001335
+[2018.09.26-03.36.43:449][354]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-03.36.43:454][354]PIE: Play in editor start time for /Game/Holodeck/Level/UEDPIE_0_Range -0.584
+[2018.09.26-03.36.49:298][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.26-03.36.50:565][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.36.50:658][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.36.50:713][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-03.36.50:767][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.36.50:790][810]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.09.26-03.36.51:395][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.26-03.36.54:092][109]LogEditorViewport: Clicking on Actor (LMB): Phaser_TNG_Type_2_C (Phaser_TNG_Type_2)
+[2018.09.26-03.37.04:447][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.26-03.37.08:152][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.37.15:759][769]LogEditorViewport: Clicking on Actor (LMB): Phaser_TNG_Type_2_C (Phaser_TNG_Type_2)
+[2018.09.26-03.37.17:541][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.26-03.37.20:921][135]LogEditorViewport: Clicking on Actor (LMB): Phaser_TNG_Type_2_C (Phaser_TNG_Type_2)
+[2018.09.26-03.37.22:931][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.44.37:703][167]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/BP_Weapon_Parent4382093A49BB428B62B374B1D44B6300.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/GameObjects/BP_Weapon_Parent.uasset'
+[2018.09.26-03.45.03:482][194]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Range5CB6E3084D21BA509BAA2EBB4458FA48.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap'
+[2018.09.26-03.45.03:534][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Holodeck/Level/Range_BuiltData" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range_BuiltData.uasset" SILENT=true
+[2018.09.26-03.45.03:567][194]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Range_BuiltDataE7C1C02B4F7F971E569E60BBB3AAA597.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range_BuiltData.uasset'
+[2018.09.26-03.45.04:963][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.45.05:036][344]LogTemp: Repeating last play command: Simulate
+[2018.09.26-03.45.05:060][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-03.45.05:060][344]PIE: New page: SIE session: Range (Sep 25, 2018, 1:45:05 PM)
+[2018.09.26-03.45.05:061][344]LogPlayLevel: Creating play world package: /Game/Holodeck/Level/UEDPIE_0_Range
+[2018.09.26-03.45.05:063][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002389s)
+[2018.09.26-03.45.05:064][344]LogAIModule: Creating AISystem for world Range
+[2018.09.26-03.45.05:064][344]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2018.09.26-03.45.05:064][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Holodeck/Level/Range.Range to /Game/Holodeck/Level/UEDPIE_0_Range.Range (0.003739s)
+[2018.09.26-03.45.05:115][344]LogInit: XAudio2 using 'Speakers (2- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.09.26-03.45.05:130][344]LogInit: FAudioDevice initialized.
+[2018.09.26-03.45.05:166][344]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.09.26-03.45.05:168][344]LogWorld: Bringing World /Game/Holodeck/Level/UEDPIE_0_Range.Range up for play (max tick rate 0) at 2018.09.25-20.45.05
+[2018.09.26-03.45.05:169][344]LogWorld: Bringing up level for play took: 0.001098
+[2018.09.26-03.45.05:181][344]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-03.45.05:186][344]PIE: Play in editor start time for /Game/Holodeck/Level/UEDPIE_0_Range -0.852
+[2018.09.26-03.45.06:556][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.45.06:604][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-03.45.06:652][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.45.06:670][467]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.09.26-03.45.07:404][551]LogTemp: Repeating last play command: Simulate
+[2018.09.26-03.45.07:426][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-03.45.07:426][551]PIE: New page: SIE session: Range (Sep 25, 2018, 1:45:07 PM)
+[2018.09.26-03.45.07:426][551]LogPlayLevel: Creating play world package: /Game/Holodeck/Level/UEDPIE_0_Range
+[2018.09.26-03.45.07:429][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002153s)
+[2018.09.26-03.45.07:429][551]LogAIModule: Creating AISystem for world Range
+[2018.09.26-03.45.07:430][551]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2018.09.26-03.45.07:430][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Holodeck/Level/Range.Range to /Game/Holodeck/Level/UEDPIE_0_Range.Range (0.003258s)
+[2018.09.26-03.45.07:474][551]LogInit: XAudio2 using 'Speakers (2- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.09.26-03.45.07:489][551]LogInit: FAudioDevice initialized.
+[2018.09.26-03.45.07:523][551]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.09.26-03.45.07:525][551]LogWorld: Bringing World /Game/Holodeck/Level/UEDPIE_0_Range.Range up for play (max tick rate 0) at 2018.09.25-20.45.07
+[2018.09.26-03.45.07:526][551]LogWorld: Bringing up level for play took: 0.000976
+[2018.09.26-03.45.07:538][551]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-03.45.07:542][551]PIE: Play in editor start time for /Game/Holodeck/Level/UEDPIE_0_Range -0.495
+[2018.09.26-03.45.08:582][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.45.08:624][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-03.45.08:672][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.45.08:699][644]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.09.26-03.45.10:368][834]LogTemp: Repeating last play command: Simulate
+[2018.09.26-03.45.10:391][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-03.45.10:391][834]PIE: New page: SIE session: Range (Sep 25, 2018, 1:45:10 PM)
+[2018.09.26-03.45.10:391][834]LogPlayLevel: Creating play world package: /Game/Holodeck/Level/UEDPIE_0_Range
+[2018.09.26-03.45.10:394][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002038s)
+[2018.09.26-03.45.10:394][834]LogAIModule: Creating AISystem for world Range
+[2018.09.26-03.45.10:394][834]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2018.09.26-03.45.10:395][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Holodeck/Level/Range.Range to /Game/Holodeck/Level/UEDPIE_0_Range.Range (0.003113s)
+[2018.09.26-03.45.10:447][834]LogInit: XAudio2 using 'Speakers (2- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.09.26-03.45.10:460][834]LogInit: FAudioDevice initialized.
+[2018.09.26-03.45.10:497][834]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.09.26-03.45.10:499][834]LogWorld: Bringing World /Game/Holodeck/Level/UEDPIE_0_Range.Range up for play (max tick rate 0) at 2018.09.25-20.45.10
+[2018.09.26-03.45.10:499][834]LogWorld: Bringing up level for play took: 0.001044
+[2018.09.26-03.45.10:512][834]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-03.45.10:515][834]PIE: Play in editor start time for /Game/Holodeck/Level/UEDPIE_0_Range 0.477
+[2018.09.26-03.45.12:432][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.45.12:475][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-03.45.12:520][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.45.12:537][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.09.26-03.45.23:636][291]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Range86CBF1C547E9370CDA10509F973F2E69.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap'
+[2018.09.26-03.45.23:692][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Holodeck/Level/Range_BuiltData" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range_BuiltData.uasset" SILENT=true
+[2018.09.26-03.45.23:726][291]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Range_BuiltData7CE7557D43649E7EC6FD5E85825A81DE.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range_BuiltData.uasset'
+[2018.09.26-03.45.24:988][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.45.25:071][433]MapCheck: New page: Map Check
+[2018.09.26-03.45.25:103][433]Cmd: MAP REBUILD ALLVISIBLE
+[2018.09.26-03.45.25:103][433]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.09.26-03.45.25:183][433]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_CineMat_CameraBody, compiling. 
+[2018.09.26-03.45.25:194][433]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_CineCam_ViewFinder, compiling. 
+[2018.09.26-03.45.25:203][433]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.26-03.45.25:203][433]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.09.26-03.45.25:211][433]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.26-03.45.25:211][433]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.26-03.45.25:212][433]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.09.26-03.45.26:171][433]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.26-03.45.26:171][433]TextureStreamingBuild: Display: Compiling optional shaders took 0.993 seconds.
+[2018.09.26-03.45.26:176][433]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2018.09.26-03.45.26:189][433]TextureStreamingBuild: Display: Build Texture Streaming took 0.012 seconds.
+[2018.09.26-03.45.26:245][433]LightingResults: New page: Lighting Build - Sep 25, 2018, 1:45:26 PM
+[2018.09.26-03.45.26:257][433]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.26-03.45.26:261][433]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.26-03.45.26:261][433]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.26-03.45.26:263][433]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.26-03.45.26:263][433]LogSwarmInterface: [TryOpenConnection] Local Process ID is 21756
+[2018.09.26-03.45.30:781][433]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.09.26-03.45.30:781][433]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.26-03.45.30:781][433]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.26-03.45.30:781][433]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.26-03.45.30:781][433]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.26-03.45.30:781][433]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.26-03.45.30:876][433]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.09.26-03.45.30:876][433]MapCheck: New page: Range - Sep 25, 2018, 1:45:30 PM
+[2018.09.26-03.45.30:876][433]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.09.26-03.45.30:988][433]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 112.21ms to complete.
+[2018.09.26-03.45.31:012][433]LogEditorBuildUtils: Build time 0:05
+[2018.09.26-03.45.34:677][619]Job is a success!
+[2018.09.26-03.45.34:713][620]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-03.45.34:790][620]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.023s
+[2018.09.26-03.45.34:790][620]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.09.26-03.45.34:790][620]LogVolumetricLightmapImport:      BrickData 365x5x5 = 0.4Mb
+[2018.09.26-03.45.34:790][620]LogVolumetricLightmapImport:      Bricks at Level
+[2018.09.26-03.45.34:790][620]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2018.09.26-03.45.34:790][620]LogVolumetricLightmapImport:          1: 21.9% covering 25.0% of volume
+[2018.09.26-03.45.34:790][620]LogVolumetricLightmapImport:          2: 76.7% covering 1.4% of volume
+[2018.09.26-03.45.34:882][620]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2018.09.26-03.45.34:882][620]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.09.26-03.45.34:882][620]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.09.26-03.45.34:882][620]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X64)
+[2018.09.26-03.45.34:922][620]Lightmass on DESKTOP-2QNA1SC: 3.18 sec total, 296 ms importing, 51 ms setup, 989 ms photons, 1.81 sec processing, 0 ms extra exporting [4/4 mappings]. Threads: 12.5 sec total, 2.89 sec processing.
+[2018.09.26-03.45.35:032][620]LogStaticLightingSystem: Illumination: 8.75 sec (62 ms encoding lightmaps, 11 ms encoding shadowmaps)
+[2018.09.26-03.45.35:032][620]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.09.26-03.45.35:032][620]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2018.09.26-03.45.39:791][620]DumpUnbuiltLightIteractions
+[2018.09.26-03.45.39:791][620]Lights with unbuilt interactions: 0
+[2018.09.26-03.45.39:791][620]
+[2018.09.26-03.45.39:791][620]Primitives with unbuilt interactions: 0
+[2018.09.26-03.45.39:910][621]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.26-03.45.39:910][621]MapCheck: New page: Range - Sep 25, 2018, 1:45:39 PM
+[2018.09.26-03.45.40:199][621]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 288.795ms to complete.
+[2018.09.26-03.48.20:837][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.48.25:019][771]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Holodeck/Assets/Phaser_TNG_Gen_2.Phaser_TNG_Gen_2
+[2018.09.26-03.48.25:870][772]LogRenderer: Reallocating scene render targets to support 1144x716 Format 26 NumSamples 1 (Frame:1).
+[2018.09.26-03.48.32:107][287]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-03.48.39:354][871]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-03.49.53:118][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-03.49.54:027][751]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-03.50.42:382][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.51.23:831][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.51.25:069][570]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Range8A0A48264DB6FE0B18FDA7891EEBC766.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap'
+[2018.09.26-03.51.25:133][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Holodeck/Level/Range_BuiltData" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range_BuiltData.uasset" SILENT=true
+[2018.09.26-03.51.25:176][570]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Range_BuiltData69BA14D84C3EA7AC948C91BCA615AE16.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range_BuiltData.uasset'
+[2018.09.26-03.51.29:384][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.51.29:470][ 10]LogTemp: Repeating last play command: Simulate
+[2018.09.26-03.51.29:501][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-03.51.29:501][ 10]PIE: New page: SIE session: Range (Sep 25, 2018, 1:51:29 PM)
+[2018.09.26-03.51.29:501][ 10]LogPlayLevel: Creating play world package: /Game/Holodeck/Level/UEDPIE_0_Range
+[2018.09.26-03.51.29:505][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003770s)
+[2018.09.26-03.51.29:506][ 10]LogAIModule: Creating AISystem for world Range
+[2018.09.26-03.51.29:506][ 10]LogPlayLevel: PIE: World Init took: (0.001287s)
+[2018.09.26-03.51.29:506][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Holodeck/Level/Range.Range to /Game/Holodeck/Level/UEDPIE_0_Range.Range (0.005318s)
+[2018.09.26-03.51.29:571][ 10]LogInit: XAudio2 using 'Speakers (2- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.09.26-03.51.29:589][ 10]LogInit: FAudioDevice initialized.
+[2018.09.26-03.51.29:628][ 10]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.09.26-03.51.29:631][ 10]LogWorld: Bringing World /Game/Holodeck/Level/UEDPIE_0_Range.Range up for play (max tick rate 0) at 2018.09.25-20.51.29
+[2018.09.26-03.51.29:631][ 10]LogWorld: Bringing up level for play took: 0.001437
+[2018.09.26-03.51.29:645][ 10]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-03.51.29:650][ 10]PIE: Play in editor start time for /Game/Holodeck/Level/UEDPIE_0_Range -0.388
+[2018.09.26-03.51.30:761][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.51.30:811][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-03.51.30:851][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.51.30:873][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.09.26-03.51.32:487][258]LogTemp: Repeating last play command: Simulate
+[2018.09.26-03.51.32:522][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-03.51.32:522][258]PIE: New page: SIE session: Range (Sep 25, 2018, 1:51:32 PM)
+[2018.09.26-03.51.32:523][258]LogPlayLevel: Creating play world package: /Game/Holodeck/Level/UEDPIE_0_Range
+[2018.09.26-03.51.32:526][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003056s)
+[2018.09.26-03.51.32:527][258]LogAIModule: Creating AISystem for world Range
+[2018.09.26-03.51.32:527][258]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2018.09.26-03.51.32:527][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Holodeck/Level/Range.Range to /Game/Holodeck/Level/UEDPIE_0_Range.Range (0.004937s)
+[2018.09.26-03.51.32:590][258]LogInit: XAudio2 using 'Speakers (2- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.09.26-03.51.32:609][258]LogInit: FAudioDevice initialized.
+[2018.09.26-03.51.32:643][258]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.09.26-03.51.32:646][258]LogWorld: Bringing World /Game/Holodeck/Level/UEDPIE_0_Range.Range up for play (max tick rate 0) at 2018.09.25-20.51.32
+[2018.09.26-03.51.32:647][258]LogWorld: Bringing up level for play took: 0.001411
+[2018.09.26-03.51.32:659][258]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-03.51.32:664][258]PIE: Play in editor start time for /Game/Holodeck/Level/UEDPIE_0_Range 0.627
+[2018.09.26-03.51.36:138][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.51.36:205][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.51.36:252][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-03.51.36:306][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.51.36:330][522]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.09.26-03.51.44:668][329]LogEditorViewport: Clicking on Actor (LMB): Phaser_TNG_Type_2_C (Phaser_TNG_Type_2)
+[2018.09.26-03.51.44:870][343]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.26-03.51.46:951][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.51.47:024][503]LogTemp: Repeating last play command: Simulate
+[2018.09.26-03.51.47:058][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-03.51.47:059][503]PIE: New page: SIE session: Range (Sep 25, 2018, 1:51:47 PM)
+[2018.09.26-03.51.47:059][503]LogPlayLevel: Creating play world package: /Game/Holodeck/Level/UEDPIE_0_Range
+[2018.09.26-03.51.47:061][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002548s)
+[2018.09.26-03.51.47:063][503]LogAIModule: Creating AISystem for world Range
+[2018.09.26-03.51.47:063][503]LogPlayLevel: PIE: World Init took: (0.001670s)
+[2018.09.26-03.51.47:063][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Holodeck/Level/Range.Range to /Game/Holodeck/Level/UEDPIE_0_Range.Range (0.004547s)
+[2018.09.26-03.51.47:143][503]LogInit: XAudio2 using 'Speakers (2- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.09.26-03.51.47:165][503]LogInit: FAudioDevice initialized.
+[2018.09.26-03.51.47:206][503]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.09.26-03.51.47:208][503]LogWorld: Bringing World /Game/Holodeck/Level/UEDPIE_0_Range.Range up for play (max tick rate 0) at 2018.09.25-20.51.47
+[2018.09.26-03.51.47:209][503]LogWorld: Bringing up level for play took: 0.001454
+[2018.09.26-03.51.47:222][503]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-03.51.47:227][503]PIE: Play in editor start time for /Game/Holodeck/Level/UEDPIE_0_Range -0.81
+[2018.09.26-03.51.48:198][555]LogEditorViewport: Clicking on Actor (LMB): Phaser_TNG_Type_2_C (Phaser_TNG_Type_2)
+[2018.09.26-03.51.53:905][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.51.53:992][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.51.54:044][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-03.51.54:103][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.51.54:136][906]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.09.26-03.51.54:771][965]LogEditorViewport: Clicking on Actor (LMB): Phaser_TNG_Type_2_C (Phaser_TNG_Type_2)
+[2018.09.26-03.51.56:531][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.51.56:604][111]LogTemp: Repeating last play command: Simulate
+[2018.09.26-03.51.56:639][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-03.51.56:640][111]PIE: New page: SIE session: Range (Sep 25, 2018, 1:51:56 PM)
+[2018.09.26-03.51.56:640][111]LogPlayLevel: Creating play world package: /Game/Holodeck/Level/UEDPIE_0_Range
+[2018.09.26-03.51.56:643][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003252s)
+[2018.09.26-03.51.56:644][111]LogAIModule: Creating AISystem for world Range
+[2018.09.26-03.51.56:645][111]LogPlayLevel: PIE: World Init took: (0.001572s)
+[2018.09.26-03.51.56:645][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Holodeck/Level/Range.Range to /Game/Holodeck/Level/UEDPIE_0_Range.Range (0.005129s)
+[2018.09.26-03.51.56:727][111]LogInit: XAudio2 using 'Speakers (2- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.09.26-03.51.56:747][111]LogInit: FAudioDevice initialized.
+[2018.09.26-03.51.56:782][111]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.09.26-03.51.56:785][111]LogWorld: Bringing World /Game/Holodeck/Level/UEDPIE_0_Range.Range up for play (max tick rate 0) at 2018.09.25-20.51.56
+[2018.09.26-03.51.56:785][111]LogWorld: Bringing up level for play took: 0.001829
+[2018.09.26-03.51.56:798][111]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.26-03.51.56:804][111]PIE: Play in editor start time for /Game/Holodeck/Level/UEDPIE_0_Range 0.766
+[2018.09.26-03.51.59:056][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.51.59:105][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-03.51.59:165][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-03.51.59:192][276]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.09.26-03.52.06:796][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.52.07:047][970]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Range020E813443DB9503C501568A9CF4F48D.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap'
+[2018.09.26-03.52.07:113][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Holodeck/Level/Range_BuiltData" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range_BuiltData.uasset" SILENT=true
+[2018.09.26-03.52.07:152][970]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Range_BuiltData4DFCB94E4E1977011D6860A1DF2BD9EE.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range_BuiltData.uasset'
+[2018.09.26-03.54.53:259][273]LogEditorViewport: Clicking on Actor (LMB): Phaser_TNG_Type_2_C (Phaser_TNG_Type_2)
+[2018.09.26-03.54.53:402][285]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.26-03.55.05:562][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.55.08:361][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.55.25:933][322]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Holodeck/Assets/PhaserRangeFloor.PhaserRangeFloor
+[2018.09.26-03.55.27:778][428]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Holodeck/Assets/Phaser_TNG_Gen_2.Phaser_TNG_Gen_2
+[2018.09.26-03.57.11:103][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.57.17:402][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PhaserRangeRing)
+[2018.09.26-03.57.19:371][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-03.57.20:479][872]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Holodeck/Assets/PhaserRangeRing.PhaserRangeRing
+[2018.09.26-04.01.45:817][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-04.02.02:291][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-04.02.02:472][915]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Phaser_TNG_Type_236237A9E4896F0F3C219F789E1365163.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/GameObjects/Phaser_TNG_Type_2.uasset'
+[2018.09.26-04.02.03:248][961]BlueprintLog: New page: Compile Phaser_TNG_Type_2
+[2018.09.26-04.02.09:534][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.26-04.02.09:807][379]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.26-04.02.12:316][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PhaserRangeFloor)
+[2018.09.26-04.02.12:757][584]LogEditorViewport: Clicking on Actor (LMB): Phaser_TNG_Type_2_C (Phaser_TNG_Type_2)
+[2018.09.26-04.02.13:123][608]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.26-04.02.28:621][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-04.02.29:553][826]LogSlate: Window 'Save Content' being destroyed
+[2018.09.26-04.02.29:638][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorMeshes/Camera/MI_CineCam_ViewFinder" FILE="../../../Engine/Content/EditorMeshes/Camera/MI_CineCam_ViewFinder.uasset" SILENT=true
+[2018.09.26-04.02.29:688][826]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/MI_CineCam_ViewFinder9E7716AF46F424F1B112EAB00C841D6F.tmp' to '../../../Engine/Content/EditorMeshes/Camera/MI_CineCam_ViewFinder.uasset'
+[2018.09.26-04.02.29:724][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineDebugMaterials/M_SimpleOpaque" FILE="../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset" SILENT=true
+[2018.09.26-04.02.29:768][826]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/M_SimpleOpaque8784D0944C3239DB185B6BA1527A8424.tmp' to '../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset'
+[2018.09.26-04.02.29:847][826]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Phaser_TNG_Gen_24DB1959549E3F9BC4E1C34875579116D.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Assets/Phaser_TNG_Gen_2.uasset'
+[2018.09.26-04.02.32:409][826]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Range11A35EA34A15454530002AAC8E79F5F3.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap'
+[2018.09.26-04.02.32:467][826]LogFileHelpers: Saving map 'Range' took 2.608
