@@ -14,7 +14,6 @@
 /Ob2
 /errorReport:prompt
 /EHsc
-/Z7
 /MD
 /bigobj
 /fp:fast
@@ -24,8 +23,25 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\darkm\Documents\GitHub\PhaserRange\Holodeck2\Source
-/I C:\Users\darkm\Documents\GitHub\PhaserRange\Holodeck2\Source\Holodeck2
+/I D:\GitHub\PhaserRange\Holodeck2\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd
+/I Editor
+/I Programs\UnrealLightmass\Public
+/I Editor\UnrealEd\Classes
+/I Editor\UnrealEd\Public
+/I Editor\UnrealEd
+/I Editor\UnrealEd\Public\AutoReimport
+/I Editor\UnrealEd\Public\Commandlets
+/I Editor\UnrealEd\Public\Dialogs
+/I Editor\UnrealEd\Public\DragAndDrop
+/I Editor\UnrealEd\Public\Features
+/I Editor\UnrealEd\Public\Kismet2
+/I Editor\UnrealEd\Public\Layers
+/I Editor\UnrealEd\Public\Settings
+/I Editor\UnrealEd\Public\Tests
+/I Editor\UnrealEd\Public\Toolkits
+/I Editor\BspMode\Public
+/I Editor\BspMode
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -66,6 +82,18 @@
 /I Runtime\CoreUObject\Public\Serialization\Formatters
 /I Runtime\CoreUObject\Public\Templates
 /I Runtime\CoreUObject\Public\UObject
+/I Runtime\ApplicationCore\Public
+/I Runtime\ApplicationCore
+/I Runtime\ApplicationCore\Public\GenericPlatform
+/I Runtime\ApplicationCore\Public\HAL
+/I Runtime\ApplicationCore\Public\Windows
+/I Runtime\RHI\Public
+/I Runtime\RHI
+/I Developer
+/I Developer\DirectoryWatcher\Public
+/I Developer\DirectoryWatcher
+/I Editor\Documentation\Public
+/I Editor\Documentation
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
@@ -85,13 +113,6 @@
 /I Runtime\Engine\Public\Slate
 /I Runtime\Engine\Public\Tests
 /I Runtime\Engine\Public\VisualLogger
-/I Runtime\ApplicationCore\Public
-/I Runtime\ApplicationCore
-/I Runtime\ApplicationCore\Public\GenericPlatform
-/I Runtime\ApplicationCore\Public\HAL
-/I Runtime\ApplicationCore\Public\Windows
-/I Runtime\RHI\Public
-/I Runtime\RHI
 /I Runtime\Json\Public
 /I Runtime\Json
 /I Runtime\Json\Public\Dom
@@ -192,29 +213,30 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MeshDescription
 /I Runtime\MeshDescription\Public
 /I Runtime\MeshDescription
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd
-/I Editor
-/I Programs\UnrealLightmass\Public
-/I Editor\UnrealEd\Classes
-/I Editor\UnrealEd\Public
-/I Editor\UnrealEd
-/I Editor\UnrealEd\Public\AutoReimport
-/I Editor\UnrealEd\Public\Commandlets
-/I Editor\UnrealEd\Public\Dialogs
-/I Editor\UnrealEd\Public\DragAndDrop
-/I Editor\UnrealEd\Public\Features
-/I Editor\UnrealEd\Public\Kismet2
-/I Editor\UnrealEd\Public\Layers
-/I Editor\UnrealEd\Public\Settings
-/I Editor\UnrealEd\Public\Tests
-/I Editor\UnrealEd\Public\Toolkits
-/I Editor\BspMode\Public
-/I Editor\BspMode
-/I Developer
-/I Developer\DirectoryWatcher\Public
-/I Developer\DirectoryWatcher
-/I Editor\Documentation\Public
-/I Editor\Documentation
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Kismet
+/I Editor\Kismet\Classes
+/I Editor\Kismet\Public
+/I Editor\Kismet
+/I Editor\Kismet\Public\Nodes
+/I Editor\Kismet\Public\WorkflowOrientedApp
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
+/I Runtime\ClothingSystemRuntimeInterface\Public
+/I Runtime\ClothingSystemRuntimeInterface
+/I Runtime\NetworkReplayStreaming
+/I Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Public
+/I Runtime\NetworkReplayStreaming\NetworkReplayStreaming
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer
+/I Runtime\AudioMixer\Classes
+/I Runtime\AudioMixer\Public
+/I Runtime\AudioMixer
+/I Runtime\AudioMixer\Public\Components
+/I Runtime\AudioMixer\Public\DSP
+/I ThirdParty
+/I ThirdParty\libSampleRate\Public
+/I ThirdParty\libSampleRate
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimationCore
+/I Runtime\AnimationCore\Public
+/I Runtime\AnimationCore
 /I Runtime\Projects\Public
 /I Runtime\Projects
 /I Runtime\Projects\Public\Interfaces
@@ -335,9 +357,6 @@
 /I Runtime\MovieSceneTracks\Public\Evaluation
 /I Runtime\MovieSceneTracks\Public\Sections
 /I Runtime\MovieSceneTracks\Public\Tracks
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimationCore
-/I Runtime\AnimationCore\Public
-/I Runtime\AnimationCore
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath
 /I Runtime\PropertyPath\Public
 /I Runtime\PropertyPath
@@ -353,7 +372,6 @@
 /I Runtime\Windows
 /I Runtime\Windows\XAudio2\Public
 /I Runtime\Windows\XAudio2
-/I Runtime\AudioMixer\Public
 /I Runtime\Windows\AudioMixerXAudio2
 /I Developer\CollectionManager\Public
 /I Developer\CollectionManager
@@ -383,35 +401,63 @@
 /I Runtime\AIModule\Public
 /I Runtime\AIModule\Classes
 /I Runtime\AIModule
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Kismet
-/I Editor\Kismet\Classes
-/I Editor\Kismet\Public
-/I Editor\Kismet
-/I Editor\Kismet\Public\Nodes
-/I Editor\Kismet\Public\WorkflowOrientedApp
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
-/I Runtime\ClothingSystemRuntimeInterface\Public
-/I Runtime\ClothingSystemRuntimeInterface
-/I Runtime\NetworkReplayStreaming
-/I Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Public
-/I Runtime\NetworkReplayStreaming\NetworkReplayStreaming
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer
-/I Runtime\AudioMixer\Classes
-/I Runtime\AudioMixer
-/I Runtime\AudioMixer\Public\Components
-/I Runtime\AudioMixer\Public\DSP
-/I ThirdParty
-/I ThirdParty\libSampleRate\Public
-/I ThirdParty\libSampleRate
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\INCLUDE"
+/I ..\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles
+/I ..\Plugins\Runtime\PhysXVehicles\Source
+/I ..\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public
+/I ..\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime
+/I Runtime\AnimGraphRuntime\Public
+/I Runtime\AnimGraphRuntime
+/I Runtime\AnimGraphRuntime\Public\AnimNodes
+/I Runtime\AnimGraphRuntime\Public\AnimNotifies
+/I Runtime\AnimGraphRuntime\Public\BoneControllers
+/I Runtime\AnimGraphRuntime\Public\RBF
+/I ..\Plugins\Runtime\PhysXVehicles\Source\ThirdParty
+/I D:\GitHub\PhaserRange\Holodeck2\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin
+/I D:\GitHub\PhaserRange\Holodeck2\Plugins\VRExpansionPlugin\Source
+/I Runtime\Engine\Private\PhysicsEngine
+/I D:\GitHub\PhaserRange\Holodeck2\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public
+/I D:\GitHub\PhaserRange\Holodeck2\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin
+/I D:\GitHub\PhaserRange\Holodeck2\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables
+/I D:\GitHub\PhaserRange\Holodeck2\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts
+/I D:\GitHub\PhaserRange\Holodeck2\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles
+/I D:\GitHub\PhaserRange\Holodeck2\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc
+/I D:\GitHub\PhaserRange\Holodeck2\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\SimpleChar
+/I ThirdParty\PhysX3\PxShared\include
+/I ThirdParty\PhysX3\PxShared\include\cudamanager
+/I ThirdParty\PhysX3\PxShared\include\filebuf
+/I ThirdParty\PhysX3\PxShared\include\foundation
+/I ThirdParty\PhysX3\PxShared\include\pvd
+/I ThirdParty\PhysX3\PxShared\include\task
+/I ThirdParty\PhysX3\PhysX_3.4\Include
+/I ThirdParty\PhysX3\PhysX_3.4\Include\cooking
+/I ThirdParty\PhysX3\PhysX_3.4\Include\common
+/I ThirdParty\PhysX3\PhysX_3.4\Include\extensions
+/I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
+/I ThirdParty\PhysX3\APEX_1.4\include
+/I ThirdParty\PhysX3\APEX_1.4\include\clothing
+/I ThirdParty\PhysX3\APEX_1.4\include\nvparameterized
+/I ThirdParty\PhysX3\APEX_1.4\include\legacy
+/I ThirdParty\PhysX3\APEX_1.4\include\PhysX3
+/I ThirdParty\PhysX3\APEX_1.4\common\include
+/I ThirdParty\PhysX3\APEX_1.4\common\include\autogen
+/I ThirdParty\PhysX3\APEX_1.4\framework\include
+/I ThirdParty\PhysX3\APEX_1.4\framework\include\autogen
+/I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
+/I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
+/I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
+/I "D:\Visual Studio 2017\VC\Tools\MSVC\14.15.26726\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-"C:\Users\darkm\Documents\GitHub\PhaserRange\Holodeck2\Source\Holodeck2\MyClass.cpp"
-/FI"C:\Users\darkm\Documents\GitHub\PhaserRange\Holodeck2\Intermediate\Build\Win64\UE4Editor\Development\Holodeck2\Definitions.h"
-/Fo"C:\Users\darkm\Documents\GitHub\PhaserRange\Holodeck2\Intermediate\Build\Win64\UE4Editor\Development\Holodeck2\MyClass.cpp.obj"
+/FI"D:\GitHub\PhaserRange\Holodeck2\Intermediate\Build\Win64\Holodeck2Editor\Development\UnrealEd\SharedPCH.UnrealEd.h"
+/Yu"D:\GitHub\PhaserRange\Holodeck2\Intermediate\Build\Win64\Holodeck2Editor\Development\UnrealEd\SharedPCH.UnrealEd.h"
+/Fp"D:\GitHub\PhaserRange\Holodeck2\Intermediate\Build\Win64\Holodeck2Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.pch"
+"D:\GitHub\PhaserRange\Holodeck2\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.9_of_9.cpp"
+/FI"D:\GitHub\PhaserRange\Holodeck2\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h"
+/Fo"D:\GitHub\PhaserRange\Holodeck2\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.9_of_9.cpp.obj"
 /TP
 /GR-
 /W4

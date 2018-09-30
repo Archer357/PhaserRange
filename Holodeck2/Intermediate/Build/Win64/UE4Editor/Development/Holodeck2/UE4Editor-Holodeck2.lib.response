@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-Holodeck2.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\GitHub\PhaserRange\Holodeck2\Intermediate\Build\Win64\Holodeck2Editor\Development\Engine\SharedPCH.Engine.h.obj"
-"D:\GitHub\PhaserRange\Holodeck2\Intermediate\Build\Win64\UE4Editor\Development\Holodeck2\Holodeck2.cpp.obj"
-"D:\GitHub\PhaserRange\Holodeck2\Intermediate\Build\Win64\UE4Editor\Development\Holodeck2\MyClass.cpp.obj"
-"D:\GitHub\PhaserRange\Holodeck2\Intermediate\Build\Win64\UE4Editor\Development\Holodeck2\PCLaunch.rc.res"
-/OUT:"D:\GitHub\PhaserRange\Holodeck2\Intermediate\Build\Win64\UE4Editor\Development\Holodeck2\UE4Editor-Holodeck2.lib"
+"C:\Users\darkm\Documents\GitHub\PhaserRange\Holodeck2\Intermediate\Build\Win64\Holodeck2Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\darkm\Documents\GitHub\PhaserRange\Holodeck2\Intermediate\Build\Win64\UE4Editor\Development\Holodeck2\Holodeck2.cpp.obj"
+"C:\Users\darkm\Documents\GitHub\PhaserRange\Holodeck2\Intermediate\Build\Win64\UE4Editor\Development\Holodeck2\MyClass.cpp.obj"
+"C:\Users\darkm\Documents\GitHub\PhaserRange\Holodeck2\Intermediate\Build\Win64\UE4Editor\Development\Holodeck2\PCLaunch.rc.res"
+/OUT:"C:\Users\darkm\Documents\GitHub\PhaserRange\Holodeck2\Intermediate\Build\Win64\UE4Editor\Development\Holodeck2\UE4Editor-Holodeck2.lib"
