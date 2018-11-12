@@ -1,0 +1,990 @@
+﻿Log file open, 11/11/18 17:14:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Holodeck2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.447434
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin VRExpansionPlugin
+LogStreaming: Display: Took  0.149s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-5930K CPU @ 3.50GHz, GPU: AMD Radeon (TM) R9 390 Series
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: E:/Unreal/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.12-01.14.18:866][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.12-01.14.18:866][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.12-01.14.18:886][  0]LogHAL: Display: Platform has ~ 16 GB [17070399488 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.12-01.14.18:886][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.12-01.14.18:886][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.12-01.14.18:906][  0]LogInit: Computer: CAPTAINARCHER
+[2018.11.12-01.14.18:906][  0]LogInit: User: ENDER
+[2018.11.12-01.14.18:906][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.11.12-01.14.18:906][  0]LogInit: High frequency timer resolution =3.417970 MHz
+[2018.11.12-01.14.18:906][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.12-01.14.18:906][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.12-01.14.18:906][  0]LogMemory: Process Physical Memory: 105.03 MB used, 105.03 MB peak
+[2018.11.12-01.14.18:906][  0]LogMemory: Process Virtual Memory: 97.39 MB used, 97.39 MB peak
+[2018.11.12-01.14.18:906][  0]LogMemory: Physical Memory: 9461.88 MB used,  6817.72 MB free, 16279.60 MB total
+[2018.11.12-01.14.18:906][  0]LogMemory: Virtual Memory: 4675.52 MB used,  6817.72 MB free, 134217728.00 MB total
+[2018.11.12-01.14.18:926][  0]LogInit: Using OS detected language (en-US).
+[2018.11.12-01.14.18:926][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.12-01.14.18:927][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.12-01.14.19:293][  0]LogStreaming: Display: Took  0.368s to InitEngineTextLocalization.
+[2018.11.12-01.14.19:293][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.12-01.14.19:348][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.12-01.14.19:348][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.12-01.14.19:566][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.12-01.14.19:566][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.12-01.14.19:601][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R9 390 Series' (Feature Level 11_0)
+[2018.11.12-01.14.19:601][  0]LogD3D11RHI:       8168/0/8139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.11.12-01.14.19:604][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.12-01.14.19:604][  0]LogD3D11RHI:       0/0/8139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.12-01.14.19:604][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.12-01.14.19:613][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.12-01.14.19:613][  0]LogD3D11RHI:     GPU DeviceId: 0x67b1 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.12-01.14.19:613][  0]LogWindows: EnumDisplayDevices:
+[2018.11.12-01.14.19:614][  0]LogWindows:    0. 'AMD Radeon (TM) R9 390 Series' (P:1 D:1)
+[2018.11.12-01.14.19:614][  0]LogWindows:    1. 'AMD Radeon (TM) R9 390 Series' (P:0 D:1)
+[2018.11.12-01.14.19:615][  0]LogWindows:    2. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.11.12-01.14.19:615][  0]LogWindows:    3. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.11.12-01.14.19:616][  0]LogWindows:    4. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.11.12-01.14.19:616][  0]LogWindows:    5. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.11.12-01.14.19:617][  0]LogWindows:    6. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.11.12-01.14.19:617][  0]LogWindows:    7. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.11.12-01.14.19:618][  0]LogWindows:    8. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.11.12-01.14.19:618][  0]LogWindows:    9. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.11.12-01.14.19:619][  0]LogWindows:    10. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.11.12-01.14.19:619][  0]LogWindows:    11. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.11.12-01.14.19:620][  0]LogWindows:    12. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.11.12-01.14.19:620][  0]LogWindows:    13. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.11.12-01.14.19:621][  0]LogWindows:    14. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.11.12-01.14.19:621][  0]LogWindows:    15. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.11.12-01.14.19:622][  0]LogWindows: DebugString: FoundDriverCount:16 
+[2018.11.12-01.14.19:622][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R9 390 Series
+[2018.11.12-01.14.19:622][  0]LogD3D11RHI:   Driver Version: Adrenalin 18.5.2 (internal:24.20.11019.1004, unified:24.20.11019.1004)
+[2018.11.12-01.14.19:622][  0]LogD3D11RHI:      Driver Date: 5-29-2018
+[2018.11.12-01.14.19:622][  0]LogRHI: Texture pool is 5717 MB (70% of 8168 MB)
+[2018.11.12-01.14.19:731][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.12-01.14.19:743][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.11.12-01.14.19:745][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (D:/GitHub/PhaserRange/Holodeck2/Intermediate/Shaders/WorkingDirectory/14928/).
+[2018.11.12-01.14.19:745][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ENDER/AppData/Local/Temp/UnrealShaderWorkingDir/7879C908438962C6AE301E958DDC7BEE/'.
+[2018.11.12-01.14.20:033][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.12-01.14.20:046][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.12-01.14.20:058][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.12-01.14.20:072][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.12-01.14.20:085][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.12-01.14.20:097][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.12-01.14.20:113][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.12-01.14.20:127][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.12-01.14.20:136][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-01.14.20:215][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.12-01.14.20:274][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.12-01.14.20:274][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.12-01.14.20:296][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.12-01.14.20:296][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.12-01.14.20:308][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.12-01.14.20:319][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.12-01.14.20:331][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.12-01.14.20:347][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.12-01.14.20:355][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.12-01.14.20:355][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.12-01.14.20:413][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.12-01.14.20:413][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.12-01.14.20:413][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.12-01.14.21:109][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.12-01.14.21:217][  0]LogDerivedDataCache: Loaded boot cache 0.11s 86MB C:/Users/ENDER/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.12-01.14.21:217][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ENDER/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.12-01.14.21:217][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GitHub/PhaserRange/Holodeck2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.12-01.14.21:217][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.12-01.14.21:217][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GitHub/PhaserRange/Holodeck2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.12-01.14.21:217][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.12-01.14.21:229][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.12-01.14.21:241][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ENDER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.12-01.14.21:241][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.12-01.14.21:241][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.12-01.14.21:258][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.12-01.14.21:260][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.12-01.14.21:260][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.12-01.14.21:331][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.11.12-01.14.21:641][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.12-01.14.21:764][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.12-01.14.21:767][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.12-01.14.21:767][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.12-01.14.21:767][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.12-01.14.21:767][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.12-01.14.21:804][  0]LogNetVersion: Holodeck2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3709674839)
+[2018.11.12-01.14.22:343][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.128848 seconds
+[2018.11.12-01.14.22:349][  0]LogUObjectArray: 38427 objects as part of root set at end of initial load.
+[2018.11.12-01.14.22:349][  0]LogUObjectAllocator: 6691320 out of 0 bytes used by permanent object pool.
+[2018.11.12-01.14.22:349][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.12-01.14.23:191][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.12-01.14.23:204][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.12-01.14.23:357][  0]SourceControl: Source control is disabled
+[2018.11.12-01.14.23:357][  0]SourceControl: Source control is disabled
+[2018.11.12-01.14.23:359][  0]SourceControl: Source control is disabled
+[2018.11.12-01.14.23:360][  0]SourceControl: Source control is disabled
+[2018.11.12-01.14.23:526][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.12-01.14.23:580][  0]LogOcInput: OculusInput pre-init called
+[2018.11.12-01.14.23:942][  0]LogEngine: Initializing Engine...
+[2018.11.12-01.14.23:943][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.12-01.14.23:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.12-01.14.23:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.12-01.14.23:945][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.12-01.14.23:945][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.12-01.14.24:174][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.12-01.14.24:187][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.12-01.14.24:213][  0]LogInit: XAudio2 using 'Speakers (G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.12-01.14.24:229][  0]LogInit: FAudioDevice initialized.
+[2018.11.12-01.14.24:229][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.12-01.14.24:330][  0]LogDerivedDataCache: Saved boot cache 0.10s 86MB C:/Users/ENDER/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.12-01.14.24:354][  0]LogInit: Texture streaming: Enabled
+[2018.11.12-01.14.24:370][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.12-01.14.24:388][  0]LogInit: Transaction tracking system initialized
+[2018.11.12-01.14.24:411][  0]BlueprintLog: New page: Editor Load
+[2018.11.12-01.14.24:483][  0]LocalizationService: Localization service is disabled
+[2018.11.12-01.14.24:544][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.11.12-01.14.24:544][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.11.12-01.14.24:544][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.11.12-01.14.24:594][  0]LogMaterial: Display: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2018.11.12-01.14.24:624][  0]LogMaterial: Display: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2018.11.12-01.14.24:645][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.12-01.14.24:645][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-01.14.24:645][  0]LogMaterial: Display: Missing cached shader map for material Tick_Mat, compiling. 
+[2018.11.12-01.14.24:981][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.12-01.14.24:981][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-01.14.24:981][  0]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.12-01.14.24:981][  0]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.12-01.14.24:981][  0]LogMaterial: Display: Missing cached shader map for material BlinkingCaret, compiling. 
+[2018.11.12-01.14.25:004][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.12-01.14.25:005][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-01.14.25:005][  0]LogMaterial: Display: Missing cached shader map for material M_StreamingPause, compiling. 
+[2018.11.12-01.14.25:042][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.12-01.14.25:042][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.12-01.14.25:042][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.12-01.14.25:042][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.12-01.14.25:042][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.12-01.14.25:042][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.12-01.14.25:043][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.12-01.14.25:043][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.12-01.14.25:081][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/PhaserRange/Holodeck2/Content/' took 0.03s
+[2018.11.12-01.14.25:213][  0]SourceControl: Source control is disabled
+[2018.11.12-01.14.25:213][  0]Cmd: MAP LOAD FILE="D:/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.12-01.14.25:214][  0]LightingResults: New page: Lighting Build
+[2018.11.12-01.14.25:218][  0]MapCheck: New page: Map Check
+[2018.11.12-01.14.25:218][  0]LightingResults: New page: Lighting Build
+[2018.11.12-01.14.26:292][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-01.14.26:293][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X64)
+[2018.11.12-01.14.26:806][  0]LogStaticMesh: Building static mesh PhaserRangeFloor...
+[2018.11.12-01.14.26:827][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Holodeck/Assets/PhaserRangeFloor.PhaserRangeFloor
+[2018.11.12-01.14.26:882][  0]LogAIModule: Creating AISystem for world Range
+[2018.11.12-01.14.26:892][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.12-01.14.26:937][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.12-01.14.27:030][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 94.512ms to complete.
+[2018.11.12-01.14.27:030][  0]LogFileHelpers: Loading map 'Range' took 1.818
+[2018.11.12-01.14.27:283][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-01.14.27:293][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-01.14.27:305][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-01.14.27:316][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-01.14.27:325][  0]LogCollectionManager: Loaded 0 collections in 0.002706 seconds
+[2018.11.12-01.14.27:402][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/PhaserRange/Holodeck2/Saved/Collections/' took 0.01s
+[2018.11.12-01.14.27:402][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/PhaserRange/Holodeck2/Content/Developers/ENDER/Collections/' took 0.01s
+[2018.11.12-01.14.27:402][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/PhaserRange/Holodeck2/Content/Collections/' took 0.01s
+[2018.11.12-01.14.27:402][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.12-01.14.27:571][  0]LogContentBrowser: Native class hierarchy populated in 0.1684 seconds. Added 2622 classes and 613 folders.
+[2018.11.12-01.14.27:582][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.11.12-01.14.27:650][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.11.12-01.14.27:738][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.12-01.14.27:744][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.12-01.14.27:747][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.12-01.14.27:836][  0]LogMaterial: Display: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.11.12-01.14.27:876][  0]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.12-01.14.27:876][  0]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.12-01.14.27:876][  0]LogRenderer: Reallocating scene render targets to support 1228x660 Format 26 NumSamples 1 (Frame:1).
+[2018.11.12-01.14.28:093][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.11.12-01.14.28:093][  0]LogLoad: (Engine Initialization) Total time: 11.78 seconds
+[2018.11.12-01.14.28:093][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.12-01.14.28:268][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.12-01.14.28:627][  3]LogAssetRegistry: Asset discovery search completed in 7.3181 seconds
+[2018.11.12-01.14.28:630][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.12-01.14.28:630][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000109 seconds (updated 0 objects)
+[2018.11.12-01.14.30:054][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-01.14.38:816][168]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.12-01.14.39:002][168]LogBlueprint: Error: [Compiler BPP_Item] In use pin  Attach TO  no longer exists on node  Event Pickup . Please refresh node or break links to remove pin.
+[2018.11.12-01.14.39:003][168]LogBlueprint: Warning: [Compiler BPP_Item] [0022.69] Compile of BPP_Item failed. 1 Fatal Issue(s) 0 Warning(s) [in 3 ms] (/Game/SushiShop/Assets/Props/Food/Blueprints/BPP_Item.BPP_Item)
+[2018.11.12-01.14.39:024][168]LogBlueprint: Error: [Compiler BP_Physics] In use pin  Attach TO  no longer exists on node  Event Pickup . Please refresh node or break links to remove pin.
+[2018.11.12-01.14.39:026][168]LogBlueprint: Warning: [Compiler BP_Physics] [0022.71] Compile of BP_Physics failed. 1 Fatal Issue(s) 0 Warning(s) [in 4 ms] (/Game/SushiShop/BluePrints/GameFunctions/ItemHandling/BP_Physics.BP_Physics)
+[2018.11.12-01.14.39:126][168]LogBlueprint: Error: [Compiler BP_Plate_Small] In use pin  Attach TO  no longer exists on node  Event Pickup . Please refresh node or break links to remove pin.
+[2018.11.12-01.14.39:127][168]LogBlueprint: Warning: [Compiler BP_Plate_Small] [0022.81] Compile of BP_Plate_Small failed. 1 Fatal Issue(s) 0 Warning(s) [in 2 ms] (/Game/SushiShop/Assets/Props/Plates/Blueprints/BP_Plate_Small.BP_Plate_Small)
+[2018.11.12-01.14.39:202][168]LogBlueprint: Warning: [Compiler MotionControllerPawn] Could not find a variable named "WidgetInteraction" in 'BP_MotionController_C'.
+Make sure 'BP_MotionController_C' has been compiled for  Get WidgetInteraction
+[2018.11.12-01.14.39:202][168]LogBlueprint: Warning: [Compiler MotionControllerPawn] Could not find a variable named "WidgetInteraction" in 'BP_MotionController_C'.
+Make sure 'BP_MotionController_C' has been compiled for  Get WidgetInteraction
+[2018.11.12-01.14.39:239][168]LogBlueprint: Error: [Compiler MotionControllerPawn] The property associated with  Widget Interaction  could not be found in '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C'
+[2018.11.12-01.14.39:240][168]LogBlueprint: Error: [Compiler MotionControllerPawn] The property associated with  Widget Interaction  could not be found in '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C'
+[2018.11.12-01.14.39:243][168]LogBlueprint: Warning: [Compiler MotionControllerPawn] [0022.93] Compile of MotionControllerPawn failed. 2 Fatal Issue(s) 2 Warning(s) [in 52 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2018.11.12-01.14.39:553][168]LogTexture: Display: Building textures: StartNormal (BGRA8, 1920X554)
+[2018.11.12-01.14.39:553][168]LogTexture: Display: Building textures: StartPressed (BGRA8, 1920X554)
+[2018.11.12-01.14.39:553][168]LogTexture: Display: Building textures: Wasabi_R (AutoDXT, 512X512)
+[2018.11.12-01.14.39:553][168]LogTexture: Display: Building textures: Wasabi_BC (AutoDXT, 512X512)
+[2018.11.12-01.14.39:553][168]LogTexture: Display: Building textures: PlatesAndChopsticks_BC (AutoDXT, 2048X2048)
+[2018.11.12-01.14.39:553][168]LogTexture: Display: Building textures: PlatesAndChopsticks_AO_R_M (AutoDXT, 2048X2048)
+[2018.11.12-01.14.39:554][168]LogTexture: Display: Building textures: Wasabi_N (BC5, 512X512)
+[2018.11.12-01.14.39:554][168]LogTexture: Display: Building textures: StartHover (BGRA8, 1920X554)
+[2018.11.12-01.14.39:554][168]LogTexture: Display: Building textures: Eel_AO_R_M (AutoDXT, 1024X1024)
+[2018.11.12-01.14.39:567][168]LogStaticMesh: Building static mesh Plate_Small...
+[2018.11.12-01.14.39:574][168]LogStaticMesh: Built static mesh [0.01s] /Game/SushiShop/Assets/Props/Plates/SmallPlate/Plate_Small.Plate_Small
+[2018.11.12-01.14.40:342][168]LogTexture: Display: Building textures: Eel_N (BC5, 1024X1024)
+[2018.11.12-01.14.40:342][168]LogTexture: Display: Building textures: Eel_BC (AutoDXT, 1024X1024)
+[2018.11.12-01.14.40:342][168]LogTexture: Display: Building textures: PlatesAndChopsticks_N (BC5, 2048X2048)
+[2018.11.12-01.14.40:342][168]LogTexture: Display: Building textures: Tuna_R (AutoDXT, 1024X1024)
+[2018.11.12-01.14.40:342][168]LogTexture: Display: Building textures: Tuna_N (BC5, 1024X1024)
+[2018.11.12-01.14.40:342][168]LogTexture: Display: Building textures: Tuna_BC (AutoDXT, 1024X1024)
+[2018.11.12-01.14.40:342][168]LogTexture: Display: Building textures: Rice_N (BC5, 1024X1024)
+[2018.11.12-01.14.40:342][168]LogTexture: Display: Building textures: Rice_R (AutoDXT, 1024X1024)
+[2018.11.12-01.14.40:342][168]LogTexture: Display: Building textures: Rice_BC (AutoDXT, 1024X1024)
+[2018.11.12-01.14.40:342][168]LogTexture: Display: Building textures: Ginger_R (AutoDXT, 512X512)
+[2018.11.12-01.14.40:342][168]LogTexture: Display: Building textures: Ginger_N (BC5, 512X512)
+[2018.11.12-01.14.40:342][168]LogTexture: Display: Building textures: Ginger_BC (AutoDXT, 512X512)
+[2018.11.12-01.14.40:342][168]LogTexture: Display: Building textures: Salmon_R (AutoDXT, 1024X1024)
+[2018.11.12-01.14.40:342][168]LogTexture: Display: Building textures: Salmon_N (BC5, 1024X1024)
+[2018.11.12-01.14.41:145][168]LogTexture: Display: Building textures: Salmon_BC (AutoDXT, 1024X1024)
+[2018.11.12-01.14.41:147][168]LogMaterial: Display: Missing cached shader map for material Plates_M, compiling. 
+[2018.11.12-01.14.41:287][168]LogStaticMesh: Building static mesh Wasabi_Scoop...
+[2018.11.12-01.14.41:291][168]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.11.12-01.14.41:291][168]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.12-01.14.41:291][168]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.12-01.14.41:291][168]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.12-01.14.41:291][168]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.12-01.14.41:291][168]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.12-01.14.41:291][168]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.12-01.14.41:291][168]LogStaticMesh: Built static mesh [0.00s] /Game/SushiShop/Assets/Props/Food/Wasabi/Wasabi_Scoop.Wasabi_Scoop
+[2018.11.12-01.14.41:295][168]LogMaterial: Display: Missing cached shader map for material Wasabi_M, compiling. 
+[2018.11.12-01.14.41:312][168]LogSkeletalMesh: Building Skeletal Mesh Eel_Slice...
+[2018.11.12-01.14.41:313][168]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/SushiShop/Assets/Props/Food/Unagi/Eel_Slice.Eel_Slice
+[2018.11.12-01.14.41:322][168]LogMaterial: Display: Missing cached shader map for material Unagi_M, compiling. 
+[2018.11.12-01.14.41:619][168]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.12-01.14.41:626][168]LogSkeletalMesh: Building Skeletal Mesh Tuna2...
+[2018.11.12-01.14.41:627][168]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/SushiShop/Assets/Props/Food/Tuna/Import/Tuna2.Tuna2
+[2018.11.12-01.14.41:628][168]LogSkeletalMesh: Building Skeletal Mesh Rice_Ball...
+[2018.11.12-01.14.41:628][168]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/SushiShop/Assets/Props/Food/Rice/Rice_Ball.Rice_Ball
+[2018.11.12-01.14.41:631][168]LogMaterial: Display: Missing cached shader map for material Rice_M, compiling. 
+[2018.11.12-01.14.41:714][168]LogMaterial: Display: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2018.11.12-01.14.41:829][168]LogStaticMesh: Building static mesh Ginger_Scoop...
+[2018.11.12-01.14.41:832][168]LogStaticMesh: Built static mesh [0.00s] /Game/SushiShop/Assets/Props/Food/Ginger/Ginger_Scoop.Ginger_Scoop
+[2018.11.12-01.14.41:856][168]LogMaterial: Display: Missing cached shader map for material Ginger_M, compiling. 
+[2018.11.12-01.14.42:004][168]LogMaterial: Display: Missing cached shader map for material Main_Menu_M, compiling. 
+[2018.11.12-01.14.42:017][168]LogMaterial: Display: Missing cached shader map for material Tuna_M, compiling. 
+[2018.11.12-01.14.42:096][168]LogSkeletalMesh: Building Skeletal Mesh Salmon...
+[2018.11.12-01.14.42:097][168]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/SushiShop/Assets/Props/Food/Salmon/Salmon.Salmon
+[2018.11.12-01.14.42:101][168]LogMaterial: Display: Missing cached shader map for material Salmon_M, compiling. 
+[2018.11.12-01.14.42:225][168]LogAIModule: Creating AISystem for world Menu
+[2018.11.12-01.14.42:351][168]LogAssetEditorManager: Opening Asset editor for World /Game/SushiShop/Levels/Menu.Menu
+[2018.11.12-01.14.42:392][168]Cmd: MAP LOAD FILE="D:/GitHub/PhaserRange/Holodeck2/Content/SushiShop/Levels/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.12-01.14.42:393][168]LightingResults: New page: Lighting Build
+[2018.11.12-01.14.42:394][168]LoadErrors: New page: Loading map: Menu.umap
+[2018.11.12-01.14.42:405][168]MapCheck: New page: Map Check
+[2018.11.12-01.14.42:406][168]LightingResults: New page: Lighting Build
+[2018.11.12-01.14.42:573][168]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.12-01.14.42:673][168]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.12-01.14.42:825][168]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 151.727ms to complete.
+[2018.11.12-01.14.42:828][168]LogFileHelpers: Loading map 'Menu' took 0.436
+[2018.11.12-01.14.44:449][260]LogShaderCompilers: Display: Shaders left to compile 625
+[2018.11.12-01.14.44:679][276]LogShaderCompilers: Display: Shaders left to compile 615
+[2018.11.12-01.14.45:713][382]LogShaderCompilers: Display: Shaders left to compile 605
+[2018.11.12-01.14.45:732][384]LogShaderCompilers: Display: Shaders left to compile 595
+[2018.11.12-01.14.46:431][460]LogShaderCompilers: Display: Shaders left to compile 585
+[2018.11.12-01.14.47:314][555]LogShaderCompilers: Display: Shaders left to compile 575
+[2018.11.12-01.14.47:442][570]LogShaderCompilers: Display: Shaders left to compile 565
+[2018.11.12-01.14.47:724][599]LogShaderCompilers: Display: Shaders left to compile 555
+[2018.11.12-01.14.47:950][622]LogShaderCompilers: Display: Shaders left to compile 545
+[2018.11.12-01.14.48:996][733]LogShaderCompilers: Display: Shaders left to compile 535
+[2018.11.12-01.14.49:054][739]LogShaderCompilers: Display: Shaders left to compile 525
+[2018.11.12-01.14.49:719][805]LogShaderCompilers: Display: Shaders left to compile 515
+[2018.11.12-01.14.50:044][837]LogShaderCompilers: Display: Shaders left to compile 505
+[2018.11.12-01.14.50:933][932]LogShaderCompilers: Display: Shaders left to compile 495
+[2018.11.12-01.14.51:192][958]LogShaderCompilers: Display: Shaders left to compile 485
+[2018.11.12-01.14.53:293][123]LogShaderCompilers: Display: Shaders left to compile 475
+[2018.11.12-01.14.53:660][147]LogShaderCompilers: Display: Shaders left to compile 465
+[2018.11.12-01.14.53:881][161]LogShaderCompilers: Display: Shaders left to compile 455
+[2018.11.12-01.14.54:039][167]LogShaderCompilers: Display: Shaders left to compile 445
+[2018.11.12-01.14.54:062][168]LogShaderCompilers: Display: Shaders left to compile 435
+[2018.11.12-01.14.54:944][210]LogShaderCompilers: Display: Shaders left to compile 425
+[2018.11.12-01.14.55:623][244]LogShaderCompilers: Display: Shaders left to compile 415
+[2018.11.12-01.14.56:278][278]LogShaderCompilers: Display: Shaders left to compile 405
+[2018.11.12-01.14.57:537][351]LogShaderCompilers: Display: Shaders left to compile 395
+[2018.11.12-01.14.57:822][371]LogShaderCompilers: Display: Shaders left to compile 385
+[2018.11.12-01.14.57:861][374]LogShaderCompilers: Display: Shaders left to compile 375
+[2018.11.12-01.14.58:823][435]LogShaderCompilers: Display: Shaders left to compile 365
+[2018.11.12-01.14.59:131][454]LogShaderCompilers: Display: Shaders left to compile 355
+[2018.11.12-01.14.59:458][475]LogShaderCompilers: Display: Shaders left to compile 345
+[2018.11.12-01.15.00:226][524]LogShaderCompilers: Display: Shaders left to compile 335
+[2018.11.12-01.15.01:494][603]LogShaderCompilers: Display: Shaders left to compile 325
+[2018.11.12-01.15.02:028][636]LogShaderCompilers: Display: Shaders left to compile 315
+[2018.11.12-01.15.02:565][667]LogShaderCompilers: Display: Shaders left to compile 305
+[2018.11.12-01.15.03:177][708]LogShaderCompilers: Display: Shaders left to compile 295
+[2018.11.12-01.15.03:455][727]LogShaderCompilers: Display: Shaders left to compile 285
+[2018.11.12-01.15.03:707][744]LogShaderCompilers: Display: Shaders left to compile 275
+[2018.11.12-01.15.04:491][795]LogShaderCompilers: Display: Shaders left to compile 265
+[2018.11.12-01.15.04:909][821]LogShaderCompilers: Display: Shaders left to compile 255
+[2018.11.12-01.15.05:668][869]LogShaderCompilers: Display: Shaders left to compile 245
+[2018.11.12-01.15.06:195][900]LogShaderCompilers: Display: Shaders left to compile 235
+[2018.11.12-01.15.06:475][918]LogShaderCompilers: Display: Shaders left to compile 225
+[2018.11.12-01.15.06:831][939]LogShaderCompilers: Display: Shaders left to compile 215
+[2018.11.12-01.15.06:997][948]LogShaderCompilers: Display: Shaders left to compile 205
+[2018.11.12-01.15.09:213][ 91]LogShaderCompilers: Display: Shaders left to compile 195
+[2018.11.12-01.15.09:442][106]LogShaderCompilers: Display: Shaders left to compile 185
+[2018.11.12-01.15.09:539][113]LogShaderCompilers: Display: Shaders left to compile 175
+[2018.11.12-01.15.09:786][129]LogShaderCompilers: Display: Shaders left to compile 165
+[2018.11.12-01.15.09:840][133]LogShaderCompilers: Display: Shaders left to compile 155
+[2018.11.12-01.15.10:390][168]LogShaderCompilers: Display: Shaders left to compile 145
+[2018.11.12-01.15.10:740][191]LogShaderCompilers: Display: Shaders left to compile 135
+[2018.11.12-01.15.11:058][211]LogShaderCompilers: Display: Shaders left to compile 125
+[2018.11.12-01.15.12:221][286]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.11.12-01.15.12:551][306]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.11.12-01.15.12:722][317]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.11.12-01.15.14:243][416]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.11.12-01.15.14:335][423]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.11.12-01.15.14:940][461]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.11.12-01.15.15:091][471]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.11.12-01.15.15:355][488]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.11.12-01.15.15:621][505]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.12-01.15.15:736][513]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.12-01.15.16:033][533]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.12-01.15.18:271][671]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.12-01.18.47:795][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-01.18.57:401][955]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.12-01.18.57:930][955]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.12-01.18.58:899][955]LogMaterial: Display: Missing cached shader map for material Ginger_M, compiling. 
+[2018.11.12-01.18.58:912][955]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Ginger_M\Ginger_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.18.58:912][955]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.18.58:914][955]LogMaterial: Display: Missing cached shader map for material Ginger_M, compiling. 
+[2018.11.12-01.18.58:915][955]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Ginger_M\Ginger_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.18.58:915][955]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.18.58:916][955]LogMaterial: Display: Missing cached shader map for material Ginger_M, compiling. 
+[2018.11.12-01.18.58:917][955]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Ginger_M\Ginger_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.18.58:917][955]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.19.10:063][852]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.12-01.19.10:345][852]LogMaterial: Display: Missing cached shader map for material Rice_M, compiling. 
+[2018.11.12-01.19.10:346][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Rice_M\Rice_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:346][852]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.19.10:348][852]LogMaterial: Display: Missing cached shader map for material Rice_M, compiling. 
+[2018.11.12-01.19.10:348][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Rice_M\Rice_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:348][852]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.19.10:350][852]LogMaterial: Display: Missing cached shader map for material Rice_M, compiling. 
+[2018.11.12-01.19.10:351][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Rice_M\Rice_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:351][852]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.19.10:354][852]LogMaterial: Display: Missing cached shader map for material Salmon_M, compiling. 
+[2018.11.12-01.19.10:354][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Salmon_M\Salmon_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:354][852]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.19.10:357][852]LogMaterial: Display: Missing cached shader map for material Salmon_M, compiling. 
+[2018.11.12-01.19.10:357][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Salmon_M\Salmon_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:357][852]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.19.10:360][852]LogMaterial: Display: Missing cached shader map for material Salmon_M, compiling. 
+[2018.11.12-01.19.10:360][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Salmon_M\Salmon_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:360][852]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.19.10:363][852]LogMaterial: Display: Missing cached shader map for material Tuna_M, compiling. 
+[2018.11.12-01.19.10:364][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Tuna_M\Tuna_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:364][852]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.19.10:366][852]LogMaterial: Display: Missing cached shader map for material Tuna_M, compiling. 
+[2018.11.12-01.19.10:366][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Tuna_M\Tuna_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:366][852]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.19.10:368][852]LogMaterial: Display: Missing cached shader map for material Tuna_M, compiling. 
+[2018.11.12-01.19.10:369][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Tuna_M\Tuna_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:369][852]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.19.10:372][852]LogMaterial: Display: Missing cached shader map for material Unagi_M, compiling. 
+[2018.11.12-01.19.10:372][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Unagi_M\Unagi_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:372][852]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.19.10:375][852]LogMaterial: Display: Missing cached shader map for material Unagi_M, compiling. 
+[2018.11.12-01.19.10:375][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Unagi_M\Unagi_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:375][852]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.19.10:378][852]LogMaterial: Display: Missing cached shader map for material Unagi_M, compiling. 
+[2018.11.12-01.19.10:378][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Unagi_M\Unagi_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:378][852]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.19.10:405][852]LogSkeletalMesh: Building Skeletal Mesh Eel_Slice...
+[2018.11.12-01.19.10:406][852]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/SushiShop/Assets/Props/Food/Unagi/Eel_Slice.Eel_Slice
+[2018.11.12-01.19.10:408][852]LogMaterial: Display: Missing cached shader map for material Wasabi_M, compiling. 
+[2018.11.12-01.19.10:409][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Wasabi_M\Wasabi_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:409][852]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.19.10:411][852]LogMaterial: Display: Missing cached shader map for material Wasabi_M, compiling. 
+[2018.11.12-01.19.10:411][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Wasabi_M\Wasabi_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:411][852]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.19.10:413][852]LogMaterial: Display: Missing cached shader map for material Wasabi_M, compiling. 
+[2018.11.12-01.19.10:413][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Wasabi_M\Wasabi_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:413][852]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.12-01.19.10:417][852]LogMaterial: Display: Missing cached shader map for material Plates_M, compiling. 
+[2018.11.12-01.19.10:417][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Plates_M\Plates_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:417][852]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.11.12-01.19.10:419][852]LogMaterial: Display: Missing cached shader map for material Plates_M, compiling. 
+[2018.11.12-01.19.10:420][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Plates_M\Plates_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:420][852]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.11.12-01.19.10:422][852]LogMaterial: Display: Missing cached shader map for material Plates_M, compiling. 
+[2018.11.12-01.19.10:422][852]LogMaterial: Warning: D:\GitHub\PhaserRange\Holodeck2\Content\SushiShop\Materials\Plates_M\Plates_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.12-01.19.10:422][852]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.11.12-01.19.29:606][560]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.12-01.19.38:667][267]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.12-01.20.03:431][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_Credits.W_Credits_C' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.11.12-01.20.03:431][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_Credits.W_Credits:EventGraph.K2Node_Event_0' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.11.12-01.20.03:431][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_Credits.W_Credits:EventGraph.K2Node_Event_1' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.11.12-01.20.03:431][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_Credits.W_Credits:EventGraph.K2Node_Event_2' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.11.12-01.20.03:431][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_Credits.SKEL_W_Credits_C:PreConstruct' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.11.12-01.20.03:431][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_Credits.SKEL_W_Credits_C:Construct' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.11.12-01.20.03:431][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_Credits.SKEL_W_Credits_C:Tick' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.11.12-01.20.03:431][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_Credits.SKEL_W_Credits_C' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.11.12-01.20.03:572][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.PH_AVV_C' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:573][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.PH_AVV:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:573][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.PH_AVV:EventGraph.K2Node_Event_0' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:573][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.PH_AVV:EventGraph.K2Node_Event_1' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:573][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.PH_AVV:EventGraph.K2Node_Event_2' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:573][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.SKEL_PH_AVV_C:ReceiveBeginPlay' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:573][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.SKEL_PH_AVV_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:573][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.SKEL_PH_AVV_C:ReceiveTick' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:573][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.SKEL_PH_AVV_C:BndEvt__Audio_K2Node_ComponentBoundEvent_0_OnAudioFinished__DelegateSignature' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:573][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.SKEL_PH_AVV_C:Audio' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:573][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.SKEL_PH_AVV_C:Scene' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:573][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.SKEL_PH_AVV_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:573][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.SKEL_PH_AVV_C' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:573][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.PH_AVV_C:Audio' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:573][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.PH_AVV_C:Scene' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:573][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.PH_AVV_C:ReceiveBeginPlay' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:573][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/PH_AVV.PH_AVV_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/Assets/Audio/PH_AVV.PackageMetaData'
+[2018.11.12-01.20.03:584][155]LogMetaData: Removing '/Game/MainMenu/Assets/Audio/MusicPlayer.MusicPlayer:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/SushiShop/Assets/Audio/MusicPlayer.PackageMetaData'
+[2018.11.12-01.20.03:618][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu_C' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:618][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:618][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu:GetVisibility_0.K2Node_FunctionEntry_8' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu:GetVisibility_1.K2Node_FunctionEntry_21' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.SKEL_W_MainMenu_C:PreConstruct' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.SKEL_W_MainMenu_C:Construct' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.SKEL_W_MainMenu_C:Tick' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.SKEL_W_MainMenu_C:BndEvt__Button_4_K2Node_ComponentBoundEvent_100_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.SKEL_W_MainMenu_C:BndEvt__Button_Credits_K2Node_ComponentBoundEvent_165_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.SKEL_W_MainMenu_C:BndEvt__Button_Quit_K2Node_ComponentBoundEvent_178_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.SKEL_W_MainMenu_C:VR_Credits' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.SKEL_W_MainMenu_C:StartText' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.SKEL_W_MainMenu_C:QuitText' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.SKEL_W_MainMenu_C:CreditsText' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.SKEL_W_MainMenu_C:Button_Start' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.SKEL_W_MainMenu_C:Button_Quit' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.SKEL_W_MainMenu_C:Button_Credits' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.SKEL_W_MainMenu_C' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu_C:VR_Credits' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu_C:StartText' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu_C:QuitText' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu_C:CreditsText' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu_C:Button_Start' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu_C:Button_Quit' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:619][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu_C:Button_Credits' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.11.12-01.20.03:631][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.MainMenuWidget_C' ref from Metadata '/Game/SushiShop/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.11.12-01.20.03:631][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/SushiShop/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.11.12-01.20.03:631][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/SushiShop/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.11.12-01.20.03:631][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/SushiShop/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.11.12-01.20.03:631][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.MainMenuWidget:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/SushiShop/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.11.12-01.20.03:631][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.SKEL_MainMenuWidget_C:ReceiveBeginPlay' ref from Metadata '/Game/SushiShop/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.11.12-01.20.03:631][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.SKEL_MainMenuWidget_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/SushiShop/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.11.12-01.20.03:631][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.SKEL_MainMenuWidget_C:ReceiveTick' ref from Metadata '/Game/SushiShop/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.11.12-01.20.03:631][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.SKEL_MainMenuWidget_C:Scene' ref from Metadata '/Game/SushiShop/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.11.12-01.20.03:631][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.SKEL_MainMenuWidget_C:Widget' ref from Metadata '/Game/SushiShop/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.11.12-01.20.03:631][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.SKEL_MainMenuWidget_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.11.12-01.20.03:631][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.SKEL_MainMenuWidget_C' ref from Metadata '/Game/SushiShop/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.11.12-01.20.03:631][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.MainMenuWidget_C:Scene' ref from Metadata '/Game/SushiShop/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.11.12-01.20.03:631][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.MainMenuWidget_C:Widget' ref from Metadata '/Game/SushiShop/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.11.12-01.20.03:631][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.MainMenuWidget_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.11.12-01.20.03:644][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/BPP_Item.BPP_Item_C' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/BPP_Item.PackageMetaData'
+[2018.11.12-01.20.03:644][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/BPP_Item.SKEL_BPP_Item_C:ReceiveBeginPlay' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/BPP_Item.PackageMetaData'
+[2018.11.12-01.20.03:644][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/BPP_Item.SKEL_BPP_Item_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/BPP_Item.PackageMetaData'
+[2018.11.12-01.20.03:644][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/BPP_Item.SKEL_BPP_Item_C:ReceiveTick' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/BPP_Item.PackageMetaData'
+[2018.11.12-01.20.03:644][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/BPP_Item.SKEL_BPP_Item_C:Name' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/BPP_Item.PackageMetaData'
+[2018.11.12-01.20.03:644][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/BPP_Item.SKEL_BPP_Item_C:Cube' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/BPP_Item.PackageMetaData'
+[2018.11.12-01.20.03:644][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/BPP_Item.SKEL_BPP_Item_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/BPP_Item.PackageMetaData'
+[2018.11.12-01.20.03:644][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/BPP_Item.SKEL_BPP_Item_C' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/BPP_Item.PackageMetaData'
+[2018.11.12-01.20.03:644][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/BPP_Item.BPP_Item_C:Name' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/BPP_Item.PackageMetaData'
+[2018.11.12-01.20.03:644][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/BPP_Item.BPP_Item_C:Cube' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/BPP_Item.PackageMetaData'
+[2018.11.12-01.20.03:644][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/BPP_Item.BPP_Item_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/BPP_Item.PackageMetaData'
+[2018.11.12-01.20.03:665][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/GingerBall.GingerBall:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/GingerBall.PackageMetaData'
+[2018.11.12-01.20.03:665][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/GingerBall.GingerBall_C' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/GingerBall.PackageMetaData'
+[2018.11.12-01.20.03:665][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/GingerBall.GingerBall:EventGraph.K2Node_Event_0' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/GingerBall.PackageMetaData'
+[2018.11.12-01.20.03:665][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/GingerBall.GingerBall:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/GingerBall.PackageMetaData'
+[2018.11.12-01.20.03:665][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/GingerBall.GingerBall:EventGraph.K2Node_Event_1' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/GingerBall.PackageMetaData'
+[2018.11.12-01.20.03:665][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/GingerBall.GingerBall:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/GingerBall.PackageMetaData'
+[2018.11.12-01.20.03:665][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/GingerBall.GingerBall:EventGraph.K2Node_Event_2' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/GingerBall.PackageMetaData'
+[2018.11.12-01.20.03:665][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/GingerBall.GingerBall:EventGraph.K2Node_CallParentFunction_3' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/GingerBall.PackageMetaData'
+[2018.11.12-01.20.03:665][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/GingerBall.SKEL_GingerBall_C:ReceiveBeginPlay' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/GingerBall.PackageMetaData'
+[2018.11.12-01.20.03:665][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/GingerBall.SKEL_GingerBall_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/GingerBall.PackageMetaData'
+[2018.11.12-01.20.03:665][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/GingerBall.SKEL_GingerBall_C:ReceiveTick' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/GingerBall.PackageMetaData'
+[2018.11.12-01.20.03:665][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/GingerBall.SKEL_GingerBall_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/GingerBall.PackageMetaData'
+[2018.11.12-01.20.03:665][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/GingerBall.SKEL_GingerBall_C' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/GingerBall.PackageMetaData'
+[2018.11.12-01.20.03:709][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Rice.PC_Rice_C' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Rice.PackageMetaData'
+[2018.11.12-01.20.03:709][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Rice.SKEL_PC_Rice_C' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Rice.PackageMetaData'
+[2018.11.12-01.20.03:709][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Rice.SKEL_PC_Rice_C:ReceiveBeginPlay' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Rice.PackageMetaData'
+[2018.11.12-01.20.03:709][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Rice.SKEL_PC_Rice_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Rice.PackageMetaData'
+[2018.11.12-01.20.03:709][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Rice.SKEL_PC_Rice_C:ReceiveTick' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Rice.PackageMetaData'
+[2018.11.12-01.20.03:709][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Rice.SKEL_PC_Rice_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Rice.PackageMetaData'
+[2018.11.12-01.20.03:709][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Rice.PC_Rice_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Rice.PackageMetaData'
+[2018.11.12-01.20.03:761][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon.PC_Salmon_C' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Salmon.PackageMetaData'
+[2018.11.12-01.20.03:761][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon.PC_Salmon:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Salmon.PackageMetaData'
+[2018.11.12-01.20.03:761][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon.PC_Salmon:EventGraph.K2Node_Event_0' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Salmon.PackageMetaData'
+[2018.11.12-01.20.03:761][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon.PC_Salmon:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Salmon.PackageMetaData'
+[2018.11.12-01.20.03:761][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon.PC_Salmon:EventGraph.K2Node_Event_1' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Salmon.PackageMetaData'
+[2018.11.12-01.20.03:761][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon.PC_Salmon:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Salmon.PackageMetaData'
+[2018.11.12-01.20.03:761][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon.PC_Salmon:EventGraph.K2Node_Event_2' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Salmon.PackageMetaData'
+[2018.11.12-01.20.03:761][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon.PC_Salmon:EventGraph.K2Node_CallParentFunction_3' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Salmon.PackageMetaData'
+[2018.11.12-01.20.03:761][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon.SKEL_PC_Salmon_C' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Salmon.PackageMetaData'
+[2018.11.12-01.20.03:761][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon.SKEL_PC_Salmon_C:ReceiveBeginPlay' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Salmon.PackageMetaData'
+[2018.11.12-01.20.03:761][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon.SKEL_PC_Salmon_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Salmon.PackageMetaData'
+[2018.11.12-01.20.03:762][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon.SKEL_PC_Salmon_C:ReceiveTick' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Salmon.PackageMetaData'
+[2018.11.12-01.20.03:762][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon.SKEL_PC_Salmon_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Salmon.PackageMetaData'
+[2018.11.12-01.20.03:762][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon.PC_Salmon_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Salmon.PackageMetaData'
+[2018.11.12-01.20.03:806][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Tuna.PC_Tuna_C' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Tuna.PackageMetaData'
+[2018.11.12-01.20.03:806][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Tuna.SKEL_PC_Tuna_C' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Tuna.PackageMetaData'
+[2018.11.12-01.20.03:806][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Tuna.SKEL_PC_Tuna_C:ReceiveBeginPlay' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Tuna.PackageMetaData'
+[2018.11.12-01.20.03:806][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Tuna.SKEL_PC_Tuna_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Tuna.PackageMetaData'
+[2018.11.12-01.20.03:806][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Tuna.SKEL_PC_Tuna_C:ReceiveTick' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Tuna.PackageMetaData'
+[2018.11.12-01.20.03:806][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Tuna.SKEL_PC_Tuna_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Tuna.PackageMetaData'
+[2018.11.12-01.20.03:806][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Tuna.PC_Tuna_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Tuna.PackageMetaData'
+[2018.11.12-01.20.03:848][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Unagi.PC_Unagi_C' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Unagi.PackageMetaData'
+[2018.11.12-01.20.03:848][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Unagi.SKEL_PC_Unagi_C' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Unagi.PackageMetaData'
+[2018.11.12-01.20.03:848][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Unagi.SKEL_PC_Unagi_C:ReceiveBeginPlay' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Unagi.PackageMetaData'
+[2018.11.12-01.20.03:848][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Unagi.SKEL_PC_Unagi_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Unagi.PackageMetaData'
+[2018.11.12-01.20.03:848][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Unagi.SKEL_PC_Unagi_C:ReceiveTick' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Unagi.PackageMetaData'
+[2018.11.12-01.20.03:848][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Unagi.SKEL_PC_Unagi_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Unagi.PackageMetaData'
+[2018.11.12-01.20.03:848][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Unagi.PC_Unagi_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/PC_Unagi.PackageMetaData'
+[2018.11.12-01.20.03:869][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/WasabiBall.WasabiBall_C' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/WasabiBall.PackageMetaData'
+[2018.11.12-01.20.03:869][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/WasabiBall.WasabiBall:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/WasabiBall.PackageMetaData'
+[2018.11.12-01.20.03:869][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/WasabiBall.WasabiBall:EventGraph.K2Node_Event_0' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/WasabiBall.PackageMetaData'
+[2018.11.12-01.20.03:869][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/WasabiBall.WasabiBall:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/WasabiBall.PackageMetaData'
+[2018.11.12-01.20.03:869][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/WasabiBall.WasabiBall:EventGraph.K2Node_Event_1' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/WasabiBall.PackageMetaData'
+[2018.11.12-01.20.03:869][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/WasabiBall.WasabiBall:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/WasabiBall.PackageMetaData'
+[2018.11.12-01.20.03:869][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/WasabiBall.WasabiBall:EventGraph.K2Node_Event_2' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/WasabiBall.PackageMetaData'
+[2018.11.12-01.20.03:869][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/WasabiBall.WasabiBall:EventGraph.K2Node_CallParentFunction_3' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/WasabiBall.PackageMetaData'
+[2018.11.12-01.20.03:869][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/WasabiBall.SKEL_WasabiBall_C:ReceiveBeginPlay' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/WasabiBall.PackageMetaData'
+[2018.11.12-01.20.03:869][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/WasabiBall.SKEL_WasabiBall_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/WasabiBall.PackageMetaData'
+[2018.11.12-01.20.03:869][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/WasabiBall.SKEL_WasabiBall_C:ReceiveTick' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/WasabiBall.PackageMetaData'
+[2018.11.12-01.20.03:869][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/WasabiBall.SKEL_WasabiBall_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/WasabiBall.PackageMetaData'
+[2018.11.12-01.20.03:870][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Food/Blueprints/WasabiBall.SKEL_WasabiBall_C' ref from Metadata '/Game/SushiShop/Assets/Props/Food/Blueprints/WasabiBall.PackageMetaData'
+[2018.11.12-01.20.03:890][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Plates/Blueprints/BP_Plate_Small.BP_Plate_Small_C' ref from Metadata '/Game/SushiShop/Assets/Props/Plates/Blueprints/BP_Plate_Small.PackageMetaData'
+[2018.11.12-01.20.03:890][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Plates/Blueprints/BP_Plate_Small.SKEL_BP_Plate_Small_C:ReceiveBeginPlay' ref from Metadata '/Game/SushiShop/Assets/Props/Plates/Blueprints/BP_Plate_Small.PackageMetaData'
+[2018.11.12-01.20.03:890][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Plates/Blueprints/BP_Plate_Small.SKEL_BP_Plate_Small_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/SushiShop/Assets/Props/Plates/Blueprints/BP_Plate_Small.PackageMetaData'
+[2018.11.12-01.20.03:890][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Plates/Blueprints/BP_Plate_Small.SKEL_BP_Plate_Small_C:ReceiveTick' ref from Metadata '/Game/SushiShop/Assets/Props/Plates/Blueprints/BP_Plate_Small.PackageMetaData'
+[2018.11.12-01.20.03:890][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Plates/Blueprints/BP_Plate_Small.SKEL_BP_Plate_Small_C:StaticMesh' ref from Metadata '/Game/SushiShop/Assets/Props/Plates/Blueprints/BP_Plate_Small.PackageMetaData'
+[2018.11.12-01.20.03:890][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Plates/Blueprints/BP_Plate_Small.SKEL_BP_Plate_Small_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/Assets/Props/Plates/Blueprints/BP_Plate_Small.PackageMetaData'
+[2018.11.12-01.20.03:890][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Plates/Blueprints/BP_Plate_Small.SKEL_BP_Plate_Small_C' ref from Metadata '/Game/SushiShop/Assets/Props/Plates/Blueprints/BP_Plate_Small.PackageMetaData'
+[2018.11.12-01.20.03:890][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Plates/Blueprints/BP_Plate_Small.BP_Plate_Small_C:StaticMesh' ref from Metadata '/Game/SushiShop/Assets/Props/Plates/Blueprints/BP_Plate_Small.PackageMetaData'
+[2018.11.12-01.20.03:890][155]LogMetaData: Removing '/Game/MainMenu/Assets/Props/Plates/Blueprints/BP_Plate_Small.BP_Plate_Small_C:UserConstructionScript' ref from Metadata '/Game/SushiShop/Assets/Props/Plates/Blueprints/BP_Plate_Small.PackageMetaData'
+[2018.11.12-01.20.03:911][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.W_MainMenu_2_C' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:911][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:PreConstruct' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:911][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:Construct' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:911][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:Tick' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:911][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:BndEvt__Button_Credits_K2Node_ComponentBoundEvent_197_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:911][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:BndEvt__Button_Start_K2Node_ComponentBoundEvent_207_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:911][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:BndEvt__Quit_K2Node_ComponentBoundEvent_89_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:BndEvt__Button_Yes_K2Node_ComponentBoundEvent_12_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:BndEvt__Button_No_K2Node_ComponentBoundEvent_29_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:YesText' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:StartText' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:ScrollBox_0' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:QuitText' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:NoText' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:CreditsText' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:Button_Yes' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:Button_Start' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:Button_Quit' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:Button_No' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C:Button_Credits' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.SKEL_W_MainMenu_2_C' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.W_MainMenu_2_C:YesText' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.W_MainMenu_2_C:StartText' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.W_MainMenu_2_C:ScrollBox_0' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.W_MainMenu_2_C:QuitText' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.W_MainMenu_2_C:NoText' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.W_MainMenu_2_C:CreditsText' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.W_MainMenu_2_C:Button_Yes' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.W_MainMenu_2_C:Button_Start' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.W_MainMenu_2_C:Button_Quit' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.W_MainMenu_2_C:Button_No' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:912][155]LogMetaData: Removing '/Game/MainMenu/BluePrints/Menus/W_MainMenu_2.W_MainMenu_2_C:Button_Credits' ref from Metadata '/Game/SushiShop/BluePrints/Menus/W_MainMenu_2.PackageMetaData'
+[2018.11.12-01.20.03:959][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/BluePrints/Menus/W_Credits" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_Credits.uasset" SILENT=true
+[2018.11.12-01.20.04:013][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/W_CreditsE490AC9B42863DB6D6755D9BEEE41D07.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_Credits.uasset'
+[2018.11.12-01.20.04:046][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/ClementePDae-Light_Font046BED7042B83D2DF89EC5A133F652E3.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Fonts/Clemente/ClementePDae-Light_Font.uasset'
+[2018.11.12-01.20.04:053][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Fonts/Clemente/ClementePDae-Light" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Fonts/Clemente/ClementePDae-Light.uasset" SILENT=true
+[2018.11.12-01.20.04:060][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/ClementePDae-Light152921B64BF160301186B28285BE14EF.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Fonts/Clemente/ClementePDae-Light.uasset'
+[2018.11.12-01.20.04:067][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Images/StartPressed" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Images/StartPressed.uasset" SILENT=true
+[2018.11.12-01.20.04:116][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/StartPressedED8582FE474E7ED691D080B6C9C37529.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Images/StartPressed.uasset'
+[2018.11.12-01.20.04:128][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Images/StartNormal" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Images/StartNormal.uasset" SILENT=true
+[2018.11.12-01.20.04:137][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/StartNormalDEBF6B7C4B40D8B81F98199B1245BDE1.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Images/StartNormal.uasset'
+[2018.11.12-01.20.04:150][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Images/StartHover" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Images/StartHover.uasset" SILENT=true
+[2018.11.12-01.20.04:158][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/StartHover21696D4F46DD0CC7427198ABF8959624.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Images/StartHover.uasset'
+[2018.11.12-01.20.04:185][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/ClementePDag-Book_FontB69034524CBD7A7E71BA8CB0AA58938D.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Fonts/Clemente/ClementePDag-Book_Font.uasset'
+[2018.11.12-01.20.04:190][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Fonts/Clemente/ClementePDag-Book" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Fonts/Clemente/ClementePDag-Book.uasset" SILENT=true
+[2018.11.12-01.20.04:198][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/ClementePDag-Book993816EA4E03F66AA55A9CB172D7871B.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Fonts/Clemente/ClementePDag-Book.uasset'
+[2018.11.12-01.20.04:226][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/ClementePDac-ExtraLight_FontE18D32C847BC39941D10208BDE89B9AA.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Fonts/Clemente/ClementePDac-ExtraLight_Font.uasset'
+[2018.11.12-01.20.04:238][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/ClementePDac-ExtraLight4AE69A984386EE90B63BE094E23898E9.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Fonts/Clemente/ClementePDac-ExtraLight.uasset'
+[2018.11.12-01.20.04:248][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Audio/PH_AVV" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Audio/PH_AVV.uasset" SILENT=true
+[2018.11.12-01.20.04:276][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/PH_AVVCD76A82A408D013B057B3888BB8A938F.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Audio/PH_AVV.uasset'
+[2018.11.12-01.20.04:282][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Audio/MusicPlayer" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Audio/MusicPlayer.uasset" SILENT=true
+[2018.11.12-01.20.04:291][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/MusicPlayer21F445BD4CA4BC260A057589C2FB035B.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Audio/MusicPlayer.uasset'
+[2018.11.12-01.20.04:333][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Audio/Mpgii_Japanese_Flowers" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Audio/Mpgii_Japanese_Flowers.uasset" SILENT=true
+[2018.11.12-01.20.04:487][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Mpgii_Japanese_FlowersDA88FB3947898B5C75BCAB808CC71843.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Audio/Mpgii_Japanese_Flowers.uasset'
+[2018.11.12-01.20.04:519][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Audio/Di0nysys_-_Way_of_the_Sword" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Audio/Di0nysys_-_Way_of_the_Sword.uasset" SILENT=true
+[2018.11.12-01.20.04:630][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Di0nysys_-_Way_of_the_SwordCA86DB4A47049D83B1ED0BBA83510F1B.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Audio/Di0nysys_-_Way_of_the_Sword.uasset'
+[2018.11.12-01.20.04:636][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/BluePrints/Menus/W_MainMenu" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset" SILENT=true
+[2018.11.12-01.20.04:663][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu0AB3732848B7B17CECDBD4A9AA08475A.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.12-01.20.04:671][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/BluePrints/Menus/MainMenuWidget" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/MainMenuWidget.uasset" SILENT=true
+[2018.11.12-01.20.04:684][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/MainMenuWidget1018F9FA462B289FC044BBAD31100022.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/MainMenuWidget.uasset'
+[2018.11.12-01.20.04:691][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Props/Food/Blueprints/BPP_Item" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Blueprints/BPP_Item.uasset" SILENT=true
+[2018.11.12-01.20.04:712][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/BPP_ItemF88472094E03F886471D768287943C54.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Blueprints/BPP_Item.uasset'
+[2018.11.12-01.20.04:738][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Props/Food/Ginger/Ginger_Scoop" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Ginger/Ginger_Scoop.uasset" SILENT=true
+[2018.11.12-01.20.04:756][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Ginger_Scoop85A1C41B4EB94D051327DDA3C9FFF145.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Ginger/Ginger_Scoop.uasset'
+[2018.11.12-01.20.04:761][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Props/Food/Blueprints/GingerBall" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Blueprints/GingerBall.uasset" SILENT=true
+[2018.11.12-01.20.04:778][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/GingerBall23EF65A04D40D457CD2E938EFA8543B2.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Blueprints/GingerBall.uasset'
+[2018.11.12-01.20.04:825][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Rice_Ball_PhysicsAsset54C152F44CE65B692B2410B251329577.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Rice/Rice_Ball_PhysicsAsset.uasset'
+[2018.11.12-01.20.04:831][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Props/Food/Rice/Rice_Ball_Skeleton" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Rice/Rice_Ball_Skeleton.uasset" SILENT=true
+[2018.11.12-01.20.04:843][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Rice_Ball_Skeleton5654310A42A170AB74597DB10B9E1B39.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Rice/Rice_Ball_Skeleton.uasset'
+[2018.11.12-01.20.04:859][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Props/Food/Rice/Rice_Ball" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Rice/Rice_Ball.uasset" SILENT=true
+[2018.11.12-01.20.04:874][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Rice_Ball652A98B844CC2DB84564E98F5B850527.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Rice/Rice_Ball.uasset'
+[2018.11.12-01.20.04:891][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Rice" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Blueprints/PC_Rice.uasset" SILENT=true
+[2018.11.12-01.20.04:912][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/PC_RiceC95A17F14794B816DFC1FC97DF66BC3F.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Blueprints/PC_Rice.uasset'
+[2018.11.12-01.20.04:951][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Salmon_PhysicsAsset1B1A44A448F2FD5E2A2C80858C28B513.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Salmon/Salmon_PhysicsAsset.uasset'
+[2018.11.12-01.20.04:957][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Props/Food/Salmon/Salmon_Skeleton" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Salmon/Salmon_Skeleton.uasset" SILENT=true
+[2018.11.12-01.20.04:964][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Salmon_SkeletonFD1CD91447E3A3DB75DA05A9C6F31C0D.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Salmon/Salmon_Skeleton.uasset'
+[2018.11.12-01.20.04:982][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Props/Food/Salmon/Salmon" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Salmon/Salmon.uasset" SILENT=true
+[2018.11.12-01.20.04:998][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/SalmonEFCD7ABF42B1EEF4260F07B5D2839435.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Salmon/Salmon.uasset'
+[2018.11.12-01.20.05:014][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon.uasset" SILENT=true
+[2018.11.12-01.20.05:035][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/PC_SalmonCEAF94B24F4109D4A74E5EA61ABCAC41.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Blueprints/PC_Salmon.uasset'
+[2018.11.12-01.20.05:071][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Tuna2_PhysicsAssetC359EF664A820BD41DC3DB810F4DE345.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Tuna/Import/Tuna2_PhysicsAsset.uasset'
+[2018.11.12-01.20.05:084][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Tuna2_Skeleton0E572F0B45BFBB40E2221DA4E4C45935.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Tuna/Import/Tuna2_Skeleton.uasset'
+[2018.11.12-01.20.05:102][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Props/Food/Tuna/Import/Tuna2" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Tuna/Import/Tuna2.uasset" SILENT=true
+[2018.11.12-01.20.05:117][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Tuna2AD84005740279FF6A9DDE89EE95813EA.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Tuna/Import/Tuna2.uasset'
+[2018.11.12-01.20.05:133][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Tuna" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Blueprints/PC_Tuna.uasset" SILENT=true
+[2018.11.12-01.20.05:154][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/PC_TunaF3774E65483ED3E7C8001BBF3795E5EF.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Blueprints/PC_Tuna.uasset'
+[2018.11.12-01.20.05:189][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Eel_Slice_PhysicsAsset2A61D8914A0BB8527BB9A9A01000CA11.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Unagi/Eel_Slice_PhysicsAsset.uasset'
+[2018.11.12-01.20.05:203][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Eel_Slice_Skeleton72D26150444BD196C88563BAE18EEC65.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Unagi/Eel_Slice_Skeleton.uasset'
+[2018.11.12-01.20.05:221][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Props/Food/Unagi/Eel_Slice" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Unagi/Eel_Slice.uasset" SILENT=true
+[2018.11.12-01.20.05:236][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Eel_SliceD96F4B0C4258FAA3C72702B5B0105CE8.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Unagi/Eel_Slice.uasset'
+[2018.11.12-01.20.05:255][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Props/Food/Blueprints/PC_Unagi" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Blueprints/PC_Unagi.uasset" SILENT=true
+[2018.11.12-01.20.05:276][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/PC_Unagi5E97F1B644CE2A5CC96193873A0D8FA6.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Blueprints/PC_Unagi.uasset'
+[2018.11.12-01.20.05:297][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Props/Food/Wasabi/Wasabi_Scoop" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Wasabi/Wasabi_Scoop.uasset" SILENT=true
+[2018.11.12-01.20.05:312][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Wasabi_Scoop9911D0BF4C59A300FCA665AAF72D79B1.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Wasabi/Wasabi_Scoop.uasset'
+[2018.11.12-01.20.05:318][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Props/Food/Blueprints/WasabiBall" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Blueprints/WasabiBall.uasset" SILENT=true
+[2018.11.12-01.20.05:337][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/WasabiBallA0CC98F84E00E479F85CB08B336941B2.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Food/Blueprints/WasabiBall.uasset'
+[2018.11.12-01.20.05:373][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Plate_SmallD02DB94E457FA2B8E50FC98AC7DF4D44.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Plates/SmallPlate/Plate_Small.uasset'
+[2018.11.12-01.20.05:416][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/BP_Plate_Small0D9F49474BD92D3B55BF87BDCA9C2904.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Props/Plates/Blueprints/BP_Plate_Small.uasset'
+[2018.11.12-01.20.05:435][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Materials/Menu_M/Main_Menu_M" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Materials/Menu_M/Main_Menu_M.uasset" SILENT=true
+[2018.11.12-01.20.05:450][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Main_Menu_MD776C425451C525D84A48D92039235C6.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Materials/Menu_M/Main_Menu_M.uasset'
+[2018.11.12-01.20.05:456][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/BluePrints/Menus/W_MainMenu_2" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu_2.uasset" SILENT=true
+[2018.11.12-01.20.05:503][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu_21DE2FF9940875109B11BEF938FCFD374.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu_2.uasset'
+[2018.11.12-01.20.05:592][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Levels/Menu" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Levels/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.12-01.20.05:650][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/MenuE7D8052C47F5C03455E37682668DD337.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Levels/Menu.umap'
+[2018.11.12-01.20.05:683][155]LogFileHelpers: Saving map 'Menu' took 0.172
+[2018.11.12-01.20.08:504][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/MotionControllerPawn" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" SILENT=true
+[2018.11.12-01.20.08:647][155]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/MotionControllerPawnACB2E68C40163392E8A82FB89457437B.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.11.12-01.29.19:226][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.12-01.29.19:461][670]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.12-01.33.15:925][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-02.06.17:902][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.12-02.06.21:821][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-02.06.25:893][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Levels/Menu" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Levels/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.12-02.06.25:974][680]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/MenuFAB0724D48167156AFF25DBBF44D30D6.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Levels/Menu.umap'
+[2018.11.12-02.11.08:697][ 26]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MainMenu/Assets/Audio/PH_AVV.PH_AVV
+[2018.11.12-02.11.09:664][ 26]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0028 seconds. Added 116 classes and 0 folders.
+[2018.11.12-02.11.10:995][ 26]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2018.11.12-02.11.11:086][ 26]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.12-02.11.11:086][ 26]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.12-02.11.11:086][ 26]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-02.11.11:116][ 26]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.11.12-02.11.11:134][ 26]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.12-02.11.11:134][ 26]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.12-02.11.11:134][ 26]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.12-02.11.11:134][ 26]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-02.11.11:531][ 26]LogSlate: Took 0.023338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.12-02.11.11:789][ 27]LogSlate: Took 0.025538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.12-02.11.38:373][686]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.12-02.11.41:164][890]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/MainMenu/Assets/Audio/MusicPlayer.MusicPlayer
+[2018.11.12-02.11.48:576][635]LogSlate: Window 'Save Content' being destroyed
+[2018.11.12-02.11.48:612][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Assets/Audio/MusicPlayer" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Audio/MusicPlayer.uasset" SILENT=true
+[2018.11.12-02.11.48:625][635]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/MusicPlayerA44C649C443D8833541F5088E180E44F.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Assets/Audio/MusicPlayer.uasset'
+[2018.11.12-02.11.48:720][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Levels/Menu" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Levels/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.12-02.11.48:780][635]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/Menu65A64089406E58F84809C1A5320E6B7B.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Levels/Menu.umap'
+[2018.11.12-02.11.48:812][635]LogFileHelpers: Saving map 'Menu' took 0.181
+[2018.11.12-02.13.29:847][376]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.12-02.13.31:187][376]LogSlate: Took 0.064454 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2018.11.12-02.13.31:190][376]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.12-02.13.31:191][376]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.12-02.13.31:197][376]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.12-02.13.54:907][759]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.12-02.13.56:205][759]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.12-02.13.56:237][759]LogSlate: Took 0.000599 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.12-02.13.56:522][759]LogSkeletalMesh: Building Skeletal Mesh Rice_Ball...
+[2018.11.12-02.13.56:522][759]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MainMenu/Assets/Props/Food/Rice/Rice_Ball.Rice_Ball
+[2018.11.12-02.13.56:527][759]LogSkeletalMesh: Building Skeletal Mesh Rice_Ball...
+[2018.11.12-02.13.56:527][759]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MainMenu/Assets/Props/Food/Rice/Rice_Ball.Rice_Ball
+[2018.11.12-02.13.56:528][759]LogSkeletalMesh: Building Skeletal Mesh Salmon...
+[2018.11.12-02.13.56:528][759]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MainMenu/Assets/Props/Food/Salmon/Salmon.Salmon
+[2018.11.12-02.13.56:532][759]LogSkeletalMesh: Building Skeletal Mesh Salmon...
+[2018.11.12-02.13.56:533][759]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MainMenu/Assets/Props/Food/Salmon/Salmon.Salmon
+[2018.11.12-02.13.56:533][759]LogSkeletalMesh: Building Skeletal Mesh Tuna2...
+[2018.11.12-02.13.56:535][759]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MainMenu/Assets/Props/Food/Tuna/Import/Tuna2.Tuna2
+[2018.11.12-02.13.56:540][759]LogSkeletalMesh: Building Skeletal Mesh Tuna2...
+[2018.11.12-02.13.56:540][759]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MainMenu/Assets/Props/Food/Tuna/Import/Tuna2.Tuna2
+[2018.11.12-02.13.56:541][759]LogSkeletalMesh: Building Skeletal Mesh Eel_Slice...
+[2018.11.12-02.13.56:541][759]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MainMenu/Assets/Props/Food/Unagi/Eel_Slice.Eel_Slice
+[2018.11.12-02.13.56:545][759]LogSkeletalMesh: Building Skeletal Mesh Eel_Slice...
+[2018.11.12-02.13.56:545][759]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MainMenu/Assets/Props/Food/Unagi/Eel_Slice.Eel_Slice
+[2018.11.12-02.13.56:546][759]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.PC_Unagi_C_1.SkeletalMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.11.12-02.13.56:546][759]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.PC_Unagi_C_1.SkeletalMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.11.12-02.13.56:546][759]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.PC_Rice_C_1.SkeletalMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.11.12-02.13.56:546][759]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.PC_Rice_C_1.SkeletalMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.11.12-02.13.56:546][759]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.PC_Salmon_C_1.SkeletalMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.11.12-02.13.56:546][759]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.PC_Salmon_C_1.SkeletalMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.11.12-02.13.56:546][759]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.PC_Tuna_C_1.SkeletalMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.11.12-02.13.56:546][759]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.PC_Tuna_C_1.SkeletalMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.11.12-02.14.08:134][520]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.12-02.14.22:254][ 44]LogSlate: Window 'Save Content' being destroyed
+[2018.11.12-02.14.22:296][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/BluePrints/Menus/W_Credits" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_Credits.uasset" SILENT=true
+[2018.11.12-02.14.22:320][ 44]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/W_Credits9A09EB6F46B73CA3939BDC9B80332405.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_Credits.uasset'
+[2018.11.12-02.14.22:326][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/BluePrints/Menus/W_MainMenu" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset" SILENT=true
+[2018.11.12-02.14.22:362][ 44]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuF596A61D4281071480B7EA946B291C35.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.12-02.14.22:369][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/BluePrints/Menus/W_MainMenu_2" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu_2.uasset" SILENT=true
+[2018.11.12-02.14.22:420][ 44]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu_29129DB8D4DEAEA5A46A05E96D2C7AA33.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu_2.uasset'
+[2018.11.12-02.14.22:511][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Levels/Menu" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Levels/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.12-02.14.22:569][ 44]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/MenuCACF1FAB46694CACB8D0BC8A0D2D823D.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Levels/Menu.umap'
+[2018.11.12-02.14.22:599][ 44]LogFileHelpers: Saving map 'Menu' took 0.173
+[2018.11.12-02.14.22:605][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/MotionControllerPawn" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" SILENT=true
+[2018.11.12-02.14.22:740][ 44]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/MotionControllerPawnC75BE34C4CB063BF5F9BB19E77A6D334.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.11.12-02.14.23:620][143]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenu/BluePrints/Menus/W_Credits.W_Credits
+[2018.11.12-02.14.24:601][143]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.12-02.14.31:829][520]LogSlate: Took 0.045453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.11.12-02.14.46:524][473]LogEditorTransaction: Undo Reset to Default
+[2018.11.12-02.14.53:948][880]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu
+[2018.11.12-02.15.01:883][331]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenu/BluePrints/Menus/W_MainMenu_2.W_MainMenu_2
+[2018.11.12-02.15.03:737][462]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MainMenu/BluePrints/Menus/MainMenuWidget.MainMenuWidget
+[2018.11.12-02.15.06:672][738]LogRenderer: Reallocating scene render targets to support 1280x772 Format 26 NumSamples 1 (Frame:1).
+[2018.11.12-02.24.21:467][730]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMenu/Levels/Menu' took 0.036
+[2018.11.12-02.24.21:469][730]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu/BluePrints/Menus/W_MainMenu_2] ([1] browsable assets)...
+[2018.11.12-02.24.21:470][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/BluePrints/Menus/W_MainMenu_2]
+[2018.11.12-02.24.21:522][730]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu_2_Auto1EDC987874B97BF0700309FBD7ABEDD42.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Saved/Autosaves/Game/MainMenu/BluePrints/Menus/W_MainMenu_2_Auto1.uasset'
+[2018.11.12-02.24.21:524][730]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu/BluePrints/Menus/W_Credits] ([1] browsable assets)...
+[2018.11.12-02.24.21:525][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/BluePrints/Menus/W_Credits]
+[2018.11.12-02.24.21:546][730]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/W_Credits_Auto118AC2A8E4F3A5139088F80B9555655B9.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Saved/Autosaves/Game/MainMenu/BluePrints/Menus/W_Credits_Auto1.uasset'
+[2018.11.12-02.24.21:548][730]LogFileHelpers: Auto-saving content packages took 0.080
+[2018.11.12-02.30.47:757][586]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.12-02.32.41:147][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/BluePrints/Menus/W_MainMenu_2" FILE="D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu_2.uasset" SILENT=true
+[2018.11.12-02.32.41:205][271]LogSavePackage: Moving 'D:/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu_2BDE6CE3D4D8F6CE661A1E3981D98A53A.tmp' to 'D:/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu_2.uasset'
+[2018.11.12-02.32.41:890][308]BlueprintLog: New page: Compile W_MainMenu_2
+[2018.11.12-02.32.44:332][397]BlueprintLog: New page: Compile W_MainMenu
+[2018.11.12-02.32.49:140][397]LogStats: FPlatformStackWalk::StackWalkAndDump -  4.639 s
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: 
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 41]
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: SObjectWidget for 'W_Credits_C /Engine/Transient.World_18:W_MainMenu_C_2.WidgetTree_0.VR_Credits' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: Stack: 
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: [Callstack] 0x00007ff93a5971f6 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:236]
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: [Callstack] 0x00007ff93a2d0c92 UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:305]
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: [Callstack] 0x00007ff93a2eb356 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalseImpl() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: [Callstack] 0x00007ff9143e9a63 UE4Editor-UMG.dll!SObjectWidget::~SObjectWidget() [d:\build\++ue4\sync\engine\source\runtime\umg\private\slate\sobjectwidget.cpp:41]
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: [Callstack] 0x00007ff93ccc7496 UE4Editor-SlateCore.dll!TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>::~TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: [Callstack] 0x00007ff93ccd0255 UE4Editor-SlateCore.dll!SVerticalBox::~SVerticalBox() []
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: [Callstack] 0x00007ff93ccc738e UE4Editor-SlateCore.dll!TIndirectArray<SOverlay::FOverlaySlot,FDefaultAllocator>::~TIndirectArray<SOverlay::FOverlaySlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: [Callstack] 0x00007ff93ccd0215 UE4Editor-SlateCore.dll!SOverlay::~SOverlay() []
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: [Callstack] 0x00007ff93ccc7496 UE4Editor-SlateCore.dll!TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>::~TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.11.12-02.32.49:140][397]LogOutputDevice: Error: [Callstack] 0x00007ff93ccd0255 UE4Editor-SlateCore.dll!SVerticalBox::~SVerticalBox() []
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff93ccc738e UE4Editor-SlateCore.dll!TIndirectArray<SOverlay::FOverlaySlot,FDefaultAllocator>::~TIndirectArray<SOverlay::FOverlaySlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff93ccd0215 UE4Editor-SlateCore.dll!SOverlay::~SOverlay() []
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff93cccf39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff94367fc17 UE4Editor-Slate.dll!TIndirectArray<SConstraintCanvas::FSlot,FDefaultAllocator>::~TIndirectArray<SConstraintCanvas::FSlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff943683419 UE4Editor-Slate.dll!SConstraintCanvas::~SConstraintCanvas() []
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff93ccc738e UE4Editor-SlateCore.dll!TIndirectArray<SOverlay::FOverlaySlot,FDefaultAllocator>::~TIndirectArray<SOverlay::FOverlaySlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff93ccd0215 UE4Editor-SlateCore.dll!SOverlay::~SOverlay() []
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff93ccd9355 UE4Editor-SlateCore.dll!TSlotBase<FSimpleSlot>::operator[]() [d:\build\++ue4\sync\engine\source\runtime\slatecore\public\slotbase.h:91]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff9144131f4 UE4Editor-UMG.dll!UUserWidget::BeginDestroy() [d:\build\++ue4\sync\engine\source\runtime\umg\private\userwidget.cpp:472]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff93dcf2ad1 UE4Editor-CoreUObject.dll!UObject::ConditionalBeginDestroy() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\obj.cpp:934]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff93dcc756e UE4Editor-CoreUObject.dll!UnhashUnreachableObjects() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\garbagecollection.cpp:1625]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff93dc43f54 UE4Editor-CoreUObject.dll!CollectGarbageInternal() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\garbagecollection.cpp:1576]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff93dc434ae UE4Editor-CoreUObject.dll!CollectGarbage() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\garbagecollection.cpp:1656]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff914820091 UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::CompileSynchronouslyImpl() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprintcompilationmanager.cpp:229]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff9118bdf4c UE4Editor-UnrealEd.dll!FKismetEditorUtilities::CompileBlueprint() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\kismet2\kismet2.cpp:745]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff91481f8ff UE4Editor-Kismet.dll!FBlueprintEditor::Compile() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprinteditor.cpp:3229]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff9148805b8 UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,void __cdecl(void)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:345]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff9434829fe UE4Editor-Slate.dll!FUICommandList::ExecuteAction() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:97]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff943585872 UE4Editor-Slate.dll!SToolBarButtonBlock::OnClicked() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\multibox\stoolbarbuttonblock.cpp:300]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff9435624bf UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,SToolBarButtonBlock,0,FReply __cdecl(void)>::Execute() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:269]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff943649c3b UE4Editor-Slate.dll!SButton::OnMouseButtonUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:290]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff9434394c5 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_1002768c627006711ef2f351a87ec0e7> >() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:268]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff9434d1db2 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5472]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff9434b7c7a UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5979]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff9434ab25c UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5959]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff96685d1c7 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1736]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff966850270 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2182]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff96685f4c5 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:895]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff96684c209 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:732]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff977826d41 USER32.dll!UnknownFunction []
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff977826713 USER32.dll!UnknownFunction []
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff966860646 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:129]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff6c72654e5 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3417]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff6c7275b3c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff6c7275bba UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:144]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff6c7283dac UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:223]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff6c7285aaa UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:283]
+[2018.11.12-02.32.49:141][397]LogOutputDevice: Error: [Callstack] 0x00007ff975943034 KERNEL32.DLL!UnknownFunction []
+[2018.11.12-02.32.49:142][397]LogOutputDevice: Error: [Callstack] 0x00007ff977cd1471 ntdll.dll!UnknownFunction []
+[2018.11.12-02.32.49:142][397]LogOutputDevice: Error: 
+[2018.11.12-02.32.49:164][397]LogStats:                SubmitErrorReport -  0.018 s
