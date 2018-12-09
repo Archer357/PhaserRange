@@ -1,4 +1,4 @@
-﻿Log file open, 12/09/18 13:24:01
+﻿Log file open, 12/09/18 13:28:11
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,8 +9,8 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Holodeck2
 LogPlatformFile: Not using cached read wrapper
-LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.426116
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.456498
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -94,7 +94,7 @@ LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogPluginManager: Mounting plugin VRExpansionPlugin
-LogStreaming: Display: Took  0.101s to configure plugins.
+LogStreaming: Display: Took  0.198s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -119,12 +119,12 @@ LogInit: Build: ++UE4+Release-4.20-CL-4369336
 LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
 LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
 LogInit: Net CL: 4212847
-LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
 LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
 LogInit: Compiled with Visual C++: 19.13.26129.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.20
-LogInit: Command Line: 
+LogInit: Command Line:  
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 20
@@ -148,681 +148,387 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
-LogStreaming: Display: Took  0.001s to delete old logs.
+LogStreaming: Display: Took  0.002s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.12.09-21.24.02:096][  0]LogInit: Selected Device Profile: [Windows]
-[2018.12.09-21.24.02:096][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.12.09-21.24.02:107][  0]LogHAL: Display: Platform has ~ 16 GB [17018798080 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2018.12.09-21.24.02:107][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
-[2018.12.09-21.24.02:107][  0]LogInit: Going up to parent DeviceProfile []
-[2018.12.09-21.24.02:107][  0]LogInit: Computer: MSI
-[2018.12.09-21.24.02:107][  0]LogInit: User: CindyChiu
-[2018.12.09-21.24.02:107][  0]LogInit: CPU Page size=4096, Cores=6
-[2018.12.09-21.24.02:107][  0]LogInit: High frequency timer resolution =2.156255 MHz
-[2018.12.09-21.24.02:107][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
-[2018.12.09-21.24.02:107][  0]LogMemory: Platform Memory Stats for Windows
-[2018.12.09-21.24.02:107][  0]LogMemory: Process Physical Memory: 102.38 MB used, 102.38 MB peak
-[2018.12.09-21.24.02:107][  0]LogMemory: Process Virtual Memory: 98.27 MB used, 98.27 MB peak
-[2018.12.09-21.24.02:107][  0]LogMemory: Physical Memory: 6272.36 MB used,  9958.04 MB free, 16230.39 MB total
-[2018.12.09-21.24.02:107][  0]LogMemory: Virtual Memory: 4669.24 MB used,  9958.04 MB free, 134217728.00 MB total
-[2018.12.09-21.24.02:306][  0]LogInit: Using OS detected language (en-US).
-[2018.12.09-21.24.02:306][  0]LogInit: Using OS detected locale (en-US).
-[2018.12.09-21.24.02:306][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.12.09-21.24.02:616][  0]LogStreaming: Display: Took  0.310s to InitEngineTextLocalization.
-[2018.12.09-21.24.02:617][  0]LogInit: Setting process to per monitor DPI aware
-[2018.12.09-21.24.02:667][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.12.09-21.24.02:667][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.12.09-21.24.02:867][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.12.09-21.24.02:867][  0]LogD3D11RHI: D3D11 adapters:
-[2018.12.09-21.24.02:931][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (Feature Level 11_0)
-[2018.12.09-21.24.02:932][  0]LogD3D11RHI:       8081/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.12.09-21.24.02:946][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
-[2018.12.09-21.24.02:946][  0]LogD3D11RHI:       128/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2018.12.09-21.24.02:948][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.12.09-21.24.02:948][  0]LogD3D11RHI:       0/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.12.09-21.24.02:948][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.12.09-21.24.02:972][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.12.09-21.24.02:972][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
-[2018.12.09-21.24.02:972][  0]LogWindows: EnumDisplayDevices:
-[2018.12.09-21.24.02:972][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
-[2018.12.09-21.24.02:972][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2018.12.09-21.24.02:972][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2018.12.09-21.24.02:973][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
-[2018.12.09-21.24.02:973][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
-[2018.12.09-21.24.02:973][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
-[2018.12.09-21.24.02:973][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
-[2018.12.09-21.24.02:973][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2018.12.09-21.24.02:973][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 with Max-Q Design
-[2018.12.09-21.24.02:973][  0]LogD3D11RHI:   Driver Version: 391.48 (internal:23.21.13.9148, unified:391.48)
-[2018.12.09-21.24.02:973][  0]LogD3D11RHI:      Driver Date: 4-17-2018
-[2018.12.09-21.24.02:973][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
-[2018.12.09-21.24.03:004][  0]LogD3D11RHI: Async texture creation enabled
-[2018.12.09-21.24.03:038][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.12.09-21.24.03:038][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Intermediate/Shaders/WorkingDirectory/7152/).
-[2018.12.09-21.24.03:038][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cindy Chiu/AppData/Local/Temp/UnrealShaderWorkingDir/B79D763B4A117C6AA3BEA4B9978F544D/'.
-[2018.12.09-21.24.03:274][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.12.09-21.24.03:285][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.12.09-21.24.03:297][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.12.09-21.24.03:308][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.12.09-21.24.03:323][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.12.09-21.24.03:339][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.12.09-21.24.03:353][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.12.09-21.24.03:367][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.12.09-21.24.03:374][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.09-21.24.03:457][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.12.09-21.24.03:517][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.12.09-21.24.03:517][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.12.09-21.24.03:537][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.12.09-21.24.03:537][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.12.09-21.24.03:549][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.12.09-21.24.03:561][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.12.09-21.24.03:574][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.12.09-21.24.03:587][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.12.09-21.24.03:596][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2018.12.09-21.24.03:596][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.12.09-21.24.03:656][  0]LogXGEController: Cleaning working directory: C:/Users/Cindy Chiu/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.12.09-21.24.03:656][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.12.09-21.24.03:656][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.12.09-21.24.03:656][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.12.09-21.24.04:404][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.12.09-21.24.04:450][  0]LogDerivedDataCache: Loaded boot cache 0.05s 72MB C:/Users/Cindy Chiu/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.12.09-21.24.04:451][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cindy Chiu/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
-[2018.12.09-21.24.04:451][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.12.09-21.24.04:451][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.12.09-21.24.04:451][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.12.09-21.24.04:451][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.12.09-21.24.04:463][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.12.09-21.24.04:475][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cindy Chiu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.12.09-21.24.04:475][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.12.09-21.24.04:475][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.12.09-21.24.04:491][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.12.09-21.24.04:493][  0]LogSlate: Using FreeType 2.6.0
-[2018.12.09-21.24.04:493][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.12.09-21.24.04:561][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
-[2018.12.09-21.24.04:827][  0]LogInit: Selected Device Profile: [Windows]
-[2018.12.09-21.24.04:874][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.12.09-21.24.04:877][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.12.09-21.24.04:877][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2018.12.09-21.24.04:877][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.12.09-21.24.04:877][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.12.09-21.24.04:953][  0]LogNetVersion: Holodeck2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3709674839)
-[2018.12.09-21.24.05:368][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.084869 seconds
-[2018.12.09-21.24.05:373][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
-[2018.12.09-21.24.05:373][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
-[2018.12.09-21.24.05:373][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.12.09-21.24.06:116][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.12.09-21.24.06:129][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.12.09-21.24.06:258][  0]SourceControl: Source control is disabled
-[2018.12.09-21.24.06:258][  0]SourceControl: Source control is disabled
-[2018.12.09-21.24.06:259][  0]SourceControl: Source control is disabled
-[2018.12.09-21.24.06:260][  0]SourceControl: Source control is disabled
-[2018.12.09-21.24.06:409][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.12.09-21.24.06:790][  0]LogOcInput: OculusInput pre-init called
-[2018.12.09-21.24.06:856][  0]LogEngine: Initializing Engine...
-[2018.12.09-21.24.06:857][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.12.09-21.24.06:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.12.09-21.24.06:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.12.09-21.24.06:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.12.09-21.24.06:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.12.09-21.24.07:046][  0]LogInit: Initializing FReadOnlyCVARCache
-[2018.12.09-21.24.07:060][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.12.09-21.24.07:069][  0]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
-[2018.12.09-21.24.07:084][  0]LogInit: FAudioDevice initialized.
-[2018.12.09-21.24.07:085][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2018.12.09-21.24.07:127][  0]LogDerivedDataCache: Saved boot cache 0.04s 72MB C:/Users/Cindy Chiu/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.12.09-21.24.07:130][  0]LogInit: Texture streaming: Enabled
-[2018.12.09-21.24.07:145][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.12.09-21.24.07:146][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={3FDD8108-4BEF-7C5A-5313-54910372D6F4}
-[2018.12.09-21.24.07:157][  0]LogInit: Transaction tracking system initialized
-[2018.12.09-21.24.07:184][  0]BlueprintLog: New page: Editor Load
-[2018.12.09-21.24.07:269][  0]LocalizationService: Localization service is disabled
-[2018.12.09-21.24.07:501][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.12.09-21.24.07:501][  0]LogCook: Display: Mobile HDR setting 1
-[2018.12.09-21.24.07:501][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.12.09-21.24.07:501][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.12.09-21.24.07:501][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.12.09-21.24.07:501][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.12.09-21.24.07:501][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.12.09-21.24.07:621][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/' took 0.02s
-[2018.12.09-21.24.07:621][  0]SourceControl: Source control is disabled
-[2018.12.09-21.24.07:621][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.12.09-21.24.07:621][  0]LightingResults: New page: Lighting Build
-[2018.12.09-21.24.07:624][  0]MapCheck: New page: Map Check
-[2018.12.09-21.24.07:624][  0]LightingResults: New page: Lighting Build
-[2018.12.09-21.24.07:840][  0]LogLinker: Warning: Can't find file '/Game/Holodeck/Level/Range_BuiltData'
-[2018.12.09-21.24.07:840][  0]LogLinker: Warning: Can't find file for asset '/Game/Holodeck/Level/Range_BuiltData' while loading ../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap.
-[2018.12.09-21.24.07:840][  0]LoadErrors: Error: /Game/Holodeck/Level/Range : Can't find file for asset. /Game/Holodeck/Level/Range_BuiltData
-[2018.12.09-21.24.07:846][  0]LogLinker: Warning: Can't find file '/Game/Holodeck/Level/Range_BuiltData'
-[2018.12.09-21.24.07:846][  0]LogLinker: Warning: Can't find file for asset '/Game/Holodeck/Level/Range_BuiltData' while loading ../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap.
-[2018.12.09-21.24.07:846][  0]LoadErrors: Error: /Game/Holodeck/Level/Range : Can't find file for asset. /Game/Holodeck/Level/Range_BuiltData
-[2018.12.09-21.24.07:851][  0]LogLinker: Warning: Can't find file '/Game/Holodeck/Level/Range_BuiltData'
-[2018.12.09-21.24.07:851][  0]LoadErrors: Failed to load /Game/Holodeck/Level/Range_BuiltData.Range_BuiltData Referenced by PersistentLevel
-[2018.12.09-21.24.07:851][  0]LogLinker: Warning: Can't find file for asset '/Game/Holodeck/Level/Range_BuiltData' while loading NULL.
-[2018.12.09-21.24.07:851][  0]LoadErrors: Failed to load /Game/Holodeck/Level/Range_BuiltData.Range_BuiltData Referenced by PersistentLevel
-[2018.12.09-21.24.08:001][  0]LogAIModule: Creating AISystem for world Range
-[2018.12.09-21.24.08:006][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.12.09-21.24.08:032][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.12.09-21.24.08:100][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.106ms to complete.
-[2018.12.09-21.24.08:100][  0]LogFileHelpers: Loading map 'Range' took 0.479
-[2018.12.09-21.24.08:205][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.12.09-21.24.08:211][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.12.09-21.24.08:218][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.12.09-21.24.08:225][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.12.09-21.24.08:232][  0]LogCollectionManager: Loaded 0 collections in 0.001938 seconds
-[2018.12.09-21.24.08:273][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Collections/' took 0.01s
-[2018.12.09-21.24.08:273][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/Developers/CindyChiu/Collections/' took 0.01s
-[2018.12.09-21.24.08:273][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/Collections/' took 0.01s
-[2018.12.09-21.24.08:273][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2018.12.09-21.24.08:281][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2622 classes and 613 folders.
-[2018.12.09-21.24.08:287][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.12.09-21.24.08:332][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.12.09-21.24.08:346][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.12.09-21.24.08:349][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.12.09-21.24.08:353][  0]LogSlate: Took 0.000635 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.12.09-21.24.08:417][  0]LogRenderer: Reallocating scene render targets to support 884x468 Format 26 NumSamples 1 (Frame:1).
-[2018.12.09-21.24.08:522][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2018.12.09-21.24.08:522][  0]LogLoad: (Engine Initialization) Total time: 8.17 seconds
-[2018.12.09-21.24.08:522][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.12.09-21.24.08:542][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.12.09-21.24.08:565][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.12.09-21.24.08:593][  1]LogAssetRegistry: Asset discovery search completed in 4.0541 seconds
-[2018.12.09-21.24.08:595][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.12.09-21.24.08:595][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
-[2018.12.09-21.24.11:289][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.12.09-21.24.11:301][157]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.12.09-21.24.29:874][270]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.12.09-21.24.30:925][270]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Blank_Button376710AD41CE6161E50BB1B35621BD84.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Materials/Blank_Button.uasset'
-[2018.12.09-21.24.30:955][270]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Credits_ButtonC85CCAB24236BD950A7D789FAC459E48.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Materials/Credits_Button.uasset'
-[2018.12.09-21.24.31:012][270]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Main_Menu_M65917AF4415C9B739A25B88E6DB56E2A.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Materials/Main_Menu_M.uasset'
-[2018.12.09-21.24.31:048][270]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Main_Menu_MFFA19F7B439C11A13D0691BC0466E7A2.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Materials/Main_Menu_M.uasset'
-[2018.12.09-21.24.31:076][270]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Menu_ButtonC2E8955C41240A7C37199FBE4D1AD2BC.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Materials/Menu_Button.uasset'
-[2018.12.09-21.24.31:104][270]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Options_Button577F62A146EC46CF20BA1392F5DE2B09.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Materials/Options_Button.uasset'
-[2018.12.09-21.24.31:133][270]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Quit_ButtonB26BAACB4F6ED27DF892559FC7478282.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Materials/Quit_Button.uasset'
-[2018.12.09-21.24.31:154][270]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Settings_Button054977D344DFE964D5A572A146121C6A.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Materials/Settings_Button.uasset'
-[2018.12.09-21.24.31:176][270]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Start_Button5DA5C70745BD39C296D567A948D0D069.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Materials/Start_Button.uasset'
-[2018.12.09-21.24.31:210][270]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Title_pipesE02C4875407BA785C745A4A94CE45DF0.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Materials/Title_pipes.uasset'
-[2018.12.09-21.24.31:229][270]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Title_title9E18BB3D4C99FA9F05F4A0B507074503.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Materials/Title_title.uasset'
-[2018.12.09-21.24.31:851][270]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuCFE4E486449ADCE0B0886E9874FBC7AF.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/W_MainMenu.uasset'
-[2018.12.09-21.24.35:215][410]LogSlate: Window 'Delete Assets' being destroyed
-[2018.12.09-21.25.38:932][644]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/Mpgii_Japanese_Flowers'
-[2018.12.09-21.25.38:933][644]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/Mpgii_Japanese_Flowers'
-[2018.12.09-21.25.38:933][644]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MainMenu/Assets/Audio/Mpgii_Japanese_Flowers.Mpgii_Japanese_Flowers'
-[2018.12.09-21.25.38:933][644]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/Di0nysys_-_Way_of_the_Sword'
-[2018.12.09-21.25.38:933][644]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/Di0nysys_-_Way_of_the_Sword'
-[2018.12.09-21.25.38:933][644]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MainMenu/Assets/Audio/Di0nysys_-_Way_of_the_Sword.Di0nysys_-_Way_of_the_Sword'
-[2018.12.09-21.25.56:969][714]LogLinker: Warning: Can't find file '/Game/MainMenu/Materials/Main_Menu_M'
-[2018.12.09-21.25.56:969][714]LogLinker: Warning: Can't find file for asset '/Game/MainMenu/Materials/Main_Menu_M' while loading ../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menu.umap.
-[2018.12.09-21.25.56:969][714]LoadErrors: Error: /Game/MainMenu/BluePrints/Menu : Can't find file for asset. /Game/MainMenu/Materials/Main_Menu_M
-[2018.12.09-21.25.56:971][714]LogLinker: Warning: Can't find file '/Game/MainMenu/Materials/Main_Menu_M'
-[2018.12.09-21.25.56:972][714]LogLinker: Warning: Can't find file for asset '/Game/MainMenu/Materials/Main_Menu_M' while loading ../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menu.umap.
-[2018.12.09-21.25.56:979][714]LogLinker: Warning: Can't find file '/Game/MainMenu/Materials/Main_Menu_M'
-[2018.12.09-21.25.56:979][714]LoadErrors: Failed to load /Game/MainMenu/Materials/Main_Menu_M.Main_Menu_M Referenced by Cube_2
-[2018.12.09-21.25.56:979][714]LogLinker: Warning: Can't find file for asset '/Game/MainMenu/Materials/Main_Menu_M' while loading NULL.
-[2018.12.09-21.25.57:056][714]LogAIModule: Creating AISystem for world Menu
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.W_MainMenu_C' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:PreConstruct' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:Construct' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:Tick' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:BndEvt__Button_4_K2Node_ComponentBoundEvent_100_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:BndEvt__Button_Credits_K2Node_ComponentBoundEvent_165_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:BndEvt__Button_Quit_K2Node_ComponentBoundEvent_178_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:BndEvt__Button_back_2_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:W_Credits' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:MainCanvas' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:MainBox' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:Image_1' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:CreditBox' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:093][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:ButtonVBox' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:094][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:Button_Start' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:094][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:Button_Quit' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:094][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:Button_Credits' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:094][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:Button_back_2' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:094][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:094][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.W_MainMenu_C:W_Credits' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:094][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.W_MainMenu_C:MainCanvas' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:094][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.W_MainMenu_C:MainBox' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:094][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.W_MainMenu_C:Image_1' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:094][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.W_MainMenu_C:CreditBox' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:094][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.W_MainMenu_C:ButtonVBox' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:094][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.W_MainMenu_C:Button_Start' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:094][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.W_MainMenu_C:Button_Quit' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:094][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.W_MainMenu_C:Button_Credits' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:094][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.W_MainMenu_C:Button_back_2' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:094][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_MainMenu.W_MainMenu_C:Tick' ref from Metadata '/Game/MainMenu/BluePrints/W_MainMenu.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits_C' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits:GetTableText.K2Node_FunctionEntry_0' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits:CreateTextBoxPerson.K2Node_FunctionEntry_0' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits:GetData,SetText.K2Node_FunctionEntry_0' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.SKEL_W_Credits_C:PreConstruct' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.SKEL_W_Credits_C:Construct' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.SKEL_W_Credits_C:Tick' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.SKEL_W_Credits_C:MapOutput' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.SKEL_W_Credits_C:indexOfCredits' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.SKEL_W_Credits_C:ArrayIndex' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.SKEL_W_Credits_C:C_Data' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.SKEL_W_Credits_C:TitleMap' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.SKEL_W_Credits_C:GroupName' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.SKEL_W_Credits_C:WidgetIndex' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.SKEL_W_Credits_C:RowName' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.SKEL_W_Credits_C:C_ScrollBox' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.SKEL_W_Credits_C:GetTableText' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.SKEL_W_Credits_C' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits_C:MapOutput' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits_C:indexOfCredits' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits_C:ArrayIndex' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits_C:C_Data' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:099][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits_C:TitleMap' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:100][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits_C:GroupName' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:100][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits_C:WidgetIndex' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:100][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits_C:RowName' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:100][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits_C:C_ScrollBox' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:100][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits_C:Tick' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:100][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits_C:Construct' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:100][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_Credits.W_Credits_C:GetTableText' ref from Metadata '/Game/MainMenu/BluePrints/W_Credits.PackageMetaData'
-[2018.12.09-21.25.57:105][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditTitle.W_CreditTitle_C' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditTitle.PackageMetaData'
-[2018.12.09-21.25.57:105][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditTitle.W_CreditTitle:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditTitle.PackageMetaData'
-[2018.12.09-21.25.57:105][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditTitle.W_CreditTitle:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditTitle.PackageMetaData'
-[2018.12.09-21.25.57:105][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditTitle.W_CreditTitle:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditTitle.PackageMetaData'
-[2018.12.09-21.25.57:105][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditTitle.SKEL_W_CreditTitle_C:PreConstruct' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditTitle.PackageMetaData'
-[2018.12.09-21.25.57:105][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditTitle.SKEL_W_CreditTitle_C:Construct' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditTitle.PackageMetaData'
-[2018.12.09-21.25.57:105][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditTitle.SKEL_W_CreditTitle_C:Tick' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditTitle.PackageMetaData'
-[2018.12.09-21.25.57:105][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditTitle.SKEL_W_CreditTitle_C:C_TitleText' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditTitle.PackageMetaData'
-[2018.12.09-21.25.57:105][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditTitle.SKEL_W_CreditTitle_C' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditTitle.PackageMetaData'
-[2018.12.09-21.25.57:105][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditTitle.W_CreditTitle_C:C_TitleText' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditTitle.PackageMetaData'
-[2018.12.09-21.25.57:110][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditsText.W_CreditsText_C' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditsText.PackageMetaData'
-[2018.12.09-21.25.57:110][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditsText.W_CreditsText:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditsText.PackageMetaData'
-[2018.12.09-21.25.57:110][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditsText.W_CreditsText:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditsText.PackageMetaData'
-[2018.12.09-21.25.57:110][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditsText.W_CreditsText:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditsText.PackageMetaData'
-[2018.12.09-21.25.57:110][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditsText.SKEL_W_CreditsText_C:PreConstruct' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditsText.PackageMetaData'
-[2018.12.09-21.25.57:110][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditsText.SKEL_W_CreditsText_C:Construct' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditsText.PackageMetaData'
-[2018.12.09-21.25.57:110][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditsText.SKEL_W_CreditsText_C:Tick' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditsText.PackageMetaData'
-[2018.12.09-21.25.57:110][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditsText.SKEL_W_CreditsText_C:C_TextBox' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditsText.PackageMetaData'
-[2018.12.09-21.25.57:110][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditsText.SKEL_W_CreditsText_C' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditsText.PackageMetaData'
-[2018.12.09-21.25.57:110][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/W_CreditsText.W_CreditsText_C:C_TextBox' ref from Metadata '/Game/MainMenu/BluePrints/W_CreditsText.PackageMetaData'
-[2018.12.09-21.25.57:120][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/CreditStruct.CreditStruct' ref from Metadata '/Game/MainMenu/BluePrints/CreditStruct.PackageMetaData'
-[2018.12.09-21.25.57:120][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/CreditStruct.CreditStruct:FirstName_5_80F3E838493AAA00B29F83BA01B57143' ref from Metadata '/Game/MainMenu/BluePrints/CreditStruct.PackageMetaData'
-[2018.12.09-21.25.57:120][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/CreditStruct.CreditStruct:LastName_9_F2ECA6D14CD5E40643CADCA88CED275A' ref from Metadata '/Game/MainMenu/BluePrints/CreditStruct.PackageMetaData'
-[2018.12.09-21.25.57:120][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/CreditStruct.CreditStruct:Title_10_F0DEB7E74524F3A5EDE52F9B7617E546' ref from Metadata '/Game/MainMenu/BluePrints/CreditStruct.PackageMetaData'
-[2018.12.09-21.25.57:169][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/MainMenuWidget.MainMenuWidget_C' ref from Metadata '/Game/MainMenu/BluePrints/MainMenuWidget.PackageMetaData'
-[2018.12.09-21.25.57:169][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/BluePrints/MainMenuWidget.PackageMetaData'
-[2018.12.09-21.25.57:169][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/BluePrints/MainMenuWidget.PackageMetaData'
-[2018.12.09-21.25.57:169][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/BluePrints/MainMenuWidget.PackageMetaData'
-[2018.12.09-21.25.57:169][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/MainMenuWidget.MainMenuWidget:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MainMenu/BluePrints/MainMenuWidget.PackageMetaData'
-[2018.12.09-21.25.57:169][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/MainMenuWidget.SKEL_MainMenuWidget_C:ReceiveBeginPlay' ref from Metadata '/Game/MainMenu/BluePrints/MainMenuWidget.PackageMetaData'
-[2018.12.09-21.25.57:169][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/MainMenuWidget.SKEL_MainMenuWidget_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/MainMenu/BluePrints/MainMenuWidget.PackageMetaData'
-[2018.12.09-21.25.57:169][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/MainMenuWidget.SKEL_MainMenuWidget_C:ReceiveTick' ref from Metadata '/Game/MainMenu/BluePrints/MainMenuWidget.PackageMetaData'
-[2018.12.09-21.25.57:169][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/MainMenuWidget.SKEL_MainMenuWidget_C:Scene' ref from Metadata '/Game/MainMenu/BluePrints/MainMenuWidget.PackageMetaData'
-[2018.12.09-21.25.57:169][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/MainMenuWidget.SKEL_MainMenuWidget_C:Widget' ref from Metadata '/Game/MainMenu/BluePrints/MainMenuWidget.PackageMetaData'
-[2018.12.09-21.25.57:169][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/MainMenuWidget.SKEL_MainMenuWidget_C:UserConstructionScript' ref from Metadata '/Game/MainMenu/BluePrints/MainMenuWidget.PackageMetaData'
-[2018.12.09-21.25.57:169][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/MainMenuWidget.SKEL_MainMenuWidget_C' ref from Metadata '/Game/MainMenu/BluePrints/MainMenuWidget.PackageMetaData'
-[2018.12.09-21.25.57:169][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/MainMenuWidget.MainMenuWidget_C:Scene' ref from Metadata '/Game/MainMenu/BluePrints/MainMenuWidget.PackageMetaData'
-[2018.12.09-21.25.57:169][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/MainMenuWidget.MainMenuWidget_C:Widget' ref from Metadata '/Game/MainMenu/BluePrints/MainMenuWidget.PackageMetaData'
-[2018.12.09-21.25.57:169][714]LogMetaData: Removing '/Game/MainMenu/MainMenuUI/MainMenuWidget.MainMenuWidget_C:UserConstructionScript' ref from Metadata '/Game/MainMenu/BluePrints/MainMenuWidget.PackageMetaData'
-[2018.12.09-21.25.57:210][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Menu_BuiltData87835FA04C08C1176DB65998A5815224.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Menu_BuiltData.uasset'
-[2018.12.09-21.25.57:250][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuAA3E276043B90CD6CE8A53B2C182EBDF.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/W_MainMenu.uasset'
-[2018.12.09-21.25.57:255][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuUI/W_Credits" FILE="../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/W_Credits.uasset" SILENT=true
-[2018.12.09-21.25.57:298][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_Credits708DC8AB4E0023F6F33D5991A29C7184.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/W_Credits.uasset'
-[2018.12.09-21.25.57:314][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_CreditTitle2DFE15204F7077F9AB45BC9AFEC100A2.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/W_CreditTitle.uasset'
-[2018.12.09-21.25.57:330][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_CreditsTextB01A5D1D4BF8B8AC26C75A941C85D8FE.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/W_CreditsText.uasset'
-[2018.12.09-21.25.57:346][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/CreditSheet29D49E92E471D72838FBEC289349F98E5.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/CreditSheet2.uasset'
-[2018.12.09-21.25.57:357][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/CreditStruct20334B6740B9336E9594FB993C1F14C2.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/CreditStruct.uasset'
-[2018.12.09-21.25.57:375][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Title_title1E72A4B147243797A2C7E3915D8BEB6D.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Materials/Title_title.uasset'
-[2018.12.09-21.25.57:401][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Title_pipes0A47BB3749BDADE96350B1A28F7BDBE9.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Materials/Title_pipes.uasset'
-[2018.12.09-21.25.57:426][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Start_ButtonF592885648971385A2D476A1CF693E8E.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Materials/Start_Button.uasset'
-[2018.12.09-21.25.57:448][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Settings_ButtonE12A40B44C836E3237687F8AAA94D12D.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Materials/Settings_Button.uasset'
-[2018.12.09-21.25.57:475][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Quit_ButtonD938AAF34AAF360FC2198F8AF8C03C2B.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Materials/Quit_Button.uasset'
-[2018.12.09-21.25.57:499][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Options_Button87A73BFA4C8BF394992855A00FFEB7E1.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Materials/Options_Button.uasset'
-[2018.12.09-21.25.57:523][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Menu_Button7E95158E49D519C86E0229AA6C9F27EE.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Materials/Menu_Button.uasset'
-[2018.12.09-21.25.57:557][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Main_Menu_M9B4702644ECEFBDE46738D83BEC766BF.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Materials/Main_Menu_M.uasset'
-[2018.12.09-21.25.57:583][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Credits_ButtonAAC18BDC4CABF99AE09F23BF4706D968.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Materials/Credits_Button.uasset'
-[2018.12.09-21.25.57:604][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Blank_ButtonA4804AA04EABC10453DC3B9C09E17C75.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Materials/Blank_Button.uasset'
-[2018.12.09-21.25.57:620][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/MainMenuWidget5CA3F96F468FBE895B02D1B66CD28D96.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/MainMenuWidget.uasset'
-[2018.12.09-21.25.57:751][714]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Menu7560AD8F48F5742BFD557385E9DD1768.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Menu.umap'
-[2018.12.09-21.25.57:759][714]LogFileHelpers: Saving map 'Menu' took 0.133
-[2018.12.09-21.26.09:780][361]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Range320EE6304A4A92B253D3C8A2764A9BC0.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap'
-[2018.12.09-21.26.13:258][558]LogSlate: Window 'Holodeck2 - Unreal Editor' being destroyed
-[2018.12.09-21.26.13:258][558]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.12.09-21.26.13:463][559]Cmd: QUIT_EDITOR
-[2018.12.09-21.26.13:514][559]LogExit: Preparing to exit.
-[2018.12.09-21.26.14:224][559]LogExit: Editor shut down
-[2018.12.09-21.26.14:224][559]LogExit: Transaction tracking system shut down
-[2018.12.09-21.26.14:951][559]LogExit: Object subsystem successfully closed.
-[2018.12.09-21.26.14:974][559]LogShaderCompilers: Display: Shaders left to compile 0
-[2018.12.09-21.26.14:976][559]LogD3D11RHI: Shutdown
-[2018.12.09-21.26.14:976][559]LogD3D11RHI: CleanupD3DDevice
-[2018.12.09-21.26.14:977][559]LogD3D11RHI: ~FD3D11DynamicRHI
-[2018.12.09-21.26.15:005][559]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (616)
-[2018.12.09-21.26.15:005][559]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (614)
-[2018.12.09-21.26.15:005][559]LogModuleManager: Shutting down and abandoning module AddContentDialog (612)
-[2018.12.09-21.26.15:013][559]LogModuleManager: Shutting down and abandoning module WidgetCarousel (611)
-[2018.12.09-21.26.15:013][559]LogModuleManager: Shutting down and abandoning module EditorWidgets (608)
-[2018.12.09-21.26.15:013][559]LogModuleManager: Shutting down and abandoning module CollectionManager (606)
-[2018.12.09-21.26.15:013][559]LogModuleManager: Shutting down and abandoning module SceneOutliner (604)
-[2018.12.09-21.26.15:013][559]LogModuleManager: Shutting down and abandoning module StatsViewer (602)
-[2018.12.09-21.26.15:013][559]LogModuleManager: Shutting down and abandoning module FoliageEdit (600)
-[2018.12.09-21.26.15:013][559]LogModuleManager: Shutting down and abandoning module LandscapeEditor (598)
-[2018.12.09-21.26.15:014][559]LogModuleManager: Shutting down and abandoning module MeshPaintMode (596)
-[2018.12.09-21.26.15:014][559]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (594)
-[2018.12.09-21.26.15:014][559]LogModuleManager: Shutting down and abandoning module ActorPickerMode (592)
-[2018.12.09-21.26.15:014][559]LogModuleManager: Shutting down and abandoning module GeometryMode (590)
-[2018.12.09-21.26.15:014][559]LogModuleManager: Shutting down and abandoning module TextureAlignMode (588)
-[2018.12.09-21.26.15:014][559]LogModuleManager: Shutting down and abandoning module BspMode (586)
-[2018.12.09-21.26.15:014][559]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (584)
-[2018.12.09-21.26.15:014][559]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (582)
-[2018.12.09-21.26.15:014][559]LogModuleManager: Shutting down and abandoning module AutomationWorker (580)
-[2018.12.09-21.26.15:014][559]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (578)
-[2018.12.09-21.26.15:014][559]LogModuleManager: Shutting down and abandoning module SequenceRecorder (577)
-[2018.12.09-21.26.15:014][559]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (574)
-[2018.12.09-21.26.15:014][559]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (572)
-[2018.12.09-21.26.15:014][559]LogModuleManager: Shutting down and abandoning module PlacementMode (571)
-[2018.12.09-21.26.15:014][559]LogModuleManager: Shutting down and abandoning module MaterialEditor (570)
-[2018.12.09-21.26.15:015][559]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (566)
-[2018.12.09-21.26.15:015][559]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (564)
-[2018.12.09-21.26.15:015][559]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (562)
-[2018.12.09-21.26.15:015][559]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
-[2018.12.09-21.26.15:015][559]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
-[2018.12.09-21.26.15:015][559]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
-[2018.12.09-21.26.15:015][559]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
-[2018.12.09-21.26.15:015][559]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
-[2018.12.09-21.26.15:016][559]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
-[2018.12.09-21.26.15:016][559]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
-[2018.12.09-21.26.15:016][559]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
-[2018.12.09-21.26.15:016][559]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
-[2018.12.09-21.26.15:016][559]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
-[2018.12.09-21.26.15:016][559]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
-[2018.12.09-21.26.15:016][559]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
-[2018.12.09-21.26.15:016][559]LogModuleManager: Shutting down and abandoning module SessionServices (536)
-[2018.12.09-21.26.15:016][559]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
-[2018.12.09-21.26.15:016][559]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
-[2018.12.09-21.26.15:016][559]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
-[2018.12.09-21.26.15:016][559]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
-[2018.12.09-21.26.15:017][559]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
-[2018.12.09-21.26.15:017][559]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
-[2018.12.09-21.26.15:018][559]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
-[2018.12.09-21.26.15:018][559]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
-[2018.12.09-21.26.15:018][559]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
-[2018.12.09-21.26.15:018][559]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
-[2018.12.09-21.26.15:018][559]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
-[2018.12.09-21.26.15:018][559]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
-[2018.12.09-21.26.15:377][559]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
-[2018.12.09-21.26.15:377][559]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
-[2018.12.09-21.26.15:377][559]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
-[2018.12.09-21.26.15:377][559]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
-[2018.12.09-21.26.15:377][559]LogModuleManager: Shutting down and abandoning module InputBindingEditor (502)
-[2018.12.09-21.26.15:380][559]LogModuleManager: Shutting down and abandoning module MergeActors (500)
-[2018.12.09-21.26.15:380][559]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (498)
-[2018.12.09-21.26.15:380][559]LogModuleManager: Shutting down and abandoning module LocalizationService (497)
-[2018.12.09-21.26.15:381][559]LogModuleManager: Shutting down and abandoning module HardwareTargeting (494)
-[2018.12.09-21.26.15:381][559]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (492)
-[2018.12.09-21.26.15:381][559]LogModuleManager: Shutting down and abandoning module UndoHistory (490)
-[2018.12.09-21.26.15:381][559]LogModuleManager: Shutting down and abandoning module XmlParser (488)
-[2018.12.09-21.26.15:381][559]LogModuleManager: Shutting down and abandoning module Blutility (486)
-[2018.12.09-21.26.15:381][559]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (484)
-[2018.12.09-21.26.15:381][559]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (483)
-[2018.12.09-21.26.15:381][559]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (480)
-[2018.12.09-21.26.15:381][559]LogModuleManager: Shutting down and abandoning module SettingsEditor (478)
-[2018.12.09-21.26.15:381][559]LogModuleManager: Shutting down and abandoning module ProjectLauncher (476)
-[2018.12.09-21.26.15:381][559]LogModuleManager: Shutting down and abandoning module SessionFrontend (474)
-[2018.12.09-21.26.15:381][559]LogModuleManager: Shutting down and abandoning module ProfilerClient (472)
-[2018.12.09-21.26.15:381][559]LogModuleManager: Shutting down and abandoning module DeviceManager (470)
-[2018.12.09-21.26.15:381][559]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (469)
-[2018.12.09-21.26.15:436][559]LogModuleManager: Shutting down and abandoning module AutomationController (466)
-[2018.12.09-21.26.15:436][559]LogModuleManager: Shutting down and abandoning module AutomationWindow (464)
-[2018.12.09-21.26.15:436][559]LogModuleManager: Shutting down and abandoning module Layers (462)
-[2018.12.09-21.26.15:438][559]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (460)
-[2018.12.09-21.26.15:438][559]LogModuleManager: Shutting down and abandoning module DetailCustomizations (458)
-[2018.12.09-21.26.15:438][559]LogModuleManager: Shutting down and abandoning module PackagesDialog (456)
-[2018.12.09-21.26.15:438][559]LogModuleManager: Shutting down and abandoning module Persona (454)
-[2018.12.09-21.26.15:438][559]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (453)
-[2018.12.09-21.26.15:438][559]LogModuleManager: Shutting down and abandoning module AnimGraph (451)
-[2018.12.09-21.26.15:439][559]LogModuleManager: Shutting down and abandoning module Kismet (448)
-[2018.12.09-21.26.15:439][559]LogModuleManager: Shutting down and abandoning module GraphEditor (446)
-[2018.12.09-21.26.15:439][559]LogModuleManager: Shutting down and abandoning module ClassViewer (444)
-[2018.12.09-21.26.15:439][559]LogModuleManager: Shutting down and abandoning module Toolbox (442)
-[2018.12.09-21.26.15:439][559]LogModuleManager: Shutting down and abandoning module DesktopPlatform (441)
-[2018.12.09-21.26.15:439][559]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module OutputLog (434)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module GammaUI (432)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module Documentation (430)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module MovieScene (426)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module PortalServices (418)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module AIModule (412)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
-[2018.12.09-21.26.15:440][559]LogModuleManager: Shutting down and abandoning module ProfilerService (404)
-[2018.12.09-21.26.15:540][559]LogModuleManager: Shutting down and abandoning module TaskGraph (402)
-[2018.12.09-21.26.15:540][559]LogModuleManager: Shutting down and abandoning module VRExpansionPlugin (400)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module OculusInput (392)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module CableComponent (384)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
-[2018.12.09-21.26.15:543][559]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
-[2018.12.09-21.26.15:547][559]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
-[2018.12.09-21.26.15:547][559]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
-[2018.12.09-21.26.15:547][559]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
-[2018.12.09-21.26.15:547][559]LogModuleManager: Shutting down and abandoning module BackChannel (358)
-[2018.12.09-21.26.15:547][559]LogModuleManager: Shutting down and abandoning module AppleVision (356)
-[2018.12.09-21.26.15:547][559]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
-[2018.12.09-21.26.15:547][559]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
-[2018.12.09-21.26.15:547][559]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
-[2018.12.09-21.26.15:547][559]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
-[2018.12.09-21.26.15:547][559]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
-[2018.12.09-21.26.15:547][559]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
-[2018.12.09-21.26.15:547][559]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
-[2018.12.09-21.26.15:547][559]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
-[2018.12.09-21.26.15:548][559]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
-[2018.12.09-21.26.15:548][559]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
-[2018.12.09-21.26.15:548][559]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
-[2018.12.09-21.26.15:548][559]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
-[2018.12.09-21.26.15:548][559]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
-[2018.12.09-21.26.15:548][559]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
-[2018.12.09-21.26.15:548][559]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
-[2018.12.09-21.26.15:548][559]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
-[2018.12.09-21.26.15:548][559]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
-[2018.12.09-21.26.15:548][559]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
-[2018.12.09-21.26.15:548][559]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module SourceControl (315)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module Holodeck2 (300)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
-[2018.12.09-21.26.15:549][559]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
-[2018.12.09-21.26.15:650][559]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
-[2018.12.09-21.26.15:750][559]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
-[2018.12.09-21.26.15:750][559]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
-[2018.12.09-21.26.15:752][559]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
-[2018.12.09-21.26.15:752][559]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
-[2018.12.09-21.26.15:752][559]LogModuleManager: Shutting down and abandoning module DataValidation (270)
-[2018.12.09-21.26.15:752][559]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
-[2018.12.09-21.26.15:753][559]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
-[2018.12.09-21.26.15:753][559]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
-[2018.12.09-21.26.15:754][559]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
-[2018.12.09-21.26.15:754][559]LogModuleManager: Shutting down and abandoning module MainFrame (262)
-[2018.12.09-21.26.15:754][559]LogModuleManager: Shutting down and abandoning module HotReload (261)
-[2018.12.09-21.26.15:754][559]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
-[2018.12.09-21.26.15:755][559]LogModuleManager: Shutting down and abandoning module TreeMap (255)
-[2018.12.09-21.26.15:755][559]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
-[2018.12.09-21.26.15:755][559]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
-[2018.12.09-21.26.15:755][559]LogModuleManager: Shutting down and abandoning module Paper2D (248)
-[2018.12.09-21.26.15:755][559]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
-[2018.12.09-21.26.15:755][559]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
-[2018.12.09-21.26.15:756][559]LogModuleManager: Shutting down and abandoning module Media (243)
-[2018.12.09-21.26.15:762][559]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
-[2018.12.09-21.26.15:762][559]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
-[2018.12.09-21.26.15:762][559]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
-[2018.12.09-21.26.15:762][559]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
-[2018.12.09-21.26.15:762][559]LogModuleManager: Shutting down and abandoning module Overlay (232)
-[2018.12.09-21.26.15:762][559]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
-[2018.12.09-21.26.15:762][559]LogModuleManager: Shutting down and abandoning module VREditor (228)
-[2018.12.09-21.26.15:763][559]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
-[2018.12.09-21.26.15:763][559]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
-[2018.12.09-21.26.15:763][559]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
-[2018.12.09-21.26.15:763][559]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
-[2018.12.09-21.26.15:763][559]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
-[2018.12.09-21.26.15:763][559]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
-[2018.12.09-21.26.15:763][559]LogModuleManager: Shutting down and abandoning module UMG (214)
-[2018.12.09-21.26.15:763][559]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
-[2018.12.09-21.26.15:763][559]LogModuleManager: Shutting down and abandoning module Sequencer (212)
-[2018.12.09-21.26.15:763][559]LogModuleManager: Shutting down and abandoning module MessageLog (209)
-[2018.12.09-21.26.15:764][559]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
-[2018.12.09-21.26.15:764][559]LogModuleManager: Shutting down and abandoning module Slate (202)
-[2018.12.09-21.26.15:764][559]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
-[2018.12.09-21.26.15:765][559]LogModuleManager: Shutting down and abandoning module MRMesh (198)
-[2018.12.09-21.26.15:765][559]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
-[2018.12.09-21.26.15:765][559]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
-[2018.12.09-21.26.15:765][559]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
-[2018.12.09-21.26.15:765][559]LogModuleManager: Shutting down and abandoning module Networking (190)
-[2018.12.09-21.26.15:765][559]LogModuleManager: Shutting down and abandoning module Core (188)
-[2018.12.09-21.26.15:765][559]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
-[2018.12.09-21.26.15:765][559]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
-[2018.12.09-21.26.15:765][559]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
-[2018.12.09-21.26.15:765][559]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
-[2018.12.09-21.26.15:765][559]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
-[2018.12.09-21.26.15:765][559]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
-[2018.12.09-21.26.15:765][559]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
-[2018.12.09-21.26.15:766][559]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
-[2018.12.09-21.26.15:766][559]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
-[2018.12.09-21.26.15:766][559]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
-[2018.12.09-21.26.15:766][559]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
-[2018.12.09-21.26.15:766][559]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
-[2018.12.09-21.26.15:822][559]LogDerivedDataCache: Shutdown
-[2018.12.09-21.26.15:822][559]LogModuleManager: Shutting down and abandoning module XGEController (160)
-[2018.12.09-21.26.15:822][559]LogXGEController: Cleaning working directory: C:/Users/Cindy Chiu/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.12.09-21.26.15:822][559]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
-[2018.12.09-21.26.15:822][559]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
-[2018.12.09-21.26.15:822][559]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
-[2018.12.09-21.26.15:822][559]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
-[2018.12.09-21.26.15:823][559]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
-[2018.12.09-21.26.15:824][559]LogModuleManager: Shutting down and abandoning module Messaging (115)
-[2018.12.09-21.26.15:824][559]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
-[2018.12.09-21.26.15:825][559]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
-[2018.12.09-21.26.15:825][559]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
-[2018.12.09-21.26.15:830][559]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
-[2018.12.09-21.26.15:830][559]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
-[2018.12.09-21.26.15:830][559]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
-[2018.12.09-21.26.15:830][559]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
-[2018.12.09-21.26.15:830][559]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
-[2018.12.09-21.26.15:830][559]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
-[2018.12.09-21.26.15:831][559]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
-[2018.12.09-21.26.15:831][559]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
-[2018.12.09-21.26.15:831][559]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
-[2018.12.09-21.26.15:831][559]LogModuleManager: Shutting down and abandoning module InputCore (88)
-[2018.12.09-21.26.15:831][559]LogModuleManager: Shutting down and abandoning module Settings (86)
-[2018.12.09-21.26.15:831][559]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
-[2018.12.09-21.26.15:831][559]LogModuleManager: Shutting down and abandoning module SteamVR (82)
-[2018.12.09-21.26.15:831][559]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
-[2018.12.09-21.26.15:831][559]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
-[2018.12.09-21.26.15:831][559]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
-[2018.12.09-21.26.15:831][559]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
-[2018.12.09-21.26.15:831][559]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
-[2018.12.09-21.26.15:831][559]LogModuleManager: Shutting down and abandoning module XMPP (65)
-[2018.12.09-21.26.15:832][559]LogModuleManager: Shutting down and abandoning module WebSockets (64)
-[2018.12.09-21.26.15:856][559]LogModuleManager: Shutting down and abandoning module HTTP (61)
-[2018.12.09-21.26.15:856][559]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2018.12.09-21.26.15:856][559]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58208100-4394-8192-3F2C-6091DDB40E5B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=442ad2b344cac435d24318a2d6847fdb%7C86b6ae209afd4afba3857a84ef1c03f5%7C89054d2f-0aac-49bd-82c0-049f9a8bca74&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2018.12.09-21.26.15:881][559]LogModuleManager: Shutting down and abandoning module SSL (60)
-[2018.12.09-21.26.15:882][559]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
-[2018.12.09-21.26.15:882][559]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
-[2018.12.09-21.26.15:882][559]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
-[2018.12.09-21.26.15:882][559]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
-[2018.12.09-21.26.15:882][559]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
-[2018.12.09-21.26.15:882][559]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
-[2018.12.09-21.26.15:882][559]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
-[2018.12.09-21.26.15:882][559]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
-[2018.12.09-21.26.15:882][559]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
-[2018.12.09-21.26.15:882][559]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
-[2018.12.09-21.26.15:882][559]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
-[2018.12.09-21.26.15:882][559]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
-[2018.12.09-21.26.15:883][559]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
-[2018.12.09-21.26.15:883][559]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
-[2018.12.09-21.26.15:883][559]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
-[2018.12.09-21.26.15:883][559]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
-[2018.12.09-21.26.15:883][559]LogModuleManager: Shutting down and abandoning module Landscape (26)
-[2018.12.09-21.26.15:883][559]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
-[2018.12.09-21.26.15:883][559]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
-[2018.12.09-21.26.15:884][559]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
-[2018.12.09-21.26.15:884][559]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
-[2018.12.09-21.26.15:884][559]LogModuleManager: Shutting down and abandoning module Renderer (16)
-[2018.12.09-21.26.15:884][559]LogModuleManager: Shutting down and abandoning module Engine (14)
-[2018.12.09-21.26.15:884][559]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
-[2018.12.09-21.26.15:884][559]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
-[2018.12.09-21.26.15:884][559]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
-[2018.12.09-21.26.15:884][559]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
-[2018.12.09-21.26.15:884][559]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
-[2018.12.09-21.26.15:884][559]LogModuleManager: Shutting down and abandoning module PakFile (2)
-[2018.12.09-21.26.15:892][559]LogExit: Exiting.
-[2018.12.09-21.26.15:913][559]Log file closed, 12/09/18 13:26:15
+[2018.12.09-21.28.13:191][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.09-21.28.13:191][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.09-21.28.13:223][  0]LogHAL: Display: Platform has ~ 16 GB [17091371008 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.09-21.28.13:223][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.09-21.28.13:224][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.09-21.28.13:234][  0]LogInit: Computer: DESKTOP-2QNA1SC
+[2018.12.09-21.28.13:234][  0]LogInit: User: darkm
+[2018.12.09-21.28.13:234][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.09-21.28.13:234][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.12.09-21.28.13:235][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.09-21.28.13:235][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.09-21.28.13:235][  0]LogMemory: Process Physical Memory: 101.86 MB used, 101.86 MB peak
+[2018.12.09-21.28.13:235][  0]LogMemory: Process Virtual Memory: 93.43 MB used, 93.43 MB peak
+[2018.12.09-21.28.13:235][  0]LogMemory: Physical Memory: 4728.21 MB used,  11571.39 MB free, 16299.60 MB total
+[2018.12.09-21.28.13:235][  0]LogMemory: Virtual Memory: 4647.37 MB used,  11571.39 MB free, 134217728.00 MB total
+[2018.12.09-21.28.13:600][  0]LogInit: Using OS detected language (en-US).
+[2018.12.09-21.28.13:600][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.09-21.28.13:602][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.09-21.28.14:208][  0]LogStreaming: Display: Took  0.607s to InitEngineTextLocalization.
+[2018.12.09-21.28.14:208][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.09-21.28.14:397][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.09-21.28.14:397][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.09-21.28.17:194][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.09-21.28.17:195][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.09-21.28.17:229][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2018.12.09-21.28.17:229][  0]LogD3D11RHI:       128/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.12.09-21.28.17:446][  0]LogD3D11RHI:    1. 'Radeon 500 Series' (Feature Level 11_0)
+[2018.12.09-21.28.17:447][  0]LogD3D11RHI:       1994/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2018.12.09-21.28.17:453][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.09-21.28.17:453][  0]LogD3D11RHI:       0/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.09-21.28.17:453][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2018.12.09-21.28.17:464][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.09-21.28.17:464][  0]LogD3D11RHI:     GPU DeviceId: 0x699f (for the marketing name, search the web for "GPU Device Id")
+[2018.12.09-21.28.17:464][  0]LogWindows: EnumDisplayDevices:
+[2018.12.09-21.28.17:464][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2018.12.09-21.28.17:465][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.12.09-21.28.17:465][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.12.09-21.28.17:465][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.09-21.28.17:465][  0]LogD3D11RHI:     Adapter Name: Radeon 500 Series
+[2018.12.09-21.28.17:465][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.09-21.28.17:465][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.09-21.28.17:465][  0]LogRHI: Texture pool is 1396 MB (70% of 1994 MB)
+[2018.12.09-21.28.17:576][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.09-21.28.17:614][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2018.12.09-21.28.17:623][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Intermediate/Shaders/WorkingDirectory/9268/).
+[2018.12.09-21.28.17:623][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/darkm/AppData/Local/Temp/UnrealShaderWorkingDir/A9F8F7B94627DB8F4843DABE096D5D35/'.
+[2018.12.09-21.28.18:345][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.09-21.28.18:371][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.09-21.28.18:396][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.09-21.28.18:419][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.09-21.28.18:457][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.09-21.28.18:485][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.09-21.28.18:510][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.09-21.28.18:540][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.09-21.28.18:559][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.09-21.28.18:719][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:719][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:719][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:719][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:719][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:719][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:719][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:719][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:719][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:719][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:719][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:719][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:720][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:720][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:720][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:720][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:720][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:720][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.28.18:726][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.09-21.28.18:835][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.09-21.28.18:835][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.09-21.28.18:875][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.09-21.28.18:875][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.09-21.28.18:899][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.09-21.28.18:918][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.09-21.28.18:934][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.09-21.28.18:958][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.09-21.28.18:969][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.09-21.28.18:969][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.09-21.28.19:211][  0]LogXGEController: Cleaning working directory: C:/Users/darkm/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.09-21.28.19:211][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.09-21.28.19:211][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.09-21.28.19:211][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.09-21.28.21:584][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.09-21.28.22:240][  0]LogDerivedDataCache: Loaded boot cache 0.66s 85MB C:/Users/darkm/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.09-21.28.22:240][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/darkm/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.09-21.28.22:241][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.09-21.28.22:241][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.09-21.28.22:241][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.09-21.28.22:241][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.09-21.28.22:268][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.09-21.28.22:282][  0]LogDerivedDataCache: Using Local data cache path C:/Users/darkm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.09-21.28.22:282][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.09-21.28.22:282][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.09-21.28.22:306][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.09-21.28.22:319][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.09-21.28.22:341][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.09-21.28.22:747][  0]LogAssetRegistry: FAssetRegistry took 0.0346 seconds to start up
+[2018.12.09-21.28.23:321][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.09-21.28.23:811][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.09-21.28.23:848][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.09-21.28.23:849][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.09-21.28.23:850][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.09-21.28.23:850][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.09-21.28.23:938][  0]LogNetVersion: Holodeck2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3709674839)
+[2018.12.09-21.28.25:756][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.174966 seconds
+[2018.12.09-21.28.25:766][  0]LogUObjectArray: 38427 objects as part of root set at end of initial load.
+[2018.12.09-21.28.25:766][  0]LogUObjectAllocator: 6691320 out of 0 bytes used by permanent object pool.
+[2018.12.09-21.28.25:766][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.09-21.28.30:774][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.09-21.28.30:795][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.09-21.28.31:258][  0]SourceControl: Source control is disabled
+[2018.12.09-21.28.31:258][  0]SourceControl: Source control is disabled
+[2018.12.09-21.28.31:277][  0]SourceControl: Source control is disabled
+[2018.12.09-21.28.31:286][  0]SourceControl: Source control is disabled
+[2018.12.09-21.28.31:753][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.09-21.28.31:883][  0]LogOcInput: OculusInput pre-init called
+[2018.12.09-21.28.32:150][  0]LogEngine: Initializing Engine...
+[2018.12.09-21.28.32:154][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.09-21.28.32:159][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2018.12.09-21.28.32:159][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.09-21.28.32:159][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.09-21.28.32:160][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.09-21.28.32:514][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.09-21.28.32:577][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.09-21.28.32:613][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-21.28.33:454][  0]LogInit: FAudioDevice initialized.
+[2018.12.09-21.28.33:454][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.09-21.28.33:556][  0]LogDerivedDataCache: Saved boot cache 0.10s 85MB C:/Users/darkm/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.09-21.28.33:587][  0]LogInit: Texture streaming: Enabled
+[2018.12.09-21.28.33:625][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.09-21.28.33:660][  0]LogInit: Transaction tracking system initialized
+[2018.12.09-21.28.33:768][  0]BlueprintLog: New page: Editor Load
+[2018.12.09-21.28.34:116][  0]LocalizationService: Localization service is disabled
+[2018.12.09-21.28.35:025][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.09-21.28.35:025][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.09-21.28.35:026][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.09-21.28.35:026][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.09-21.28.35:026][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.09-21.28.35:026][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.09-21.28.35:026][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.09-21.28.35:527][  0]LogFileCache: Scanning file cache for directory 'C:/Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/' took 0.03s
+[2018.12.09-21.28.35:527][  0]SourceControl: Source control is disabled
+[2018.12.09-21.28.35:528][  0]Cmd: MAP LOAD FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.09-21.28.35:530][  0]LightingResults: New page: Lighting Build
+[2018.12.09-21.28.35:546][  0]MapCheck: New page: Map Check
+[2018.12.09-21.28.35:547][  0]LightingResults: New page: Lighting Build
+[2018.12.09-21.28.36:670][  0]LogAIModule: Creating AISystem for world Range
+[2018.12.09-21.28.36:697][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.09-21.28.36:862][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.09-21.28.36:980][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 117.919ms to complete.
+[2018.12.09-21.28.36:980][  0]LogFileHelpers: Loading map 'Range' took 1.452
+[2018.12.09-21.28.37:301][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-21.28.37:313][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-21.28.37:323][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-21.28.37:333][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-21.28.37:367][  0]LogCollectionManager: Loaded 0 collections in 0.003277 seconds
+[2018.12.09-21.28.37:442][  0]LogFileCache: Scanning file cache for directory 'C:/Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Collections/' took 0.01s
+[2018.12.09-21.28.37:442][  0]LogFileCache: Scanning file cache for directory 'C:/Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Developers/darkm/Collections/' took 0.01s
+[2018.12.09-21.28.37:442][  0]LogFileCache: Scanning file cache for directory 'C:/Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Collections/' took 0.01s
+[2018.12.09-21.28.37:442][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.09-21.28.37:468][  0]LogContentBrowser: Native class hierarchy populated in 0.0226 seconds. Added 2622 classes and 613 folders.
+[2018.12.09-21.28.37:494][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.12.09-21.28.38:075][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.12.09-21.28.38:178][  0]LogSlate: Took 0.010897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.09-21.28.38:193][  0]LogSlate: Took 0.007226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.09-21.28.38:207][  0]LogSlate: Took 0.008352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.09-21.28.38:333][  0]LogRenderer: Reallocating scene render targets to support 836x360 Format 26 NumSamples 1 (Frame:1).
+[2018.12.09-21.28.38:619][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.12.09-21.28.38:619][  0]LogLoad: (Engine Initialization) Total time: 32.24 seconds
+[2018.12.09-21.28.38:619][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.09-21.28.38:671][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.09-21.28.38:758][  0]LogRenderer: Reallocating scene render targets to support 836x368 Format 26 NumSamples 1 (Frame:3).
+[2018.12.09-21.28.38:758][  0]LogSlate: Took 0.008667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.09-21.28.38:881][  2]LogAssetRegistry: Asset discovery search completed in 16.1575 seconds
+[2018.12.09-21.28.38:885][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.09-21.28.38:885][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000123 seconds (updated 0 objects)
+[2018.12.09-21.30.13:091][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-21.30.13:538][370]LogRenderer: Reallocating scene render targets to support 836x372 Format 26 NumSamples 1 (Frame:5358).
+[2018.12.09-21.30.13:702][373]LogRenderer: Reallocating scene render targets to support 836x376 Format 26 NumSamples 1 (Frame:5364).
+[2018.12.09-21.30.13:903][379]LogRenderer: Reallocating scene render targets to support 836x380 Format 26 NumSamples 1 (Frame:5370).
+[2018.12.09-21.30.14:015][381]LogRenderer: Reallocating scene render targets to support 836x384 Format 26 NumSamples 1 (Frame:5374).
+[2018.12.09-21.30.14:073][382]LogRenderer: Reallocating scene render targets to support 836x388 Format 26 NumSamples 1 (Frame:5376).
+[2018.12.09-21.30.14:135][383]LogRenderer: Reallocating scene render targets to support 836x392 Format 26 NumSamples 1 (Frame:5378).
+[2018.12.09-21.30.14:196][384]LogRenderer: Reallocating scene render targets to support 836x396 Format 26 NumSamples 1 (Frame:5380).
+[2018.12.09-21.30.20:063][708]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.09-21.30.34:425][548]LogSlate: Window 'Asset Report' being destroyed
+[2018.12.09-21.31.00:147][ 28]LogSlate: Window 'Asset Report' being destroyed
+[2018.12.09-21.32.45:446][946]LogTexture: Display: Building textures: Start_Button (BGRA8, 671X672)
+[2018.12.09-21.32.45:446][946]LogTexture: Display: Building textures: Title_title (BGRA8, 5053X610)
+[2018.12.09-21.32.45:446][946]LogTexture: Display: Building textures: Quit_Button (BGRA8, 1263X1263)
+[2018.12.09-21.32.45:446][946]LogTexture: Display: Building textures: Credits_Button (BGRA8, 1263X1263)
+[2018.12.09-21.32.45:477][946]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenu/MainMenuUI/W_MainMenu.W_MainMenu
+[2018.12.09-21.32.46:285][946]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 116 classes and 0 folders.
+[2018.12.09-21.32.47:726][946]LogSlate: Took 0.011710 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.09-21.32.53:121][261]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MainMenu/MainMenuUI/MainMenuWidget.MainMenuWidget
+[2018.12.09-21.32.53:532][261]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2018.12.09-21.32.53:614][261]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.09-21.32.53:614][261]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.09-21.32.53:614][261]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.09-21.32.53:636][261]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.12.09-21.32.53:689][261]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.09-21.32.54:970][313]LogSlate: Took 0.020212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.09-21.32.55:101][320]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.09-21.32.57:266][447]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.09-21.32.57:605][467]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.09-21.33.11:634][266]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/Mpgii_Japanese_Flowers'
+[2018.12.09-21.33.11:634][266]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/Mpgii_Japanese_Flowers'
+[2018.12.09-21.33.11:634][266]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MainMenu/Assets/Audio/Mpgii_Japanese_Flowers.Mpgii_Japanese_Flowers'
+[2018.12.09-21.33.11:635][266]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/Di0nysys_-_Way_of_the_Sword'
+[2018.12.09-21.33.11:636][266]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/Di0nysys_-_Way_of_the_Sword'
+[2018.12.09-21.33.11:636][266]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MainMenu/Assets/Audio/Di0nysys_-_Way_of_the_Sword.Di0nysys_-_Way_of_the_Sword'
+[2018.12.09-21.33.24:964][948]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.09-21.33.34:345][359]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.09-21.33.49:524][141]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/PH_AVV'
+[2018.12.09-21.33.49:524][141]LogLinker: Warning: Can't find file for asset '/Game/MainMenu/Assets/Audio/PH_AVV' while loading ../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Menu.umap.
+[2018.12.09-21.33.49:524][141]LoadErrors: Error: /Game/MainMenu/MainMenuUI/Menu : Can't find file for asset. /Game/MainMenu/Assets/Audio/PH_AVV
+[2018.12.09-21.33.49:649][141]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/PH_AVV'
+[2018.12.09-21.33.49:649][141]LogLinker: Warning: Can't find file for asset '/Game/MainMenu/Assets/Audio/PH_AVV' while loading ../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Menu.umap.
+[2018.12.09-21.33.49:901][141]LogLinker: Warning: Can't find file '/Game/MainMenu/MainMenuUI/Menu_BuiltData'
+[2018.12.09-21.33.49:901][141]LogLinker: Warning: Can't find file for asset '/Game/MainMenu/MainMenuUI/Menu_BuiltData' while loading ../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Menu.umap.
+[2018.12.09-21.33.49:901][141]LoadErrors: Error: /Game/MainMenu/MainMenuUI/Menu : Can't find file for asset. /Game/MainMenu/MainMenuUI/Menu_BuiltData
+[2018.12.09-21.33.49:904][141]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/PH_AVV'
+[2018.12.09-21.33.49:904][141]LogLinker: Warning: Can't find file for asset '/Game/MainMenu/Assets/Audio/PH_AVV' while loading ../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Menu.umap.
+[2018.12.09-21.33.49:905][141]LogLinker: Warning: Can't find file '/Game/MainMenu/MainMenuUI/Menu_BuiltData'
+[2018.12.09-21.33.49:905][141]LogLinker: Warning: Can't find file for asset '/Game/MainMenu/MainMenuUI/Menu_BuiltData' while loading ../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Menu.umap.
+[2018.12.09-21.33.49:906][141]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/PH_AVV'
+[2018.12.09-21.33.49:906][141]LogLinker: Warning: Can't find file for asset '/Game/MainMenu/Assets/Audio/PH_AVV' while loading ../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/MainMenuUI/Menu.umap.
+[2018.12.09-21.33.49:907][141]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/PH_AVV'
+[2018.12.09-21.33.49:907][141]LogLinker: Warning: Can't find file for asset '/Game/MainMenu/Assets/Audio/PH_AVV' while loading NULL.
+[2018.12.09-21.33.49:907][141]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/PH_AVV'
+[2018.12.09-21.33.49:908][141]LogLinker: Warning: Can't find file for asset '/Game/MainMenu/Assets/Audio/PH_AVV' while loading NULL.
+[2018.12.09-21.33.49:917][141]LogLinker: Warning: Can't find file '/Game/MainMenu/MainMenuUI/Menu_BuiltData'
+[2018.12.09-21.33.49:917][141]LoadErrors: Failed to load /Game/MainMenu/MainMenuUI/Menu_BuiltData.Menu_BuiltData Referenced by PersistentLevel
+[2018.12.09-21.33.49:917][141]LogLinker: Warning: Can't find file for asset '/Game/MainMenu/MainMenuUI/Menu_BuiltData' while loading NULL.
+[2018.12.09-21.33.50:057][141]LogAIModule: Creating AISystem for world Menu
+[2018.12.09-21.33.50:186][141]LogTexture: Display: Building textures: Blank_Button (BGRA8, 672X671)
+[2018.12.09-21.33.50:186][141]LogTexture: Display: Building textures: Menu_Button (BGRA8, 1263X1263)
+[2018.12.09-21.33.51:586][141]LogTexture: Display: Building textures: Options_Button (BGRA8, 1263X1263)
+[2018.12.09-21.33.51:586][141]LogTexture: Display: Building textures: Settings_Button (AutoDXT, 676X672)
+[2018.12.09-21.33.51:586][141]LogTexture: Display: Building textures: Title_pipes (BGRA8, 6880X4839)
+[2018.12.09-21.33.51:763][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.W_MainMenu_C' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:PreConstruct' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:Construct' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:Tick' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:BndEvt__Button_4_K2Node_ComponentBoundEvent_100_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:BndEvt__Button_Credits_K2Node_ComponentBoundEvent_165_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:BndEvt__Button_Quit_K2Node_ComponentBoundEvent_178_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:BndEvt__Button_back_2_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:W_Credits' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:MainCanvas' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:MainBox' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:Image_1' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:CreditBox' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:ButtonVBox' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:Button_Start' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:Button_Quit' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:Button_Credits' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C:Button_back_2' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.SKEL_W_MainMenu_C' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.W_MainMenu_C:W_Credits' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.W_MainMenu_C:MainCanvas' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.W_MainMenu_C:MainBox' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.W_MainMenu_C:Image_1' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.W_MainMenu_C:CreditBox' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.W_MainMenu_C:ButtonVBox' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:764][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.W_MainMenu_C:Button_Start' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:765][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.W_MainMenu_C:Button_Quit' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:765][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.W_MainMenu_C:Button_Credits' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:765][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.W_MainMenu_C:Button_back_2' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:765][141]LogMetaData: Removing '/Game/MainMenuUI/W_MainMenu.W_MainMenu_C:Tick' ref from Metadata '/Game/MainMenu/MainMenuUI/W_MainMenu.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits_C' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits:GetTableText.K2Node_FunctionEntry_0' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits:CreateTextBoxPerson.K2Node_FunctionEntry_0' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits:GetData,SetText.K2Node_FunctionEntry_0' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.SKEL_W_Credits_C:PreConstruct' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.SKEL_W_Credits_C:Construct' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.SKEL_W_Credits_C:Tick' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.SKEL_W_Credits_C:MapOutput' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.SKEL_W_Credits_C:indexOfCredits' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.SKEL_W_Credits_C:ArrayIndex' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.SKEL_W_Credits_C:C_Data' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.SKEL_W_Credits_C:TitleMap' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.SKEL_W_Credits_C:GroupName' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.SKEL_W_Credits_C:WidgetIndex' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.SKEL_W_Credits_C:RowName' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.SKEL_W_Credits_C:C_ScrollBox' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.SKEL_W_Credits_C:GetTableText' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.SKEL_W_Credits_C' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits_C:MapOutput' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits_C:indexOfCredits' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits_C:ArrayIndex' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits_C:C_Data' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits_C:TitleMap' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits_C:GroupName' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits_C:WidgetIndex' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits_C:RowName' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits_C:C_ScrollBox' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits_C:Tick' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits_C:Construct' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:778][141]LogMetaData: Removing '/Game/MainMenuUI/W_Credits.W_Credits_C:GetTableText' ref from Metadata '/Game/MainMenu/MainMenuUI/W_Credits.PackageMetaData'
+[2018.12.09-21.33.51:788][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditTitle.W_CreditTitle_C' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.33.51:788][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditTitle.W_CreditTitle:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.33.51:788][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditTitle.W_CreditTitle:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.33.51:788][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditTitle.W_CreditTitle:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.33.51:788][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditTitle.SKEL_W_CreditTitle_C:PreConstruct' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.33.51:789][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditTitle.SKEL_W_CreditTitle_C:Construct' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.33.51:789][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditTitle.SKEL_W_CreditTitle_C:Tick' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.33.51:789][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditTitle.SKEL_W_CreditTitle_C:C_TitleText' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.33.51:789][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditTitle.SKEL_W_CreditTitle_C' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.33.51:789][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditTitle.W_CreditTitle_C:C_TitleText' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.33.51:798][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditsText.W_CreditsText_C' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditsText.PackageMetaData'
+[2018.12.09-21.33.51:798][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditsText.W_CreditsText:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditsText.PackageMetaData'
+[2018.12.09-21.33.51:798][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditsText.W_CreditsText:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditsText.PackageMetaData'
+[2018.12.09-21.33.51:798][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditsText.W_CreditsText:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditsText.PackageMetaData'
+[2018.12.09-21.33.51:798][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditsText.SKEL_W_CreditsText_C:PreConstruct' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditsText.PackageMetaData'
+[2018.12.09-21.33.51:798][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditsText.SKEL_W_CreditsText_C:Construct' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditsText.PackageMetaData'
+[2018.12.09-21.33.51:798][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditsText.SKEL_W_CreditsText_C:Tick' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditsText.PackageMetaData'
+[2018.12.09-21.33.51:799][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditsText.SKEL_W_CreditsText_C:C_TextBox' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditsText.PackageMetaData'
+[2018.12.09-21.33.51:799][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditsText.SKEL_W_CreditsText_C' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditsText.PackageMetaData'
+[2018.12.09-21.33.51:799][141]LogMetaData: Removing '/Game/MainMenuUI/W_CreditsText.W_CreditsText_C:C_TextBox' ref from Metadata '/Game/MainMenu/MainMenuUI/W_CreditsText.PackageMetaData'
+[2018.12.09-21.33.51:865][141]LogMetaData: Removing '/Game/MainMenuUI/CreditStruct.CreditStruct' ref from Metadata '/Game/MainMenu/MainMenuUI/CreditStruct.PackageMetaData'
+[2018.12.09-21.33.51:865][141]LogMetaData: Removing '/Game/MainMenuUI/CreditStruct.CreditStruct:FirstName_5_80F3E838493AAA00B29F83BA01B57143' ref from Metadata '/Game/MainMenu/MainMenuUI/CreditStruct.PackageMetaData'
+[2018.12.09-21.33.51:865][141]LogMetaData: Removing '/Game/MainMenuUI/CreditStruct.CreditStruct:LastName_9_F2ECA6D14CD5E40643CADCA88CED275A' ref from Metadata '/Game/MainMenu/MainMenuUI/CreditStruct.PackageMetaData'
+[2018.12.09-21.33.51:865][141]LogMetaData: Removing '/Game/MainMenuUI/CreditStruct.CreditStruct:Title_10_F0DEB7E74524F3A5EDE52F9B7617E546' ref from Metadata '/Game/MainMenu/MainMenuUI/CreditStruct.PackageMetaData'
+[2018.12.09-21.33.51:952][141]LogMetaData: Removing '/Game/MainMenuUI/MainMenuWidget.MainMenuWidget_C' ref from Metadata '/Game/MainMenu/MainMenuUI/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.33.51:952][141]LogMetaData: Removing '/Game/MainMenuUI/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/MainMenuUI/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.33.51:952][141]LogMetaData: Removing '/Game/MainMenuUI/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/MainMenuUI/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.33.51:952][141]LogMetaData: Removing '/Game/MainMenuUI/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/MainMenuUI/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.33.51:952][141]LogMetaData: Removing '/Game/MainMenuUI/MainMenuWidget.MainMenuWidget:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MainMenu/MainMenuUI/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.33.51:952][141]LogMetaData: Removing '/Game/MainMenuUI/MainMenuWidget.SKEL_MainMenuWidget_C:ReceiveBeginPlay' ref from Metadata '/Game/MainMenu/MainMenuUI/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.33.51:952][141]LogMetaData: Removing '/Game/MainMenuUI/MainMenuWidget.SKEL_MainMenuWidget_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/MainMenu/MainMenuUI/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.33.51:953][141]LogMetaData: Removing '/Game/MainMenuUI/MainMenuWidget.SKEL_MainMenuWidget_C:ReceiveTick' ref from Metadata '/Game/MainMenu/MainMenuUI/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.33.51:953][141]LogMetaData: Removing '/Game/MainMenuUI/MainMenuWidget.SKEL_MainMenuWidget_C:Scene' ref from Metadata '/Game/MainMenu/MainMenuUI/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.33.51:953][141]LogMetaData: Removing '/Game/MainMenuUI/MainMenuWidget.SKEL_MainMenuWidget_C:Widget' ref from Metadata '/Game/MainMenu/MainMenuUI/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.33.51:953][141]LogMetaData: Removing '/Game/MainMenuUI/MainMenuWidget.SKEL_MainMenuWidget_C:UserConstructionScript' ref from Metadata '/Game/MainMenu/MainMenuUI/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.33.51:953][141]LogMetaData: Removing '/Game/MainMenuUI/MainMenuWidget.SKEL_MainMenuWidget_C' ref from Metadata '/Game/MainMenu/MainMenuUI/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.33.51:953][141]LogMetaData: Removing '/Game/MainMenuUI/MainMenuWidget.MainMenuWidget_C:Scene' ref from Metadata '/Game/MainMenu/MainMenuUI/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.33.51:953][141]LogMetaData: Removing '/Game/MainMenuUI/MainMenuWidget.MainMenuWidget_C:Widget' ref from Metadata '/Game/MainMenu/MainMenuUI/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.33.51:953][141]LogMetaData: Removing '/Game/MainMenuUI/MainMenuWidget.MainMenuWidget_C:UserConstructionScript' ref from Metadata '/Game/MainMenu/MainMenuUI/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.33.52:331][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuUI/W_MainMenu" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/W_MainMenu.uasset" SILENT=true
+[2018.12.09-21.33.52:406][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu723879E04308D948E46DCF8863A6563F.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/W_MainMenu.uasset'
+[2018.12.09-21.33.52:415][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuUI/W_Credits" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/W_Credits.uasset" SILENT=true
+[2018.12.09-21.33.52:482][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_Credits8F4786D04BC465F9EC96CDBB1B613333.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/W_Credits.uasset'
+[2018.12.09-21.33.52:492][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuUI/W_CreditTitle" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/W_CreditTitle.uasset" SILENT=true
+[2018.12.09-21.33.52:509][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_CreditTitleE72F6ACF404E2C6583107F8D2D3EF482.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/W_CreditTitle.uasset'
+[2018.12.09-21.33.52:519][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuUI/W_CreditsText" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/W_CreditsText.uasset" SILENT=true
+[2018.12.09-21.33.52:545][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_CreditsTextD868F3E1414565A47009C6B6BBC458F8.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/W_CreditsText.uasset'
+[2018.12.09-21.33.52:558][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuUI/CreditSheet2" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/CreditSheet2.uasset" SILENT=true
+[2018.12.09-21.33.52:587][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/CreditSheet2FD83F3DB4B2B6F757E67E7A03C0CD418.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/CreditSheet2.uasset'
+[2018.12.09-21.33.52:603][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuUI/CreditStruct" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/CreditStruct.uasset" SILENT=true
+[2018.12.09-21.33.52:623][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/CreditStruct75D97E214E68898A28AF059C1EA87B84.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/CreditStruct.uasset'
+[2018.12.09-21.33.52:662][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Title_title062F6A3447DC09E26B0CBDB8815019B8.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/Materials/Title_title.uasset'
+[2018.12.09-21.33.52:704][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Start_ButtonE7385EB6450F3BDD22A3808BF8BCE90F.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/Materials/Start_Button.uasset'
+[2018.12.09-21.33.52:758][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Quit_Button66B7B4E049EF280E499EFFA05026B9F0.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/Materials/Quit_Button.uasset'
+[2018.12.09-21.33.52:800][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Credits_Button3F55C9DF4A6504FBD143538DA49CFF34.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/Materials/Credits_Button.uasset'
+[2018.12.09-21.33.52:809][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuUI/MainMenuWidget" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/MainMenuWidget.uasset" SILENT=true
+[2018.12.09-21.33.52:829][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/MainMenuWidget94226C644CCB196DBEC2089801494E2E.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/MainMenuWidget.uasset'
+[2018.12.09-21.33.52:973][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuUI/Menu" FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.09-21.33.53:057][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/MenuC3B7F42844F5721DC097BE847B93B82F.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/Menu.umap'
+[2018.12.09-21.33.53:069][141]LogFileHelpers: Saving map 'Menu' took 0.231
+[2018.12.09-21.33.53:191][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Blank_Button1AFF203240139905BC10699FBC80E0EA.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/Materials/Blank_Button.uasset'
+[2018.12.09-21.33.53:310][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Main_Menu_M5ACEE45942594FB432FBCBA344F3F8C9.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/Materials/Main_Menu_M.uasset'
+[2018.12.09-21.33.53:375][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Menu_ButtonB6FB2044470536ABB258D69B3FDC6463.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/Materials/Menu_Button.uasset'
+[2018.12.09-21.33.53:461][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Options_Button80A36928413A4BA7F099D08DBCFAF807.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/Materials/Options_Button.uasset'
+[2018.12.09-21.33.53:506][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Settings_Button85285C9A411B71D9A55D4E886D9BAC2E.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/Materials/Settings_Button.uasset'
+[2018.12.09-21.33.53:554][141]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Title_pipes5C47EAB04EA72DD5C8B7C4B1F1628EDA.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenuUI/Materials/Title_pipes.uasset'
+[2018.12.09-21.33.55:799][141]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Audio': PH_AVV_C /Game/MainMenu/MainMenuUI/Menu.Menu:PersistentLevel.PH_AVV_239
+[2018.12.09-21.33.55:799][141]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Scene': PH_AVV_C /Game/MainMenu/MainMenuUI/Menu.Menu:PersistentLevel.PH_AVV_239
+[2018.12.09-21.34.20:547][572]LogSlate: Window 'Asset Report' being destroyed
