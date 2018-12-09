@@ -26636,3 +26636,1182 @@ Make sure 'W_MainMenu_C' has been compiled for  Get CreditBox
 [2018.12.09-09.40.15:668][368]LogBlueprintUserMessages: [W_Credits] 94
 [2018.12.09-09.40.16:003][382]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu683B58DF40811F6E0C54EC8C013744C7.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
 [2018.12.09-09.40.36:606][612]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu1AF0DC0A4199D4DE353FFDBFEA93A405.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.12.09-09.42.08:591][586]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.09-09.42.44:298][725]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.09-09.43.13:056][443]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu6F6EBF3C4CCADD0B6E42019A99819382.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.12.09-09.43.13:666][479]BlueprintLog: New page: Compile W_MainMenu
+[2018.12.09-09.43.13:840][479]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.43.13:841][479]LogBlueprintUserMessages: [W_Credits] 2
+[2018.12.09-09.43.13:841][479]LogBlueprintUserMessages: [W_Credits] 3
+[2018.12.09-09.43.13:841][479]LogBlueprintUserMessages: [W_Credits] 4
+[2018.12.09-09.43.13:841][479]LogBlueprintUserMessages: [W_Credits] 5
+[2018.12.09-09.43.13:841][479]LogBlueprintUserMessages: [W_Credits] 6
+[2018.12.09-09.43.13:842][479]LogBlueprintUserMessages: [W_Credits] 7
+[2018.12.09-09.43.13:842][479]LogBlueprintUserMessages: [W_Credits] 8
+[2018.12.09-09.43.13:842][479]LogBlueprintUserMessages: [W_Credits] 9
+[2018.12.09-09.43.13:842][479]LogBlueprintUserMessages: [W_Credits] 10
+[2018.12.09-09.43.13:843][479]LogBlueprintUserMessages: [W_Credits] 11
+[2018.12.09-09.43.13:843][479]LogBlueprintUserMessages: [W_Credits] 12
+[2018.12.09-09.43.13:843][479]LogBlueprintUserMessages: [W_Credits] 13
+[2018.12.09-09.43.13:843][479]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.43.13:844][479]LogBlueprintUserMessages: [W_Credits] 15
+[2018.12.09-09.43.13:844][479]LogBlueprintUserMessages: [W_Credits] 16
+[2018.12.09-09.43.13:844][479]LogBlueprintUserMessages: [W_Credits] 17
+[2018.12.09-09.43.13:844][479]LogBlueprintUserMessages: [W_Credits] 18
+[2018.12.09-09.43.13:844][479]LogBlueprintUserMessages: [W_Credits] 19
+[2018.12.09-09.43.13:845][479]LogBlueprintUserMessages: [W_Credits] 20
+[2018.12.09-09.43.13:845][479]LogBlueprintUserMessages: [W_Credits] 21
+[2018.12.09-09.43.13:845][479]LogBlueprintUserMessages: [W_Credits] 22
+[2018.12.09-09.43.13:845][479]LogBlueprintUserMessages: [W_Credits] 23
+[2018.12.09-09.43.13:846][479]LogBlueprintUserMessages: [W_Credits] 24
+[2018.12.09-09.43.13:846][479]LogBlueprintUserMessages: [W_Credits] 25
+[2018.12.09-09.43.13:846][479]LogBlueprintUserMessages: [W_Credits] 26
+[2018.12.09-09.43.13:846][479]LogBlueprintUserMessages: [W_Credits] 27
+[2018.12.09-09.43.13:846][479]LogBlueprintUserMessages: [W_Credits] 28
+[2018.12.09-09.43.13:847][479]LogBlueprintUserMessages: [W_Credits] 29
+[2018.12.09-09.43.13:847][479]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.43.13:847][479]LogBlueprintUserMessages: [W_Credits] 31
+[2018.12.09-09.43.13:847][479]LogBlueprintUserMessages: [W_Credits] 32
+[2018.12.09-09.43.13:847][479]LogBlueprintUserMessages: [W_Credits] 33
+[2018.12.09-09.43.13:848][479]LogBlueprintUserMessages: [W_Credits] 34
+[2018.12.09-09.43.13:848][479]LogBlueprintUserMessages: [W_Credits] 35
+[2018.12.09-09.43.13:848][479]LogBlueprintUserMessages: [W_Credits] 36
+[2018.12.09-09.43.13:848][479]LogBlueprintUserMessages: [W_Credits] 37
+[2018.12.09-09.43.13:848][479]LogBlueprintUserMessages: [W_Credits] 38
+[2018.12.09-09.43.13:848][479]LogBlueprintUserMessages: [W_Credits] 39
+[2018.12.09-09.43.13:848][479]LogBlueprintUserMessages: [W_Credits] 40
+[2018.12.09-09.43.13:848][479]LogBlueprintUserMessages: [W_Credits] 41
+[2018.12.09-09.43.13:848][479]LogBlueprintUserMessages: [W_Credits] 42
+[2018.12.09-09.43.13:849][479]LogBlueprintUserMessages: [W_Credits] 43
+[2018.12.09-09.43.13:849][479]LogBlueprintUserMessages: [W_Credits] 44
+[2018.12.09-09.43.13:849][479]LogBlueprintUserMessages: [W_Credits] 45
+[2018.12.09-09.43.13:849][479]LogBlueprintUserMessages: [W_Credits] 46
+[2018.12.09-09.43.13:849][479]LogBlueprintUserMessages: [W_Credits] 47
+[2018.12.09-09.43.13:851][479]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.43.13:851][479]LogBlueprintUserMessages: [W_Credits] 49
+[2018.12.09-09.43.13:851][479]LogBlueprintUserMessages: [W_Credits] 50
+[2018.12.09-09.43.13:851][479]LogBlueprintUserMessages: [W_Credits] 51
+[2018.12.09-09.43.13:851][479]LogBlueprintUserMessages: [W_Credits] 52
+[2018.12.09-09.43.13:852][479]LogBlueprintUserMessages: [W_Credits] 53
+[2018.12.09-09.43.13:852][479]LogBlueprintUserMessages: [W_Credits] 54
+[2018.12.09-09.43.13:852][479]LogBlueprintUserMessages: [W_Credits] 55
+[2018.12.09-09.43.13:852][479]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.43.13:852][479]LogBlueprintUserMessages: [W_Credits] 57
+[2018.12.09-09.43.13:852][479]LogBlueprintUserMessages: [W_Credits] 58
+[2018.12.09-09.43.13:852][479]LogBlueprintUserMessages: [W_Credits] 59
+[2018.12.09-09.43.13:852][479]LogBlueprintUserMessages: [W_Credits] 60
+[2018.12.09-09.43.13:852][479]LogBlueprintUserMessages: [W_Credits] 61
+[2018.12.09-09.43.13:854][479]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.43.13:854][479]LogBlueprintUserMessages: [W_Credits] 63
+[2018.12.09-09.43.13:854][479]LogBlueprintUserMessages: [W_Credits] 64
+[2018.12.09-09.43.13:854][479]LogBlueprintUserMessages: [W_Credits] 65
+[2018.12.09-09.43.13:855][479]LogBlueprintUserMessages: [W_Credits] 66
+[2018.12.09-09.43.13:855][479]LogBlueprintUserMessages: [W_Credits] 67
+[2018.12.09-09.43.13:855][479]LogBlueprintUserMessages: [W_Credits] 68
+[2018.12.09-09.43.13:855][479]LogBlueprintUserMessages: [W_Credits] 69
+[2018.12.09-09.43.13:855][479]LogBlueprintUserMessages: [W_Credits] 70
+[2018.12.09-09.43.13:856][479]LogBlueprintUserMessages: [W_Credits] 71
+[2018.12.09-09.43.13:856][479]LogBlueprintUserMessages: [W_Credits] 72
+[2018.12.09-09.43.13:856][479]LogBlueprintUserMessages: [W_Credits] 73
+[2018.12.09-09.43.13:856][479]LogBlueprintUserMessages: [W_Credits] 74
+[2018.12.09-09.43.13:856][479]LogBlueprintUserMessages: [W_Credits] 75
+[2018.12.09-09.43.13:857][479]LogBlueprintUserMessages: [W_Credits] 76
+[2018.12.09-09.43.13:857][479]LogBlueprintUserMessages: [W_Credits] 77
+[2018.12.09-09.43.13:857][479]LogBlueprintUserMessages: [W_Credits] 78
+[2018.12.09-09.43.13:857][479]LogBlueprintUserMessages: [W_Credits] 79
+[2018.12.09-09.43.13:858][479]LogBlueprintUserMessages: [W_Credits] 80
+[2018.12.09-09.43.13:858][479]LogBlueprintUserMessages: [W_Credits] 81
+[2018.12.09-09.43.13:858][479]LogBlueprintUserMessages: [W_Credits] 82
+[2018.12.09-09.43.13:858][479]LogBlueprintUserMessages: [W_Credits] 83
+[2018.12.09-09.43.13:858][479]LogBlueprintUserMessages: [W_Credits] 84
+[2018.12.09-09.43.13:858][479]LogBlueprintUserMessages: [W_Credits] 85
+[2018.12.09-09.43.13:858][479]LogBlueprintUserMessages: [W_Credits] 86
+[2018.12.09-09.43.13:858][479]LogBlueprintUserMessages: [W_Credits] 87
+[2018.12.09-09.43.13:858][479]LogBlueprintUserMessages: [W_Credits] 88
+[2018.12.09-09.43.13:858][479]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.43.13:859][479]LogBlueprintUserMessages: [W_Credits] 90
+[2018.12.09-09.43.13:859][479]LogBlueprintUserMessages: [W_Credits] 91
+[2018.12.09-09.43.13:859][479]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.43.13:859][479]LogBlueprintUserMessages: [W_Credits] 93
+[2018.12.09-09.43.13:860][479]LogBlueprintUserMessages: [W_Credits] 94
+[2018.12.09-09.44.49:544][170]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu2E344EB94AB7E7C50F805CADEA2B87FD.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.12.09-09.44.49:725][181]BlueprintLog: New page: Compile W_MainMenu
+[2018.12.09-09.44.49:740][181]LogBlueprint: Warning: [Compiler W_MainMenu] Could not find a variable named "Button_Back_Box" in 'W_MainMenu_C'.
+Make sure 'W_MainMenu_C' has been compiled for  Get Button_Back_Box
+[2018.12.09-09.44.49:740][181]LogBlueprint: Warning: [Compiler W_MainMenu] Could not find a variable named "Button_Back_Box" in 'W_MainMenu_C'.
+Make sure 'W_MainMenu_C' has been compiled for  Get Button_Back_Box
+[2018.12.09-09.44.49:741][181]LogBlueprint: Error: [Compiler W_MainMenu] The property associated with  Button Back Box  could not be found in '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu_C'
+[2018.12.09-09.44.49:741][181]LogBlueprint: Error: [Compiler W_MainMenu] The property associated with  Button Back Box  could not be found in '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu_C'
+[2018.12.09-09.44.49:973][181]LogBlueprint: Warning: [Compiler W_MainMenu] [3618.53] Compile of W_MainMenu failed. 2 Fatal Issue(s) 2 Warning(s) [in 247 ms] (/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu)
+[2018.12.09-09.44.49:976][181]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.44.49:976][181]LogBlueprintUserMessages: [W_Credits] 2
+[2018.12.09-09.44.49:976][181]LogBlueprintUserMessages: [W_Credits] 3
+[2018.12.09-09.44.49:977][181]LogBlueprintUserMessages: [W_Credits] 4
+[2018.12.09-09.44.49:977][181]LogBlueprintUserMessages: [W_Credits] 5
+[2018.12.09-09.44.49:977][181]LogBlueprintUserMessages: [W_Credits] 6
+[2018.12.09-09.44.49:977][181]LogBlueprintUserMessages: [W_Credits] 7
+[2018.12.09-09.44.49:978][181]LogBlueprintUserMessages: [W_Credits] 8
+[2018.12.09-09.44.49:978][181]LogBlueprintUserMessages: [W_Credits] 9
+[2018.12.09-09.44.49:978][181]LogBlueprintUserMessages: [W_Credits] 10
+[2018.12.09-09.44.49:978][181]LogBlueprintUserMessages: [W_Credits] 11
+[2018.12.09-09.44.49:978][181]LogBlueprintUserMessages: [W_Credits] 12
+[2018.12.09-09.44.49:979][181]LogBlueprintUserMessages: [W_Credits] 13
+[2018.12.09-09.44.49:979][181]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.44.49:979][181]LogBlueprintUserMessages: [W_Credits] 15
+[2018.12.09-09.44.49:979][181]LogBlueprintUserMessages: [W_Credits] 16
+[2018.12.09-09.44.49:979][181]LogBlueprintUserMessages: [W_Credits] 17
+[2018.12.09-09.44.49:980][181]LogBlueprintUserMessages: [W_Credits] 18
+[2018.12.09-09.44.49:980][181]LogBlueprintUserMessages: [W_Credits] 19
+[2018.12.09-09.44.49:980][181]LogBlueprintUserMessages: [W_Credits] 20
+[2018.12.09-09.44.49:980][181]LogBlueprintUserMessages: [W_Credits] 21
+[2018.12.09-09.44.49:981][181]LogBlueprintUserMessages: [W_Credits] 22
+[2018.12.09-09.44.49:981][181]LogBlueprintUserMessages: [W_Credits] 23
+[2018.12.09-09.44.49:981][181]LogBlueprintUserMessages: [W_Credits] 24
+[2018.12.09-09.44.49:981][181]LogBlueprintUserMessages: [W_Credits] 25
+[2018.12.09-09.44.49:981][181]LogBlueprintUserMessages: [W_Credits] 26
+[2018.12.09-09.44.49:982][181]LogBlueprintUserMessages: [W_Credits] 27
+[2018.12.09-09.44.49:982][181]LogBlueprintUserMessages: [W_Credits] 28
+[2018.12.09-09.44.49:982][181]LogBlueprintUserMessages: [W_Credits] 29
+[2018.12.09-09.44.49:982][181]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.44.49:982][181]LogBlueprintUserMessages: [W_Credits] 31
+[2018.12.09-09.44.49:983][181]LogBlueprintUserMessages: [W_Credits] 32
+[2018.12.09-09.44.49:983][181]LogBlueprintUserMessages: [W_Credits] 33
+[2018.12.09-09.44.49:983][181]LogBlueprintUserMessages: [W_Credits] 34
+[2018.12.09-09.44.49:983][181]LogBlueprintUserMessages: [W_Credits] 35
+[2018.12.09-09.44.49:984][181]LogBlueprintUserMessages: [W_Credits] 36
+[2018.12.09-09.44.49:984][181]LogBlueprintUserMessages: [W_Credits] 37
+[2018.12.09-09.44.49:984][181]LogBlueprintUserMessages: [W_Credits] 38
+[2018.12.09-09.44.49:984][181]LogBlueprintUserMessages: [W_Credits] 39
+[2018.12.09-09.44.49:984][181]LogBlueprintUserMessages: [W_Credits] 40
+[2018.12.09-09.44.49:985][181]LogBlueprintUserMessages: [W_Credits] 41
+[2018.12.09-09.44.49:985][181]LogBlueprintUserMessages: [W_Credits] 42
+[2018.12.09-09.44.49:985][181]LogBlueprintUserMessages: [W_Credits] 43
+[2018.12.09-09.44.49:985][181]LogBlueprintUserMessages: [W_Credits] 44
+[2018.12.09-09.44.49:985][181]LogBlueprintUserMessages: [W_Credits] 45
+[2018.12.09-09.44.49:986][181]LogBlueprintUserMessages: [W_Credits] 46
+[2018.12.09-09.44.49:986][181]LogBlueprintUserMessages: [W_Credits] 47
+[2018.12.09-09.44.49:986][181]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.44.49:986][181]LogBlueprintUserMessages: [W_Credits] 49
+[2018.12.09-09.44.49:987][181]LogBlueprintUserMessages: [W_Credits] 50
+[2018.12.09-09.44.49:987][181]LogBlueprintUserMessages: [W_Credits] 51
+[2018.12.09-09.44.49:987][181]LogBlueprintUserMessages: [W_Credits] 52
+[2018.12.09-09.44.49:987][181]LogBlueprintUserMessages: [W_Credits] 53
+[2018.12.09-09.44.49:987][181]LogBlueprintUserMessages: [W_Credits] 54
+[2018.12.09-09.44.49:988][181]LogBlueprintUserMessages: [W_Credits] 55
+[2018.12.09-09.44.49:988][181]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.44.49:988][181]LogBlueprintUserMessages: [W_Credits] 57
+[2018.12.09-09.44.49:988][181]LogBlueprintUserMessages: [W_Credits] 58
+[2018.12.09-09.44.49:989][181]LogBlueprintUserMessages: [W_Credits] 59
+[2018.12.09-09.44.49:989][181]LogBlueprintUserMessages: [W_Credits] 60
+[2018.12.09-09.44.49:989][181]LogBlueprintUserMessages: [W_Credits] 61
+[2018.12.09-09.44.49:989][181]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.44.49:989][181]LogBlueprintUserMessages: [W_Credits] 63
+[2018.12.09-09.44.49:990][181]LogBlueprintUserMessages: [W_Credits] 64
+[2018.12.09-09.44.49:990][181]LogBlueprintUserMessages: [W_Credits] 65
+[2018.12.09-09.44.49:990][181]LogBlueprintUserMessages: [W_Credits] 66
+[2018.12.09-09.44.49:990][181]LogBlueprintUserMessages: [W_Credits] 67
+[2018.12.09-09.44.49:990][181]LogBlueprintUserMessages: [W_Credits] 68
+[2018.12.09-09.44.49:991][181]LogBlueprintUserMessages: [W_Credits] 69
+[2018.12.09-09.44.49:991][181]LogBlueprintUserMessages: [W_Credits] 70
+[2018.12.09-09.44.49:991][181]LogBlueprintUserMessages: [W_Credits] 71
+[2018.12.09-09.44.49:991][181]LogBlueprintUserMessages: [W_Credits] 72
+[2018.12.09-09.44.49:991][181]LogBlueprintUserMessages: [W_Credits] 73
+[2018.12.09-09.44.49:992][181]LogBlueprintUserMessages: [W_Credits] 74
+[2018.12.09-09.44.49:992][181]LogBlueprintUserMessages: [W_Credits] 75
+[2018.12.09-09.44.49:992][181]LogBlueprintUserMessages: [W_Credits] 76
+[2018.12.09-09.44.49:992][181]LogBlueprintUserMessages: [W_Credits] 77
+[2018.12.09-09.44.49:993][181]LogBlueprintUserMessages: [W_Credits] 78
+[2018.12.09-09.44.49:993][181]LogBlueprintUserMessages: [W_Credits] 79
+[2018.12.09-09.44.49:993][181]LogBlueprintUserMessages: [W_Credits] 80
+[2018.12.09-09.44.49:993][181]LogBlueprintUserMessages: [W_Credits] 81
+[2018.12.09-09.44.49:993][181]LogBlueprintUserMessages: [W_Credits] 82
+[2018.12.09-09.44.49:994][181]LogBlueprintUserMessages: [W_Credits] 83
+[2018.12.09-09.44.49:994][181]LogBlueprintUserMessages: [W_Credits] 84
+[2018.12.09-09.44.49:994][181]LogBlueprintUserMessages: [W_Credits] 85
+[2018.12.09-09.44.49:994][181]LogBlueprintUserMessages: [W_Credits] 86
+[2018.12.09-09.44.49:994][181]LogBlueprintUserMessages: [W_Credits] 87
+[2018.12.09-09.44.49:995][181]LogBlueprintUserMessages: [W_Credits] 88
+[2018.12.09-09.44.49:995][181]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.44.49:995][181]LogBlueprintUserMessages: [W_Credits] 90
+[2018.12.09-09.44.49:995][181]LogBlueprintUserMessages: [W_Credits] 91
+[2018.12.09-09.44.49:996][181]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.44.49:996][181]LogBlueprintUserMessages: [W_Credits] 93
+[2018.12.09-09.44.49:996][181]LogBlueprintUserMessages: [W_Credits] 94
+[2018.12.09-09.44.56:638][573]LogEditorTransaction: Undo Move Node
+[2018.12.09-09.45.47:371][601]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuBC623EE842BAB0C53CBECCB5499F6665.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.12.09-09.45.47:582][613]BlueprintLog: New page: Compile W_MainMenu
+[2018.12.09-09.45.47:755][613]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.45.47:755][613]LogBlueprintUserMessages: [W_Credits] 2
+[2018.12.09-09.45.47:756][613]LogBlueprintUserMessages: [W_Credits] 3
+[2018.12.09-09.45.47:756][613]LogBlueprintUserMessages: [W_Credits] 4
+[2018.12.09-09.45.47:756][613]LogBlueprintUserMessages: [W_Credits] 5
+[2018.12.09-09.45.47:756][613]LogBlueprintUserMessages: [W_Credits] 6
+[2018.12.09-09.45.47:756][613]LogBlueprintUserMessages: [W_Credits] 7
+[2018.12.09-09.45.47:757][613]LogBlueprintUserMessages: [W_Credits] 8
+[2018.12.09-09.45.47:757][613]LogBlueprintUserMessages: [W_Credits] 9
+[2018.12.09-09.45.47:757][613]LogBlueprintUserMessages: [W_Credits] 10
+[2018.12.09-09.45.47:757][613]LogBlueprintUserMessages: [W_Credits] 11
+[2018.12.09-09.45.47:758][613]LogBlueprintUserMessages: [W_Credits] 12
+[2018.12.09-09.45.47:758][613]LogBlueprintUserMessages: [W_Credits] 13
+[2018.12.09-09.45.47:758][613]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.45.47:758][613]LogBlueprintUserMessages: [W_Credits] 15
+[2018.12.09-09.45.47:758][613]LogBlueprintUserMessages: [W_Credits] 16
+[2018.12.09-09.45.47:759][613]LogBlueprintUserMessages: [W_Credits] 17
+[2018.12.09-09.45.47:759][613]LogBlueprintUserMessages: [W_Credits] 18
+[2018.12.09-09.45.47:759][613]LogBlueprintUserMessages: [W_Credits] 19
+[2018.12.09-09.45.47:759][613]LogBlueprintUserMessages: [W_Credits] 20
+[2018.12.09-09.45.47:760][613]LogBlueprintUserMessages: [W_Credits] 21
+[2018.12.09-09.45.47:760][613]LogBlueprintUserMessages: [W_Credits] 22
+[2018.12.09-09.45.47:760][613]LogBlueprintUserMessages: [W_Credits] 23
+[2018.12.09-09.45.47:760][613]LogBlueprintUserMessages: [W_Credits] 24
+[2018.12.09-09.45.47:760][613]LogBlueprintUserMessages: [W_Credits] 25
+[2018.12.09-09.45.47:761][613]LogBlueprintUserMessages: [W_Credits] 26
+[2018.12.09-09.45.47:761][613]LogBlueprintUserMessages: [W_Credits] 27
+[2018.12.09-09.45.47:761][613]LogBlueprintUserMessages: [W_Credits] 28
+[2018.12.09-09.45.47:761][613]LogBlueprintUserMessages: [W_Credits] 29
+[2018.12.09-09.45.47:762][613]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.45.47:762][613]LogBlueprintUserMessages: [W_Credits] 31
+[2018.12.09-09.45.47:762][613]LogBlueprintUserMessages: [W_Credits] 32
+[2018.12.09-09.45.47:762][613]LogBlueprintUserMessages: [W_Credits] 33
+[2018.12.09-09.45.47:762][613]LogBlueprintUserMessages: [W_Credits] 34
+[2018.12.09-09.45.47:763][613]LogBlueprintUserMessages: [W_Credits] 35
+[2018.12.09-09.45.47:763][613]LogBlueprintUserMessages: [W_Credits] 36
+[2018.12.09-09.45.47:763][613]LogBlueprintUserMessages: [W_Credits] 37
+[2018.12.09-09.45.47:763][613]LogBlueprintUserMessages: [W_Credits] 38
+[2018.12.09-09.45.47:764][613]LogBlueprintUserMessages: [W_Credits] 39
+[2018.12.09-09.45.47:764][613]LogBlueprintUserMessages: [W_Credits] 40
+[2018.12.09-09.45.47:764][613]LogBlueprintUserMessages: [W_Credits] 41
+[2018.12.09-09.45.47:764][613]LogBlueprintUserMessages: [W_Credits] 42
+[2018.12.09-09.45.47:764][613]LogBlueprintUserMessages: [W_Credits] 43
+[2018.12.09-09.45.47:765][613]LogBlueprintUserMessages: [W_Credits] 44
+[2018.12.09-09.45.47:765][613]LogBlueprintUserMessages: [W_Credits] 45
+[2018.12.09-09.45.47:765][613]LogBlueprintUserMessages: [W_Credits] 46
+[2018.12.09-09.45.47:765][613]LogBlueprintUserMessages: [W_Credits] 47
+[2018.12.09-09.45.47:765][613]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.45.47:766][613]LogBlueprintUserMessages: [W_Credits] 49
+[2018.12.09-09.45.47:766][613]LogBlueprintUserMessages: [W_Credits] 50
+[2018.12.09-09.45.47:766][613]LogBlueprintUserMessages: [W_Credits] 51
+[2018.12.09-09.45.47:766][613]LogBlueprintUserMessages: [W_Credits] 52
+[2018.12.09-09.45.47:767][613]LogBlueprintUserMessages: [W_Credits] 53
+[2018.12.09-09.45.47:767][613]LogBlueprintUserMessages: [W_Credits] 54
+[2018.12.09-09.45.47:767][613]LogBlueprintUserMessages: [W_Credits] 55
+[2018.12.09-09.45.47:767][613]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.45.47:768][613]LogBlueprintUserMessages: [W_Credits] 57
+[2018.12.09-09.45.47:768][613]LogBlueprintUserMessages: [W_Credits] 58
+[2018.12.09-09.45.47:768][613]LogBlueprintUserMessages: [W_Credits] 59
+[2018.12.09-09.45.47:768][613]LogBlueprintUserMessages: [W_Credits] 60
+[2018.12.09-09.45.47:768][613]LogBlueprintUserMessages: [W_Credits] 61
+[2018.12.09-09.45.47:769][613]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.45.47:769][613]LogBlueprintUserMessages: [W_Credits] 63
+[2018.12.09-09.45.47:769][613]LogBlueprintUserMessages: [W_Credits] 64
+[2018.12.09-09.45.47:769][613]LogBlueprintUserMessages: [W_Credits] 65
+[2018.12.09-09.45.47:769][613]LogBlueprintUserMessages: [W_Credits] 66
+[2018.12.09-09.45.47:770][613]LogBlueprintUserMessages: [W_Credits] 67
+[2018.12.09-09.45.47:770][613]LogBlueprintUserMessages: [W_Credits] 68
+[2018.12.09-09.45.47:770][613]LogBlueprintUserMessages: [W_Credits] 69
+[2018.12.09-09.45.47:770][613]LogBlueprintUserMessages: [W_Credits] 70
+[2018.12.09-09.45.47:770][613]LogBlueprintUserMessages: [W_Credits] 71
+[2018.12.09-09.45.47:771][613]LogBlueprintUserMessages: [W_Credits] 72
+[2018.12.09-09.45.47:771][613]LogBlueprintUserMessages: [W_Credits] 73
+[2018.12.09-09.45.47:771][613]LogBlueprintUserMessages: [W_Credits] 74
+[2018.12.09-09.45.47:771][613]LogBlueprintUserMessages: [W_Credits] 75
+[2018.12.09-09.45.47:772][613]LogBlueprintUserMessages: [W_Credits] 76
+[2018.12.09-09.45.47:772][613]LogBlueprintUserMessages: [W_Credits] 77
+[2018.12.09-09.45.47:772][613]LogBlueprintUserMessages: [W_Credits] 78
+[2018.12.09-09.45.47:772][613]LogBlueprintUserMessages: [W_Credits] 79
+[2018.12.09-09.45.47:772][613]LogBlueprintUserMessages: [W_Credits] 80
+[2018.12.09-09.45.47:773][613]LogBlueprintUserMessages: [W_Credits] 81
+[2018.12.09-09.45.47:773][613]LogBlueprintUserMessages: [W_Credits] 82
+[2018.12.09-09.45.47:773][613]LogBlueprintUserMessages: [W_Credits] 83
+[2018.12.09-09.45.47:773][613]LogBlueprintUserMessages: [W_Credits] 84
+[2018.12.09-09.45.47:773][613]LogBlueprintUserMessages: [W_Credits] 85
+[2018.12.09-09.45.47:774][613]LogBlueprintUserMessages: [W_Credits] 86
+[2018.12.09-09.45.47:774][613]LogBlueprintUserMessages: [W_Credits] 87
+[2018.12.09-09.45.47:774][613]LogBlueprintUserMessages: [W_Credits] 88
+[2018.12.09-09.45.47:774][613]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.45.47:775][613]LogBlueprintUserMessages: [W_Credits] 90
+[2018.12.09-09.45.47:775][613]LogBlueprintUserMessages: [W_Credits] 91
+[2018.12.09-09.45.47:775][613]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.45.47:775][613]LogBlueprintUserMessages: [W_Credits] 93
+[2018.12.09-09.45.47:775][613]LogBlueprintUserMessages: [W_Credits] 94
+[2018.12.09-09.45.49:655][718]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Menu9965D0EF4773BBAA4A0333875B0AF330.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Levels/Menu.umap'
+[2018.12.09-09.45.49:726][718]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Menu_BuiltData4C51F6EA48D1D3AFD3491A867BDE61E1.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Levels/Menu_BuiltData.uasset'
+[2018.12.09-09.45.51:165][804]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.09-09.46.01:633][412]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuB1A5C9D54CEEE0751E555EB630A7A25C.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.12.09-09.46.41:218][776]LogEditorTransaction: Undo Move Widget
+[2018.12.09-09.46.50:206][309]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.09-09.47.05:128][200]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu9C31C7BE419EB14FC68B3D99C9F0AEF9.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.12.09-09.47.05:493][222]BlueprintLog: New page: Compile W_MainMenu
+[2018.12.09-09.47.05:747][222]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.47.05:748][222]LogBlueprintUserMessages: [W_Credits] 2
+[2018.12.09-09.47.05:748][222]LogBlueprintUserMessages: [W_Credits] 3
+[2018.12.09-09.47.05:748][222]LogBlueprintUserMessages: [W_Credits] 4
+[2018.12.09-09.47.05:748][222]LogBlueprintUserMessages: [W_Credits] 5
+[2018.12.09-09.47.05:749][222]LogBlueprintUserMessages: [W_Credits] 6
+[2018.12.09-09.47.05:749][222]LogBlueprintUserMessages: [W_Credits] 7
+[2018.12.09-09.47.05:749][222]LogBlueprintUserMessages: [W_Credits] 8
+[2018.12.09-09.47.05:749][222]LogBlueprintUserMessages: [W_Credits] 9
+[2018.12.09-09.47.05:750][222]LogBlueprintUserMessages: [W_Credits] 10
+[2018.12.09-09.47.05:750][222]LogBlueprintUserMessages: [W_Credits] 11
+[2018.12.09-09.47.05:750][222]LogBlueprintUserMessages: [W_Credits] 12
+[2018.12.09-09.47.05:750][222]LogBlueprintUserMessages: [W_Credits] 13
+[2018.12.09-09.47.05:751][222]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.47.05:751][222]LogBlueprintUserMessages: [W_Credits] 15
+[2018.12.09-09.47.05:751][222]LogBlueprintUserMessages: [W_Credits] 16
+[2018.12.09-09.47.05:751][222]LogBlueprintUserMessages: [W_Credits] 17
+[2018.12.09-09.47.05:751][222]LogBlueprintUserMessages: [W_Credits] 18
+[2018.12.09-09.47.05:752][222]LogBlueprintUserMessages: [W_Credits] 19
+[2018.12.09-09.47.05:752][222]LogBlueprintUserMessages: [W_Credits] 20
+[2018.12.09-09.47.05:752][222]LogBlueprintUserMessages: [W_Credits] 21
+[2018.12.09-09.47.05:752][222]LogBlueprintUserMessages: [W_Credits] 22
+[2018.12.09-09.47.05:753][222]LogBlueprintUserMessages: [W_Credits] 23
+[2018.12.09-09.47.05:753][222]LogBlueprintUserMessages: [W_Credits] 24
+[2018.12.09-09.47.05:753][222]LogBlueprintUserMessages: [W_Credits] 25
+[2018.12.09-09.47.05:753][222]LogBlueprintUserMessages: [W_Credits] 26
+[2018.12.09-09.47.05:753][222]LogBlueprintUserMessages: [W_Credits] 27
+[2018.12.09-09.47.05:754][222]LogBlueprintUserMessages: [W_Credits] 28
+[2018.12.09-09.47.05:754][222]LogBlueprintUserMessages: [W_Credits] 29
+[2018.12.09-09.47.05:754][222]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.47.05:754][222]LogBlueprintUserMessages: [W_Credits] 31
+[2018.12.09-09.47.05:754][222]LogBlueprintUserMessages: [W_Credits] 32
+[2018.12.09-09.47.05:755][222]LogBlueprintUserMessages: [W_Credits] 33
+[2018.12.09-09.47.05:755][222]LogBlueprintUserMessages: [W_Credits] 34
+[2018.12.09-09.47.05:755][222]LogBlueprintUserMessages: [W_Credits] 35
+[2018.12.09-09.47.05:755][222]LogBlueprintUserMessages: [W_Credits] 36
+[2018.12.09-09.47.05:756][222]LogBlueprintUserMessages: [W_Credits] 37
+[2018.12.09-09.47.05:756][222]LogBlueprintUserMessages: [W_Credits] 38
+[2018.12.09-09.47.05:756][222]LogBlueprintUserMessages: [W_Credits] 39
+[2018.12.09-09.47.05:756][222]LogBlueprintUserMessages: [W_Credits] 40
+[2018.12.09-09.47.05:756][222]LogBlueprintUserMessages: [W_Credits] 41
+[2018.12.09-09.47.05:757][222]LogBlueprintUserMessages: [W_Credits] 42
+[2018.12.09-09.47.05:757][222]LogBlueprintUserMessages: [W_Credits] 43
+[2018.12.09-09.47.05:757][222]LogBlueprintUserMessages: [W_Credits] 44
+[2018.12.09-09.47.05:757][222]LogBlueprintUserMessages: [W_Credits] 45
+[2018.12.09-09.47.05:757][222]LogBlueprintUserMessages: [W_Credits] 46
+[2018.12.09-09.47.05:758][222]LogBlueprintUserMessages: [W_Credits] 47
+[2018.12.09-09.47.05:758][222]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.47.05:758][222]LogBlueprintUserMessages: [W_Credits] 49
+[2018.12.09-09.47.05:758][222]LogBlueprintUserMessages: [W_Credits] 50
+[2018.12.09-09.47.05:759][222]LogBlueprintUserMessages: [W_Credits] 51
+[2018.12.09-09.47.05:759][222]LogBlueprintUserMessages: [W_Credits] 52
+[2018.12.09-09.47.05:759][222]LogBlueprintUserMessages: [W_Credits] 53
+[2018.12.09-09.47.05:759][222]LogBlueprintUserMessages: [W_Credits] 54
+[2018.12.09-09.47.05:759][222]LogBlueprintUserMessages: [W_Credits] 55
+[2018.12.09-09.47.05:760][222]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.47.05:760][222]LogBlueprintUserMessages: [W_Credits] 57
+[2018.12.09-09.47.05:760][222]LogBlueprintUserMessages: [W_Credits] 58
+[2018.12.09-09.47.05:760][222]LogBlueprintUserMessages: [W_Credits] 59
+[2018.12.09-09.47.05:760][222]LogBlueprintUserMessages: [W_Credits] 60
+[2018.12.09-09.47.05:761][222]LogBlueprintUserMessages: [W_Credits] 61
+[2018.12.09-09.47.05:761][222]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.47.05:761][222]LogBlueprintUserMessages: [W_Credits] 63
+[2018.12.09-09.47.05:761][222]LogBlueprintUserMessages: [W_Credits] 64
+[2018.12.09-09.47.05:762][222]LogBlueprintUserMessages: [W_Credits] 65
+[2018.12.09-09.47.05:762][222]LogBlueprintUserMessages: [W_Credits] 66
+[2018.12.09-09.47.05:762][222]LogBlueprintUserMessages: [W_Credits] 67
+[2018.12.09-09.47.05:762][222]LogBlueprintUserMessages: [W_Credits] 68
+[2018.12.09-09.47.05:762][222]LogBlueprintUserMessages: [W_Credits] 69
+[2018.12.09-09.47.05:763][222]LogBlueprintUserMessages: [W_Credits] 70
+[2018.12.09-09.47.05:763][222]LogBlueprintUserMessages: [W_Credits] 71
+[2018.12.09-09.47.05:763][222]LogBlueprintUserMessages: [W_Credits] 72
+[2018.12.09-09.47.05:763][222]LogBlueprintUserMessages: [W_Credits] 73
+[2018.12.09-09.47.05:763][222]LogBlueprintUserMessages: [W_Credits] 74
+[2018.12.09-09.47.05:764][222]LogBlueprintUserMessages: [W_Credits] 75
+[2018.12.09-09.47.05:764][222]LogBlueprintUserMessages: [W_Credits] 76
+[2018.12.09-09.47.05:764][222]LogBlueprintUserMessages: [W_Credits] 77
+[2018.12.09-09.47.05:764][222]LogBlueprintUserMessages: [W_Credits] 78
+[2018.12.09-09.47.05:764][222]LogBlueprintUserMessages: [W_Credits] 79
+[2018.12.09-09.47.05:765][222]LogBlueprintUserMessages: [W_Credits] 80
+[2018.12.09-09.47.05:765][222]LogBlueprintUserMessages: [W_Credits] 81
+[2018.12.09-09.47.05:765][222]LogBlueprintUserMessages: [W_Credits] 82
+[2018.12.09-09.47.05:765][222]LogBlueprintUserMessages: [W_Credits] 83
+[2018.12.09-09.47.05:766][222]LogBlueprintUserMessages: [W_Credits] 84
+[2018.12.09-09.47.05:766][222]LogBlueprintUserMessages: [W_Credits] 85
+[2018.12.09-09.47.05:766][222]LogBlueprintUserMessages: [W_Credits] 86
+[2018.12.09-09.47.05:766][222]LogBlueprintUserMessages: [W_Credits] 87
+[2018.12.09-09.47.05:766][222]LogBlueprintUserMessages: [W_Credits] 88
+[2018.12.09-09.47.05:767][222]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.47.05:767][222]LogBlueprintUserMessages: [W_Credits] 90
+[2018.12.09-09.47.05:767][222]LogBlueprintUserMessages: [W_Credits] 91
+[2018.12.09-09.47.05:767][222]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.47.05:768][222]LogBlueprintUserMessages: [W_Credits] 93
+[2018.12.09-09.47.05:768][222]LogBlueprintUserMessages: [W_Credits] 94
+[2018.12.09-09.47.07:820][342]LogTemp: Repeating last play command: Simulate
+[2018.12.09-09.47.07:856][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-09.47.07:856][342]PIE: New page: SIE session: Menu (Dec 8, 2018, 5:47:07 PM)
+[2018.12.09-09.47.07:856][342]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.12.09-09.47.07:858][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001844s)
+[2018.12.09-09.47.07:859][342]LogAIModule: Creating AISystem for world Menu
+[2018.12.09-09.47.07:859][342]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2018.12.09-09.47.07:859][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.002904s)
+[2018.12.09-09.47.07:894][342]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.09-09.47.07:902][342]LogInit: FAudioDevice initialized.
+[2018.12.09-09.47.07:933][342]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.12.09-09.47.07:935][342]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.12.09-01.47.07
+[2018.12.09-09.47.07:935][342]LogWorld: Bringing up level for play took: 0.001290
+[2018.12.09-09.47.07:949][342]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu -0.514
+[2018.12.09-09.47.07:953][342]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.47.07:953][342]LogBlueprintUserMessages: [W_Credits] 2
+[2018.12.09-09.47.07:953][342]LogBlueprintUserMessages: [W_Credits] 3
+[2018.12.09-09.47.07:954][342]LogBlueprintUserMessages: [W_Credits] 4
+[2018.12.09-09.47.07:954][342]LogBlueprintUserMessages: [W_Credits] 5
+[2018.12.09-09.47.07:954][342]LogBlueprintUserMessages: [W_Credits] 6
+[2018.12.09-09.47.07:954][342]LogBlueprintUserMessages: [W_Credits] 7
+[2018.12.09-09.47.07:954][342]LogBlueprintUserMessages: [W_Credits] 8
+[2018.12.09-09.47.07:955][342]LogBlueprintUserMessages: [W_Credits] 9
+[2018.12.09-09.47.07:955][342]LogBlueprintUserMessages: [W_Credits] 10
+[2018.12.09-09.47.07:955][342]LogBlueprintUserMessages: [W_Credits] 11
+[2018.12.09-09.47.07:955][342]LogBlueprintUserMessages: [W_Credits] 12
+[2018.12.09-09.47.07:956][342]LogBlueprintUserMessages: [W_Credits] 13
+[2018.12.09-09.47.07:956][342]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.47.07:956][342]LogBlueprintUserMessages: [W_Credits] 15
+[2018.12.09-09.47.07:956][342]LogBlueprintUserMessages: [W_Credits] 16
+[2018.12.09-09.47.07:956][342]LogBlueprintUserMessages: [W_Credits] 17
+[2018.12.09-09.47.07:957][342]LogBlueprintUserMessages: [W_Credits] 18
+[2018.12.09-09.47.07:957][342]LogBlueprintUserMessages: [W_Credits] 19
+[2018.12.09-09.47.07:957][342]LogBlueprintUserMessages: [W_Credits] 20
+[2018.12.09-09.47.07:957][342]LogBlueprintUserMessages: [W_Credits] 21
+[2018.12.09-09.47.07:957][342]LogBlueprintUserMessages: [W_Credits] 22
+[2018.12.09-09.47.07:958][342]LogBlueprintUserMessages: [W_Credits] 23
+[2018.12.09-09.47.07:958][342]LogBlueprintUserMessages: [W_Credits] 24
+[2018.12.09-09.47.07:958][342]LogBlueprintUserMessages: [W_Credits] 25
+[2018.12.09-09.47.07:958][342]LogBlueprintUserMessages: [W_Credits] 26
+[2018.12.09-09.47.07:959][342]LogBlueprintUserMessages: [W_Credits] 27
+[2018.12.09-09.47.07:959][342]LogBlueprintUserMessages: [W_Credits] 28
+[2018.12.09-09.47.07:959][342]LogBlueprintUserMessages: [W_Credits] 29
+[2018.12.09-09.47.07:959][342]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.47.07:959][342]LogBlueprintUserMessages: [W_Credits] 31
+[2018.12.09-09.47.07:960][342]LogBlueprintUserMessages: [W_Credits] 32
+[2018.12.09-09.47.07:960][342]LogBlueprintUserMessages: [W_Credits] 33
+[2018.12.09-09.47.07:960][342]LogBlueprintUserMessages: [W_Credits] 34
+[2018.12.09-09.47.07:960][342]LogBlueprintUserMessages: [W_Credits] 35
+[2018.12.09-09.47.07:961][342]LogBlueprintUserMessages: [W_Credits] 36
+[2018.12.09-09.47.07:961][342]LogBlueprintUserMessages: [W_Credits] 37
+[2018.12.09-09.47.07:961][342]LogBlueprintUserMessages: [W_Credits] 38
+[2018.12.09-09.47.07:961][342]LogBlueprintUserMessages: [W_Credits] 39
+[2018.12.09-09.47.07:961][342]LogBlueprintUserMessages: [W_Credits] 40
+[2018.12.09-09.47.07:962][342]LogBlueprintUserMessages: [W_Credits] 41
+[2018.12.09-09.47.07:962][342]LogBlueprintUserMessages: [W_Credits] 42
+[2018.12.09-09.47.07:962][342]LogBlueprintUserMessages: [W_Credits] 43
+[2018.12.09-09.47.07:962][342]LogBlueprintUserMessages: [W_Credits] 44
+[2018.12.09-09.47.07:963][342]LogBlueprintUserMessages: [W_Credits] 45
+[2018.12.09-09.47.07:963][342]LogBlueprintUserMessages: [W_Credits] 46
+[2018.12.09-09.47.07:963][342]LogBlueprintUserMessages: [W_Credits] 47
+[2018.12.09-09.47.07:963][342]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.47.07:963][342]LogBlueprintUserMessages: [W_Credits] 49
+[2018.12.09-09.47.07:964][342]LogBlueprintUserMessages: [W_Credits] 50
+[2018.12.09-09.47.07:964][342]LogBlueprintUserMessages: [W_Credits] 51
+[2018.12.09-09.47.07:964][342]LogBlueprintUserMessages: [W_Credits] 52
+[2018.12.09-09.47.07:964][342]LogBlueprintUserMessages: [W_Credits] 53
+[2018.12.09-09.47.07:965][342]LogBlueprintUserMessages: [W_Credits] 54
+[2018.12.09-09.47.07:965][342]LogBlueprintUserMessages: [W_Credits] 55
+[2018.12.09-09.47.07:965][342]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.47.07:965][342]LogBlueprintUserMessages: [W_Credits] 57
+[2018.12.09-09.47.07:965][342]LogBlueprintUserMessages: [W_Credits] 58
+[2018.12.09-09.47.07:966][342]LogBlueprintUserMessages: [W_Credits] 59
+[2018.12.09-09.47.07:966][342]LogBlueprintUserMessages: [W_Credits] 60
+[2018.12.09-09.47.07:966][342]LogBlueprintUserMessages: [W_Credits] 61
+[2018.12.09-09.47.07:966][342]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.47.07:967][342]LogBlueprintUserMessages: [W_Credits] 63
+[2018.12.09-09.47.07:967][342]LogBlueprintUserMessages: [W_Credits] 64
+[2018.12.09-09.47.07:967][342]LogBlueprintUserMessages: [W_Credits] 65
+[2018.12.09-09.47.07:967][342]LogBlueprintUserMessages: [W_Credits] 66
+[2018.12.09-09.47.07:967][342]LogBlueprintUserMessages: [W_Credits] 67
+[2018.12.09-09.47.07:968][342]LogBlueprintUserMessages: [W_Credits] 68
+[2018.12.09-09.47.07:968][342]LogBlueprintUserMessages: [W_Credits] 69
+[2018.12.09-09.47.07:968][342]LogBlueprintUserMessages: [W_Credits] 70
+[2018.12.09-09.47.07:968][342]LogBlueprintUserMessages: [W_Credits] 71
+[2018.12.09-09.47.07:968][342]LogBlueprintUserMessages: [W_Credits] 72
+[2018.12.09-09.47.07:969][342]LogBlueprintUserMessages: [W_Credits] 73
+[2018.12.09-09.47.07:969][342]LogBlueprintUserMessages: [W_Credits] 74
+[2018.12.09-09.47.07:969][342]LogBlueprintUserMessages: [W_Credits] 75
+[2018.12.09-09.47.07:969][342]LogBlueprintUserMessages: [W_Credits] 76
+[2018.12.09-09.47.07:970][342]LogBlueprintUserMessages: [W_Credits] 77
+[2018.12.09-09.47.07:970][342]LogBlueprintUserMessages: [W_Credits] 78
+[2018.12.09-09.47.07:970][342]LogBlueprintUserMessages: [W_Credits] 79
+[2018.12.09-09.47.07:970][342]LogBlueprintUserMessages: [W_Credits] 80
+[2018.12.09-09.47.07:970][342]LogBlueprintUserMessages: [W_Credits] 81
+[2018.12.09-09.47.07:971][342]LogBlueprintUserMessages: [W_Credits] 82
+[2018.12.09-09.47.07:971][342]LogBlueprintUserMessages: [W_Credits] 83
+[2018.12.09-09.47.07:971][342]LogBlueprintUserMessages: [W_Credits] 84
+[2018.12.09-09.47.07:971][342]LogBlueprintUserMessages: [W_Credits] 85
+[2018.12.09-09.47.07:972][342]LogBlueprintUserMessages: [W_Credits] 86
+[2018.12.09-09.47.07:972][342]LogBlueprintUserMessages: [W_Credits] 87
+[2018.12.09-09.47.07:972][342]LogBlueprintUserMessages: [W_Credits] 88
+[2018.12.09-09.47.07:972][342]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.47.07:972][342]LogBlueprintUserMessages: [W_Credits] 90
+[2018.12.09-09.47.07:973][342]LogBlueprintUserMessages: [W_Credits] 91
+[2018.12.09-09.47.07:973][342]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.47.07:973][342]LogBlueprintUserMessages: [W_Credits] 93
+[2018.12.09-09.47.07:973][342]LogBlueprintUserMessages: [W_Credits] 94
+[2018.12.09-09.47.18:307][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-09.47.18:408][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-09.47.18:439][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-09.47.18:469][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-09.47.18:521][971]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2018.12.09-09.47.46:204][631]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.09-09.48.20:023][659]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.09-09.48.28:559][170]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.09-09.48.44:066][ 96]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu6A3B05DB4F70A010A5B9AF80AB8D0537.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.12.09-09.48.44:349][113]BlueprintLog: New page: Compile W_MainMenu
+[2018.12.09-09.48.44:594][113]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.48.44:594][113]LogBlueprintUserMessages: [W_Credits] 2
+[2018.12.09-09.48.44:594][113]LogBlueprintUserMessages: [W_Credits] 3
+[2018.12.09-09.48.44:594][113]LogBlueprintUserMessages: [W_Credits] 4
+[2018.12.09-09.48.44:595][113]LogBlueprintUserMessages: [W_Credits] 5
+[2018.12.09-09.48.44:595][113]LogBlueprintUserMessages: [W_Credits] 6
+[2018.12.09-09.48.44:595][113]LogBlueprintUserMessages: [W_Credits] 7
+[2018.12.09-09.48.44:595][113]LogBlueprintUserMessages: [W_Credits] 8
+[2018.12.09-09.48.44:596][113]LogBlueprintUserMessages: [W_Credits] 9
+[2018.12.09-09.48.44:596][113]LogBlueprintUserMessages: [W_Credits] 10
+[2018.12.09-09.48.44:596][113]LogBlueprintUserMessages: [W_Credits] 11
+[2018.12.09-09.48.44:596][113]LogBlueprintUserMessages: [W_Credits] 12
+[2018.12.09-09.48.44:596][113]LogBlueprintUserMessages: [W_Credits] 13
+[2018.12.09-09.48.44:597][113]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.48.44:597][113]LogBlueprintUserMessages: [W_Credits] 15
+[2018.12.09-09.48.44:597][113]LogBlueprintUserMessages: [W_Credits] 16
+[2018.12.09-09.48.44:597][113]LogBlueprintUserMessages: [W_Credits] 17
+[2018.12.09-09.48.44:598][113]LogBlueprintUserMessages: [W_Credits] 18
+[2018.12.09-09.48.44:598][113]LogBlueprintUserMessages: [W_Credits] 19
+[2018.12.09-09.48.44:598][113]LogBlueprintUserMessages: [W_Credits] 20
+[2018.12.09-09.48.44:598][113]LogBlueprintUserMessages: [W_Credits] 21
+[2018.12.09-09.48.44:598][113]LogBlueprintUserMessages: [W_Credits] 22
+[2018.12.09-09.48.44:599][113]LogBlueprintUserMessages: [W_Credits] 23
+[2018.12.09-09.48.44:599][113]LogBlueprintUserMessages: [W_Credits] 24
+[2018.12.09-09.48.44:599][113]LogBlueprintUserMessages: [W_Credits] 25
+[2018.12.09-09.48.44:599][113]LogBlueprintUserMessages: [W_Credits] 26
+[2018.12.09-09.48.44:600][113]LogBlueprintUserMessages: [W_Credits] 27
+[2018.12.09-09.48.44:600][113]LogBlueprintUserMessages: [W_Credits] 28
+[2018.12.09-09.48.44:600][113]LogBlueprintUserMessages: [W_Credits] 29
+[2018.12.09-09.48.44:600][113]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.48.44:600][113]LogBlueprintUserMessages: [W_Credits] 31
+[2018.12.09-09.48.44:601][113]LogBlueprintUserMessages: [W_Credits] 32
+[2018.12.09-09.48.44:601][113]LogBlueprintUserMessages: [W_Credits] 33
+[2018.12.09-09.48.44:601][113]LogBlueprintUserMessages: [W_Credits] 34
+[2018.12.09-09.48.44:601][113]LogBlueprintUserMessages: [W_Credits] 35
+[2018.12.09-09.48.44:601][113]LogBlueprintUserMessages: [W_Credits] 36
+[2018.12.09-09.48.44:602][113]LogBlueprintUserMessages: [W_Credits] 37
+[2018.12.09-09.48.44:602][113]LogBlueprintUserMessages: [W_Credits] 38
+[2018.12.09-09.48.44:602][113]LogBlueprintUserMessages: [W_Credits] 39
+[2018.12.09-09.48.44:602][113]LogBlueprintUserMessages: [W_Credits] 40
+[2018.12.09-09.48.44:603][113]LogBlueprintUserMessages: [W_Credits] 41
+[2018.12.09-09.48.44:603][113]LogBlueprintUserMessages: [W_Credits] 42
+[2018.12.09-09.48.44:603][113]LogBlueprintUserMessages: [W_Credits] 43
+[2018.12.09-09.48.44:603][113]LogBlueprintUserMessages: [W_Credits] 44
+[2018.12.09-09.48.44:603][113]LogBlueprintUserMessages: [W_Credits] 45
+[2018.12.09-09.48.44:604][113]LogBlueprintUserMessages: [W_Credits] 46
+[2018.12.09-09.48.44:604][113]LogBlueprintUserMessages: [W_Credits] 47
+[2018.12.09-09.48.44:604][113]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.48.44:604][113]LogBlueprintUserMessages: [W_Credits] 49
+[2018.12.09-09.48.44:604][113]LogBlueprintUserMessages: [W_Credits] 50
+[2018.12.09-09.48.44:605][113]LogBlueprintUserMessages: [W_Credits] 51
+[2018.12.09-09.48.44:605][113]LogBlueprintUserMessages: [W_Credits] 52
+[2018.12.09-09.48.44:605][113]LogBlueprintUserMessages: [W_Credits] 53
+[2018.12.09-09.48.44:605][113]LogBlueprintUserMessages: [W_Credits] 54
+[2018.12.09-09.48.44:606][113]LogBlueprintUserMessages: [W_Credits] 55
+[2018.12.09-09.48.44:606][113]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.48.44:606][113]LogBlueprintUserMessages: [W_Credits] 57
+[2018.12.09-09.48.44:606][113]LogBlueprintUserMessages: [W_Credits] 58
+[2018.12.09-09.48.44:606][113]LogBlueprintUserMessages: [W_Credits] 59
+[2018.12.09-09.48.44:607][113]LogBlueprintUserMessages: [W_Credits] 60
+[2018.12.09-09.48.44:607][113]LogBlueprintUserMessages: [W_Credits] 61
+[2018.12.09-09.48.44:607][113]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.48.44:607][113]LogBlueprintUserMessages: [W_Credits] 63
+[2018.12.09-09.48.44:607][113]LogBlueprintUserMessages: [W_Credits] 64
+[2018.12.09-09.48.44:608][113]LogBlueprintUserMessages: [W_Credits] 65
+[2018.12.09-09.48.44:608][113]LogBlueprintUserMessages: [W_Credits] 66
+[2018.12.09-09.48.44:608][113]LogBlueprintUserMessages: [W_Credits] 67
+[2018.12.09-09.48.44:608][113]LogBlueprintUserMessages: [W_Credits] 68
+[2018.12.09-09.48.44:609][113]LogBlueprintUserMessages: [W_Credits] 69
+[2018.12.09-09.48.44:609][113]LogBlueprintUserMessages: [W_Credits] 70
+[2018.12.09-09.48.44:609][113]LogBlueprintUserMessages: [W_Credits] 71
+[2018.12.09-09.48.44:609][113]LogBlueprintUserMessages: [W_Credits] 72
+[2018.12.09-09.48.44:609][113]LogBlueprintUserMessages: [W_Credits] 73
+[2018.12.09-09.48.44:610][113]LogBlueprintUserMessages: [W_Credits] 74
+[2018.12.09-09.48.44:610][113]LogBlueprintUserMessages: [W_Credits] 75
+[2018.12.09-09.48.44:610][113]LogBlueprintUserMessages: [W_Credits] 76
+[2018.12.09-09.48.44:610][113]LogBlueprintUserMessages: [W_Credits] 77
+[2018.12.09-09.48.44:610][113]LogBlueprintUserMessages: [W_Credits] 78
+[2018.12.09-09.48.44:611][113]LogBlueprintUserMessages: [W_Credits] 79
+[2018.12.09-09.48.44:611][113]LogBlueprintUserMessages: [W_Credits] 80
+[2018.12.09-09.48.44:611][113]LogBlueprintUserMessages: [W_Credits] 81
+[2018.12.09-09.48.44:611][113]LogBlueprintUserMessages: [W_Credits] 82
+[2018.12.09-09.48.44:612][113]LogBlueprintUserMessages: [W_Credits] 83
+[2018.12.09-09.48.44:612][113]LogBlueprintUserMessages: [W_Credits] 84
+[2018.12.09-09.48.44:612][113]LogBlueprintUserMessages: [W_Credits] 85
+[2018.12.09-09.48.44:612][113]LogBlueprintUserMessages: [W_Credits] 86
+[2018.12.09-09.48.44:612][113]LogBlueprintUserMessages: [W_Credits] 87
+[2018.12.09-09.48.44:613][113]LogBlueprintUserMessages: [W_Credits] 88
+[2018.12.09-09.48.44:613][113]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.48.44:613][113]LogBlueprintUserMessages: [W_Credits] 90
+[2018.12.09-09.48.44:613][113]LogBlueprintUserMessages: [W_Credits] 91
+[2018.12.09-09.48.44:613][113]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.48.44:614][113]LogBlueprintUserMessages: [W_Credits] 93
+[2018.12.09-09.48.44:614][113]LogBlueprintUserMessages: [W_Credits] 94
+[2018.12.09-09.48.46:487][222]LogTemp: Repeating last play command: Simulate
+[2018.12.09-09.48.46:508][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-09.48.46:508][222]PIE: New page: SIE session: Menu (Dec 8, 2018, 5:48:46 PM)
+[2018.12.09-09.48.46:509][222]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.12.09-09.48.46:510][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001740s)
+[2018.12.09-09.48.46:511][222]LogAIModule: Creating AISystem for world Menu
+[2018.12.09-09.48.46:511][222]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2018.12.09-09.48.46:511][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.002719s)
+[2018.12.09-09.48.46:543][222]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.09-09.48.46:550][222]LogInit: FAudioDevice initialized.
+[2018.12.09-09.48.46:582][222]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.12.09-09.48.46:585][222]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.12.09-01.48.46
+[2018.12.09-09.48.46:585][222]LogWorld: Bringing up level for play took: 0.001329
+[2018.12.09-09.48.46:598][222]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu 0.135
+[2018.12.09-09.48.46:602][222]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.48.46:602][222]LogBlueprintUserMessages: [W_Credits] 2
+[2018.12.09-09.48.46:602][222]LogBlueprintUserMessages: [W_Credits] 3
+[2018.12.09-09.48.46:602][222]LogBlueprintUserMessages: [W_Credits] 4
+[2018.12.09-09.48.46:603][222]LogBlueprintUserMessages: [W_Credits] 5
+[2018.12.09-09.48.46:603][222]LogBlueprintUserMessages: [W_Credits] 6
+[2018.12.09-09.48.46:603][222]LogBlueprintUserMessages: [W_Credits] 7
+[2018.12.09-09.48.46:603][222]LogBlueprintUserMessages: [W_Credits] 8
+[2018.12.09-09.48.46:603][222]LogBlueprintUserMessages: [W_Credits] 9
+[2018.12.09-09.48.46:604][222]LogBlueprintUserMessages: [W_Credits] 10
+[2018.12.09-09.48.46:604][222]LogBlueprintUserMessages: [W_Credits] 11
+[2018.12.09-09.48.46:604][222]LogBlueprintUserMessages: [W_Credits] 12
+[2018.12.09-09.48.46:604][222]LogBlueprintUserMessages: [W_Credits] 13
+[2018.12.09-09.48.46:605][222]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.48.46:605][222]LogBlueprintUserMessages: [W_Credits] 15
+[2018.12.09-09.48.46:605][222]LogBlueprintUserMessages: [W_Credits] 16
+[2018.12.09-09.48.46:605][222]LogBlueprintUserMessages: [W_Credits] 17
+[2018.12.09-09.48.46:605][222]LogBlueprintUserMessages: [W_Credits] 18
+[2018.12.09-09.48.46:606][222]LogBlueprintUserMessages: [W_Credits] 19
+[2018.12.09-09.48.46:606][222]LogBlueprintUserMessages: [W_Credits] 20
+[2018.12.09-09.48.46:606][222]LogBlueprintUserMessages: [W_Credits] 21
+[2018.12.09-09.48.46:606][222]LogBlueprintUserMessages: [W_Credits] 22
+[2018.12.09-09.48.46:606][222]LogBlueprintUserMessages: [W_Credits] 23
+[2018.12.09-09.48.46:607][222]LogBlueprintUserMessages: [W_Credits] 24
+[2018.12.09-09.48.46:607][222]LogBlueprintUserMessages: [W_Credits] 25
+[2018.12.09-09.48.46:607][222]LogBlueprintUserMessages: [W_Credits] 26
+[2018.12.09-09.48.46:607][222]LogBlueprintUserMessages: [W_Credits] 27
+[2018.12.09-09.48.46:608][222]LogBlueprintUserMessages: [W_Credits] 28
+[2018.12.09-09.48.46:608][222]LogBlueprintUserMessages: [W_Credits] 29
+[2018.12.09-09.48.46:608][222]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.48.46:608][222]LogBlueprintUserMessages: [W_Credits] 31
+[2018.12.09-09.48.46:608][222]LogBlueprintUserMessages: [W_Credits] 32
+[2018.12.09-09.48.46:609][222]LogBlueprintUserMessages: [W_Credits] 33
+[2018.12.09-09.48.46:609][222]LogBlueprintUserMessages: [W_Credits] 34
+[2018.12.09-09.48.46:609][222]LogBlueprintUserMessages: [W_Credits] 35
+[2018.12.09-09.48.46:609][222]LogBlueprintUserMessages: [W_Credits] 36
+[2018.12.09-09.48.46:610][222]LogBlueprintUserMessages: [W_Credits] 37
+[2018.12.09-09.48.46:610][222]LogBlueprintUserMessages: [W_Credits] 38
+[2018.12.09-09.48.46:610][222]LogBlueprintUserMessages: [W_Credits] 39
+[2018.12.09-09.48.46:610][222]LogBlueprintUserMessages: [W_Credits] 40
+[2018.12.09-09.48.46:610][222]LogBlueprintUserMessages: [W_Credits] 41
+[2018.12.09-09.48.46:611][222]LogBlueprintUserMessages: [W_Credits] 42
+[2018.12.09-09.48.46:611][222]LogBlueprintUserMessages: [W_Credits] 43
+[2018.12.09-09.48.46:611][222]LogBlueprintUserMessages: [W_Credits] 44
+[2018.12.09-09.48.46:611][222]LogBlueprintUserMessages: [W_Credits] 45
+[2018.12.09-09.48.46:611][222]LogBlueprintUserMessages: [W_Credits] 46
+[2018.12.09-09.48.46:612][222]LogBlueprintUserMessages: [W_Credits] 47
+[2018.12.09-09.48.46:612][222]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.48.46:612][222]LogBlueprintUserMessages: [W_Credits] 49
+[2018.12.09-09.48.46:612][222]LogBlueprintUserMessages: [W_Credits] 50
+[2018.12.09-09.48.46:613][222]LogBlueprintUserMessages: [W_Credits] 51
+[2018.12.09-09.48.46:613][222]LogBlueprintUserMessages: [W_Credits] 52
+[2018.12.09-09.48.46:613][222]LogBlueprintUserMessages: [W_Credits] 53
+[2018.12.09-09.48.46:613][222]LogBlueprintUserMessages: [W_Credits] 54
+[2018.12.09-09.48.46:613][222]LogBlueprintUserMessages: [W_Credits] 55
+[2018.12.09-09.48.46:614][222]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.48.46:614][222]LogBlueprintUserMessages: [W_Credits] 57
+[2018.12.09-09.48.46:614][222]LogBlueprintUserMessages: [W_Credits] 58
+[2018.12.09-09.48.46:614][222]LogBlueprintUserMessages: [W_Credits] 59
+[2018.12.09-09.48.46:615][222]LogBlueprintUserMessages: [W_Credits] 60
+[2018.12.09-09.48.46:615][222]LogBlueprintUserMessages: [W_Credits] 61
+[2018.12.09-09.48.46:615][222]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.48.46:615][222]LogBlueprintUserMessages: [W_Credits] 63
+[2018.12.09-09.48.46:615][222]LogBlueprintUserMessages: [W_Credits] 64
+[2018.12.09-09.48.46:616][222]LogBlueprintUserMessages: [W_Credits] 65
+[2018.12.09-09.48.46:616][222]LogBlueprintUserMessages: [W_Credits] 66
+[2018.12.09-09.48.46:616][222]LogBlueprintUserMessages: [W_Credits] 67
+[2018.12.09-09.48.46:616][222]LogBlueprintUserMessages: [W_Credits] 68
+[2018.12.09-09.48.46:616][222]LogBlueprintUserMessages: [W_Credits] 69
+[2018.12.09-09.48.46:617][222]LogBlueprintUserMessages: [W_Credits] 70
+[2018.12.09-09.48.46:617][222]LogBlueprintUserMessages: [W_Credits] 71
+[2018.12.09-09.48.46:617][222]LogBlueprintUserMessages: [W_Credits] 72
+[2018.12.09-09.48.46:617][222]LogBlueprintUserMessages: [W_Credits] 73
+[2018.12.09-09.48.46:617][222]LogBlueprintUserMessages: [W_Credits] 74
+[2018.12.09-09.48.46:618][222]LogBlueprintUserMessages: [W_Credits] 75
+[2018.12.09-09.48.46:618][222]LogBlueprintUserMessages: [W_Credits] 76
+[2018.12.09-09.48.46:618][222]LogBlueprintUserMessages: [W_Credits] 77
+[2018.12.09-09.48.46:618][222]LogBlueprintUserMessages: [W_Credits] 78
+[2018.12.09-09.48.46:619][222]LogBlueprintUserMessages: [W_Credits] 79
+[2018.12.09-09.48.46:619][222]LogBlueprintUserMessages: [W_Credits] 80
+[2018.12.09-09.48.46:619][222]LogBlueprintUserMessages: [W_Credits] 81
+[2018.12.09-09.48.46:619][222]LogBlueprintUserMessages: [W_Credits] 82
+[2018.12.09-09.48.46:619][222]LogBlueprintUserMessages: [W_Credits] 83
+[2018.12.09-09.48.46:620][222]LogBlueprintUserMessages: [W_Credits] 84
+[2018.12.09-09.48.46:620][222]LogBlueprintUserMessages: [W_Credits] 85
+[2018.12.09-09.48.46:620][222]LogBlueprintUserMessages: [W_Credits] 86
+[2018.12.09-09.48.46:620][222]LogBlueprintUserMessages: [W_Credits] 87
+[2018.12.09-09.48.46:620][222]LogBlueprintUserMessages: [W_Credits] 88
+[2018.12.09-09.48.46:621][222]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.48.46:621][222]LogBlueprintUserMessages: [W_Credits] 90
+[2018.12.09-09.48.46:621][222]LogBlueprintUserMessages: [W_Credits] 91
+[2018.12.09-09.48.46:621][222]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.48.46:622][222]LogBlueprintUserMessages: [W_Credits] 93
+[2018.12.09-09.48.46:622][222]LogBlueprintUserMessages: [W_Credits] 94
+[2018.12.09-09.48.48:704][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-09.48.48:738][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-09.48.48:766][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-09.48.48:818][350]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2018.12.09-09.49.26:197][582]BlueprintLog: New page: Compile W_MainMenu
+[2018.12.09-09.49.26:376][582]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.26:377][582]LogBlueprintUserMessages: [W_Credits] 2
+[2018.12.09-09.49.26:377][582]LogBlueprintUserMessages: [W_Credits] 3
+[2018.12.09-09.49.26:377][582]LogBlueprintUserMessages: [W_Credits] 4
+[2018.12.09-09.49.26:377][582]LogBlueprintUserMessages: [W_Credits] 5
+[2018.12.09-09.49.26:377][582]LogBlueprintUserMessages: [W_Credits] 6
+[2018.12.09-09.49.26:378][582]LogBlueprintUserMessages: [W_Credits] 7
+[2018.12.09-09.49.26:378][582]LogBlueprintUserMessages: [W_Credits] 8
+[2018.12.09-09.49.26:378][582]LogBlueprintUserMessages: [W_Credits] 9
+[2018.12.09-09.49.26:378][582]LogBlueprintUserMessages: [W_Credits] 10
+[2018.12.09-09.49.26:379][582]LogBlueprintUserMessages: [W_Credits] 11
+[2018.12.09-09.49.26:379][582]LogBlueprintUserMessages: [W_Credits] 12
+[2018.12.09-09.49.26:379][582]LogBlueprintUserMessages: [W_Credits] 13
+[2018.12.09-09.49.26:379][582]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.26:379][582]LogBlueprintUserMessages: [W_Credits] 15
+[2018.12.09-09.49.26:380][582]LogBlueprintUserMessages: [W_Credits] 16
+[2018.12.09-09.49.26:380][582]LogBlueprintUserMessages: [W_Credits] 17
+[2018.12.09-09.49.26:380][582]LogBlueprintUserMessages: [W_Credits] 18
+[2018.12.09-09.49.26:380][582]LogBlueprintUserMessages: [W_Credits] 19
+[2018.12.09-09.49.26:380][582]LogBlueprintUserMessages: [W_Credits] 20
+[2018.12.09-09.49.26:381][582]LogBlueprintUserMessages: [W_Credits] 21
+[2018.12.09-09.49.26:381][582]LogBlueprintUserMessages: [W_Credits] 22
+[2018.12.09-09.49.26:381][582]LogBlueprintUserMessages: [W_Credits] 23
+[2018.12.09-09.49.26:382][582]LogBlueprintUserMessages: [W_Credits] 24
+[2018.12.09-09.49.26:382][582]LogBlueprintUserMessages: [W_Credits] 25
+[2018.12.09-09.49.26:382][582]LogBlueprintUserMessages: [W_Credits] 26
+[2018.12.09-09.49.26:382][582]LogBlueprintUserMessages: [W_Credits] 27
+[2018.12.09-09.49.26:382][582]LogBlueprintUserMessages: [W_Credits] 28
+[2018.12.09-09.49.26:383][582]LogBlueprintUserMessages: [W_Credits] 29
+[2018.12.09-09.49.26:383][582]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.26:383][582]LogBlueprintUserMessages: [W_Credits] 31
+[2018.12.09-09.49.26:383][582]LogBlueprintUserMessages: [W_Credits] 32
+[2018.12.09-09.49.26:384][582]LogBlueprintUserMessages: [W_Credits] 33
+[2018.12.09-09.49.26:384][582]LogBlueprintUserMessages: [W_Credits] 34
+[2018.12.09-09.49.26:384][582]LogBlueprintUserMessages: [W_Credits] 35
+[2018.12.09-09.49.26:384][582]LogBlueprintUserMessages: [W_Credits] 36
+[2018.12.09-09.49.26:384][582]LogBlueprintUserMessages: [W_Credits] 37
+[2018.12.09-09.49.26:385][582]LogBlueprintUserMessages: [W_Credits] 38
+[2018.12.09-09.49.26:385][582]LogBlueprintUserMessages: [W_Credits] 39
+[2018.12.09-09.49.26:385][582]LogBlueprintUserMessages: [W_Credits] 40
+[2018.12.09-09.49.26:385][582]LogBlueprintUserMessages: [W_Credits] 41
+[2018.12.09-09.49.26:385][582]LogBlueprintUserMessages: [W_Credits] 42
+[2018.12.09-09.49.26:386][582]LogBlueprintUserMessages: [W_Credits] 43
+[2018.12.09-09.49.26:386][582]LogBlueprintUserMessages: [W_Credits] 44
+[2018.12.09-09.49.26:386][582]LogBlueprintUserMessages: [W_Credits] 45
+[2018.12.09-09.49.26:386][582]LogBlueprintUserMessages: [W_Credits] 46
+[2018.12.09-09.49.26:387][582]LogBlueprintUserMessages: [W_Credits] 47
+[2018.12.09-09.49.26:387][582]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.26:387][582]LogBlueprintUserMessages: [W_Credits] 49
+[2018.12.09-09.49.26:387][582]LogBlueprintUserMessages: [W_Credits] 50
+[2018.12.09-09.49.26:387][582]LogBlueprintUserMessages: [W_Credits] 51
+[2018.12.09-09.49.26:388][582]LogBlueprintUserMessages: [W_Credits] 52
+[2018.12.09-09.49.26:388][582]LogBlueprintUserMessages: [W_Credits] 53
+[2018.12.09-09.49.26:388][582]LogBlueprintUserMessages: [W_Credits] 54
+[2018.12.09-09.49.26:388][582]LogBlueprintUserMessages: [W_Credits] 55
+[2018.12.09-09.49.26:388][582]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.26:389][582]LogBlueprintUserMessages: [W_Credits] 57
+[2018.12.09-09.49.26:389][582]LogBlueprintUserMessages: [W_Credits] 58
+[2018.12.09-09.49.26:389][582]LogBlueprintUserMessages: [W_Credits] 59
+[2018.12.09-09.49.26:389][582]LogBlueprintUserMessages: [W_Credits] 60
+[2018.12.09-09.49.26:390][582]LogBlueprintUserMessages: [W_Credits] 61
+[2018.12.09-09.49.26:390][582]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.26:390][582]LogBlueprintUserMessages: [W_Credits] 63
+[2018.12.09-09.49.26:390][582]LogBlueprintUserMessages: [W_Credits] 64
+[2018.12.09-09.49.26:390][582]LogBlueprintUserMessages: [W_Credits] 65
+[2018.12.09-09.49.26:391][582]LogBlueprintUserMessages: [W_Credits] 66
+[2018.12.09-09.49.26:391][582]LogBlueprintUserMessages: [W_Credits] 67
+[2018.12.09-09.49.26:391][582]LogBlueprintUserMessages: [W_Credits] 68
+[2018.12.09-09.49.26:391][582]LogBlueprintUserMessages: [W_Credits] 69
+[2018.12.09-09.49.26:392][582]LogBlueprintUserMessages: [W_Credits] 70
+[2018.12.09-09.49.26:392][582]LogBlueprintUserMessages: [W_Credits] 71
+[2018.12.09-09.49.26:392][582]LogBlueprintUserMessages: [W_Credits] 72
+[2018.12.09-09.49.26:392][582]LogBlueprintUserMessages: [W_Credits] 73
+[2018.12.09-09.49.26:392][582]LogBlueprintUserMessages: [W_Credits] 74
+[2018.12.09-09.49.26:393][582]LogBlueprintUserMessages: [W_Credits] 75
+[2018.12.09-09.49.26:393][582]LogBlueprintUserMessages: [W_Credits] 76
+[2018.12.09-09.49.26:393][582]LogBlueprintUserMessages: [W_Credits] 77
+[2018.12.09-09.49.26:393][582]LogBlueprintUserMessages: [W_Credits] 78
+[2018.12.09-09.49.26:393][582]LogBlueprintUserMessages: [W_Credits] 79
+[2018.12.09-09.49.26:394][582]LogBlueprintUserMessages: [W_Credits] 80
+[2018.12.09-09.49.26:394][582]LogBlueprintUserMessages: [W_Credits] 81
+[2018.12.09-09.49.26:394][582]LogBlueprintUserMessages: [W_Credits] 82
+[2018.12.09-09.49.26:394][582]LogBlueprintUserMessages: [W_Credits] 83
+[2018.12.09-09.49.26:395][582]LogBlueprintUserMessages: [W_Credits] 84
+[2018.12.09-09.49.26:395][582]LogBlueprintUserMessages: [W_Credits] 85
+[2018.12.09-09.49.26:395][582]LogBlueprintUserMessages: [W_Credits] 86
+[2018.12.09-09.49.26:395][582]LogBlueprintUserMessages: [W_Credits] 87
+[2018.12.09-09.49.26:395][582]LogBlueprintUserMessages: [W_Credits] 88
+[2018.12.09-09.49.26:396][582]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.26:396][582]LogBlueprintUserMessages: [W_Credits] 90
+[2018.12.09-09.49.26:396][582]LogBlueprintUserMessages: [W_Credits] 91
+[2018.12.09-09.49.26:396][582]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.26:396][582]LogBlueprintUserMessages: [W_Credits] 93
+[2018.12.09-09.49.26:397][582]LogBlueprintUserMessages: [W_Credits] 94
+[2018.12.09-09.49.26:571][587]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuF373B72646A95685E98DF49F191CB762.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.12.09-09.49.27:620][650]LogTemp: Repeating last play command: Simulate
+[2018.12.09-09.49.27:653][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-09.49.27:654][650]PIE: New page: SIE session: Menu (Dec 8, 2018, 5:49:27 PM)
+[2018.12.09-09.49.27:654][650]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.12.09-09.49.27:656][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001700s)
+[2018.12.09-09.49.27:656][650]LogAIModule: Creating AISystem for world Menu
+[2018.12.09-09.49.27:656][650]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2018.12.09-09.49.27:657][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.002634s)
+[2018.12.09-09.49.27:687][650]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.09-09.49.27:694][650]LogInit: FAudioDevice initialized.
+[2018.12.09-09.49.27:726][650]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.12.09-09.49.27:728][650]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.12.09-01.49.27
+[2018.12.09-09.49.27:728][650]LogWorld: Bringing up level for play took: 0.001239
+[2018.12.09-09.49.27:742][650]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu -0.721
+[2018.12.09-09.49.27:746][650]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.27:746][650]LogBlueprintUserMessages: [W_Credits] 2
+[2018.12.09-09.49.27:746][650]LogBlueprintUserMessages: [W_Credits] 3
+[2018.12.09-09.49.27:746][650]LogBlueprintUserMessages: [W_Credits] 4
+[2018.12.09-09.49.27:747][650]LogBlueprintUserMessages: [W_Credits] 5
+[2018.12.09-09.49.27:747][650]LogBlueprintUserMessages: [W_Credits] 6
+[2018.12.09-09.49.27:747][650]LogBlueprintUserMessages: [W_Credits] 7
+[2018.12.09-09.49.27:747][650]LogBlueprintUserMessages: [W_Credits] 8
+[2018.12.09-09.49.27:747][650]LogBlueprintUserMessages: [W_Credits] 9
+[2018.12.09-09.49.27:748][650]LogBlueprintUserMessages: [W_Credits] 10
+[2018.12.09-09.49.27:748][650]LogBlueprintUserMessages: [W_Credits] 11
+[2018.12.09-09.49.27:748][650]LogBlueprintUserMessages: [W_Credits] 12
+[2018.12.09-09.49.27:748][650]LogBlueprintUserMessages: [W_Credits] 13
+[2018.12.09-09.49.27:749][650]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.27:749][650]LogBlueprintUserMessages: [W_Credits] 15
+[2018.12.09-09.49.27:749][650]LogBlueprintUserMessages: [W_Credits] 16
+[2018.12.09-09.49.27:749][650]LogBlueprintUserMessages: [W_Credits] 17
+[2018.12.09-09.49.27:749][650]LogBlueprintUserMessages: [W_Credits] 18
+[2018.12.09-09.49.27:750][650]LogBlueprintUserMessages: [W_Credits] 19
+[2018.12.09-09.49.27:750][650]LogBlueprintUserMessages: [W_Credits] 20
+[2018.12.09-09.49.27:750][650]LogBlueprintUserMessages: [W_Credits] 21
+[2018.12.09-09.49.27:750][650]LogBlueprintUserMessages: [W_Credits] 22
+[2018.12.09-09.49.27:751][650]LogBlueprintUserMessages: [W_Credits] 23
+[2018.12.09-09.49.27:751][650]LogBlueprintUserMessages: [W_Credits] 24
+[2018.12.09-09.49.27:751][650]LogBlueprintUserMessages: [W_Credits] 25
+[2018.12.09-09.49.27:751][650]LogBlueprintUserMessages: [W_Credits] 26
+[2018.12.09-09.49.27:751][650]LogBlueprintUserMessages: [W_Credits] 27
+[2018.12.09-09.49.27:752][650]LogBlueprintUserMessages: [W_Credits] 28
+[2018.12.09-09.49.27:752][650]LogBlueprintUserMessages: [W_Credits] 29
+[2018.12.09-09.49.27:752][650]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.27:752][650]LogBlueprintUserMessages: [W_Credits] 31
+[2018.12.09-09.49.27:752][650]LogBlueprintUserMessages: [W_Credits] 32
+[2018.12.09-09.49.27:753][650]LogBlueprintUserMessages: [W_Credits] 33
+[2018.12.09-09.49.27:753][650]LogBlueprintUserMessages: [W_Credits] 34
+[2018.12.09-09.49.27:753][650]LogBlueprintUserMessages: [W_Credits] 35
+[2018.12.09-09.49.27:753][650]LogBlueprintUserMessages: [W_Credits] 36
+[2018.12.09-09.49.27:754][650]LogBlueprintUserMessages: [W_Credits] 37
+[2018.12.09-09.49.27:754][650]LogBlueprintUserMessages: [W_Credits] 38
+[2018.12.09-09.49.27:754][650]LogBlueprintUserMessages: [W_Credits] 39
+[2018.12.09-09.49.27:754][650]LogBlueprintUserMessages: [W_Credits] 40
+[2018.12.09-09.49.27:754][650]LogBlueprintUserMessages: [W_Credits] 41
+[2018.12.09-09.49.27:755][650]LogBlueprintUserMessages: [W_Credits] 42
+[2018.12.09-09.49.27:755][650]LogBlueprintUserMessages: [W_Credits] 43
+[2018.12.09-09.49.27:755][650]LogBlueprintUserMessages: [W_Credits] 44
+[2018.12.09-09.49.27:755][650]LogBlueprintUserMessages: [W_Credits] 45
+[2018.12.09-09.49.27:756][650]LogBlueprintUserMessages: [W_Credits] 46
+[2018.12.09-09.49.27:756][650]LogBlueprintUserMessages: [W_Credits] 47
+[2018.12.09-09.49.27:756][650]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.27:756][650]LogBlueprintUserMessages: [W_Credits] 49
+[2018.12.09-09.49.27:756][650]LogBlueprintUserMessages: [W_Credits] 50
+[2018.12.09-09.49.27:757][650]LogBlueprintUserMessages: [W_Credits] 51
+[2018.12.09-09.49.27:757][650]LogBlueprintUserMessages: [W_Credits] 52
+[2018.12.09-09.49.27:757][650]LogBlueprintUserMessages: [W_Credits] 53
+[2018.12.09-09.49.27:757][650]LogBlueprintUserMessages: [W_Credits] 54
+[2018.12.09-09.49.27:758][650]LogBlueprintUserMessages: [W_Credits] 55
+[2018.12.09-09.49.27:758][650]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.27:758][650]LogBlueprintUserMessages: [W_Credits] 57
+[2018.12.09-09.49.27:758][650]LogBlueprintUserMessages: [W_Credits] 58
+[2018.12.09-09.49.27:758][650]LogBlueprintUserMessages: [W_Credits] 59
+[2018.12.09-09.49.27:759][650]LogBlueprintUserMessages: [W_Credits] 60
+[2018.12.09-09.49.27:759][650]LogBlueprintUserMessages: [W_Credits] 61
+[2018.12.09-09.49.27:759][650]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.27:759][650]LogBlueprintUserMessages: [W_Credits] 63
+[2018.12.09-09.49.27:760][650]LogBlueprintUserMessages: [W_Credits] 64
+[2018.12.09-09.49.27:760][650]LogBlueprintUserMessages: [W_Credits] 65
+[2018.12.09-09.49.27:760][650]LogBlueprintUserMessages: [W_Credits] 66
+[2018.12.09-09.49.27:760][650]LogBlueprintUserMessages: [W_Credits] 67
+[2018.12.09-09.49.27:760][650]LogBlueprintUserMessages: [W_Credits] 68
+[2018.12.09-09.49.27:761][650]LogBlueprintUserMessages: [W_Credits] 69
+[2018.12.09-09.49.27:761][650]LogBlueprintUserMessages: [W_Credits] 70
+[2018.12.09-09.49.27:761][650]LogBlueprintUserMessages: [W_Credits] 71
+[2018.12.09-09.49.27:761][650]LogBlueprintUserMessages: [W_Credits] 72
+[2018.12.09-09.49.27:762][650]LogBlueprintUserMessages: [W_Credits] 73
+[2018.12.09-09.49.27:762][650]LogBlueprintUserMessages: [W_Credits] 74
+[2018.12.09-09.49.27:762][650]LogBlueprintUserMessages: [W_Credits] 75
+[2018.12.09-09.49.27:762][650]LogBlueprintUserMessages: [W_Credits] 76
+[2018.12.09-09.49.27:762][650]LogBlueprintUserMessages: [W_Credits] 77
+[2018.12.09-09.49.27:763][650]LogBlueprintUserMessages: [W_Credits] 78
+[2018.12.09-09.49.27:763][650]LogBlueprintUserMessages: [W_Credits] 79
+[2018.12.09-09.49.27:763][650]LogBlueprintUserMessages: [W_Credits] 80
+[2018.12.09-09.49.27:763][650]LogBlueprintUserMessages: [W_Credits] 81
+[2018.12.09-09.49.27:763][650]LogBlueprintUserMessages: [W_Credits] 82
+[2018.12.09-09.49.27:764][650]LogBlueprintUserMessages: [W_Credits] 83
+[2018.12.09-09.49.27:764][650]LogBlueprintUserMessages: [W_Credits] 84
+[2018.12.09-09.49.27:764][650]LogBlueprintUserMessages: [W_Credits] 85
+[2018.12.09-09.49.27:764][650]LogBlueprintUserMessages: [W_Credits] 86
+[2018.12.09-09.49.27:765][650]LogBlueprintUserMessages: [W_Credits] 87
+[2018.12.09-09.49.27:765][650]LogBlueprintUserMessages: [W_Credits] 88
+[2018.12.09-09.49.27:765][650]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.27:765][650]LogBlueprintUserMessages: [W_Credits] 90
+[2018.12.09-09.49.27:765][650]LogBlueprintUserMessages: [W_Credits] 91
+[2018.12.09-09.49.27:766][650]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.27:766][650]LogBlueprintUserMessages: [W_Credits] 93
+[2018.12.09-09.49.27:766][650]LogBlueprintUserMessages: [W_Credits] 94
+[2018.12.09-09.49.31:031][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-09.49.31:115][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-09.49.31:152][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-09.49.31:180][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-09.49.31:215][853]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2018.12.09-09.49.36:466][167]BlueprintLog: New page: Compile W_MainMenu
+[2018.12.09-09.49.36:641][167]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.36:641][167]LogBlueprintUserMessages: [W_Credits] 2
+[2018.12.09-09.49.36:642][167]LogBlueprintUserMessages: [W_Credits] 3
+[2018.12.09-09.49.36:642][167]LogBlueprintUserMessages: [W_Credits] 4
+[2018.12.09-09.49.36:642][167]LogBlueprintUserMessages: [W_Credits] 5
+[2018.12.09-09.49.36:642][167]LogBlueprintUserMessages: [W_Credits] 6
+[2018.12.09-09.49.36:643][167]LogBlueprintUserMessages: [W_Credits] 7
+[2018.12.09-09.49.36:643][167]LogBlueprintUserMessages: [W_Credits] 8
+[2018.12.09-09.49.36:643][167]LogBlueprintUserMessages: [W_Credits] 9
+[2018.12.09-09.49.36:643][167]LogBlueprintUserMessages: [W_Credits] 10
+[2018.12.09-09.49.36:643][167]LogBlueprintUserMessages: [W_Credits] 11
+[2018.12.09-09.49.36:644][167]LogBlueprintUserMessages: [W_Credits] 12
+[2018.12.09-09.49.36:644][167]LogBlueprintUserMessages: [W_Credits] 13
+[2018.12.09-09.49.36:644][167]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.36:644][167]LogBlueprintUserMessages: [W_Credits] 15
+[2018.12.09-09.49.36:645][167]LogBlueprintUserMessages: [W_Credits] 16
+[2018.12.09-09.49.36:645][167]LogBlueprintUserMessages: [W_Credits] 17
+[2018.12.09-09.49.36:645][167]LogBlueprintUserMessages: [W_Credits] 18
+[2018.12.09-09.49.36:645][167]LogBlueprintUserMessages: [W_Credits] 19
+[2018.12.09-09.49.36:645][167]LogBlueprintUserMessages: [W_Credits] 20
+[2018.12.09-09.49.36:646][167]LogBlueprintUserMessages: [W_Credits] 21
+[2018.12.09-09.49.36:646][167]LogBlueprintUserMessages: [W_Credits] 22
+[2018.12.09-09.49.36:646][167]LogBlueprintUserMessages: [W_Credits] 23
+[2018.12.09-09.49.36:646][167]LogBlueprintUserMessages: [W_Credits] 24
+[2018.12.09-09.49.36:647][167]LogBlueprintUserMessages: [W_Credits] 25
+[2018.12.09-09.49.36:647][167]LogBlueprintUserMessages: [W_Credits] 26
+[2018.12.09-09.49.36:647][167]LogBlueprintUserMessages: [W_Credits] 27
+[2018.12.09-09.49.36:647][167]LogBlueprintUserMessages: [W_Credits] 28
+[2018.12.09-09.49.36:647][167]LogBlueprintUserMessages: [W_Credits] 29
+[2018.12.09-09.49.36:648][167]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.36:648][167]LogBlueprintUserMessages: [W_Credits] 31
+[2018.12.09-09.49.36:648][167]LogBlueprintUserMessages: [W_Credits] 32
+[2018.12.09-09.49.36:648][167]LogBlueprintUserMessages: [W_Credits] 33
+[2018.12.09-09.49.36:649][167]LogBlueprintUserMessages: [W_Credits] 34
+[2018.12.09-09.49.36:649][167]LogBlueprintUserMessages: [W_Credits] 35
+[2018.12.09-09.49.36:649][167]LogBlueprintUserMessages: [W_Credits] 36
+[2018.12.09-09.49.36:649][167]LogBlueprintUserMessages: [W_Credits] 37
+[2018.12.09-09.49.36:649][167]LogBlueprintUserMessages: [W_Credits] 38
+[2018.12.09-09.49.36:650][167]LogBlueprintUserMessages: [W_Credits] 39
+[2018.12.09-09.49.36:650][167]LogBlueprintUserMessages: [W_Credits] 40
+[2018.12.09-09.49.36:650][167]LogBlueprintUserMessages: [W_Credits] 41
+[2018.12.09-09.49.36:650][167]LogBlueprintUserMessages: [W_Credits] 42
+[2018.12.09-09.49.36:650][167]LogBlueprintUserMessages: [W_Credits] 43
+[2018.12.09-09.49.36:651][167]LogBlueprintUserMessages: [W_Credits] 44
+[2018.12.09-09.49.36:651][167]LogBlueprintUserMessages: [W_Credits] 45
+[2018.12.09-09.49.36:651][167]LogBlueprintUserMessages: [W_Credits] 46
+[2018.12.09-09.49.36:651][167]LogBlueprintUserMessages: [W_Credits] 47
+[2018.12.09-09.49.36:652][167]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.36:652][167]LogBlueprintUserMessages: [W_Credits] 49
+[2018.12.09-09.49.36:652][167]LogBlueprintUserMessages: [W_Credits] 50
+[2018.12.09-09.49.36:652][167]LogBlueprintUserMessages: [W_Credits] 51
+[2018.12.09-09.49.36:652][167]LogBlueprintUserMessages: [W_Credits] 52
+[2018.12.09-09.49.36:653][167]LogBlueprintUserMessages: [W_Credits] 53
+[2018.12.09-09.49.36:653][167]LogBlueprintUserMessages: [W_Credits] 54
+[2018.12.09-09.49.36:653][167]LogBlueprintUserMessages: [W_Credits] 55
+[2018.12.09-09.49.36:653][167]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.36:653][167]LogBlueprintUserMessages: [W_Credits] 57
+[2018.12.09-09.49.36:654][167]LogBlueprintUserMessages: [W_Credits] 58
+[2018.12.09-09.49.36:654][167]LogBlueprintUserMessages: [W_Credits] 59
+[2018.12.09-09.49.36:654][167]LogBlueprintUserMessages: [W_Credits] 60
+[2018.12.09-09.49.36:654][167]LogBlueprintUserMessages: [W_Credits] 61
+[2018.12.09-09.49.36:655][167]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.36:655][167]LogBlueprintUserMessages: [W_Credits] 63
+[2018.12.09-09.49.36:655][167]LogBlueprintUserMessages: [W_Credits] 64
+[2018.12.09-09.49.36:655][167]LogBlueprintUserMessages: [W_Credits] 65
+[2018.12.09-09.49.36:655][167]LogBlueprintUserMessages: [W_Credits] 66
+[2018.12.09-09.49.36:656][167]LogBlueprintUserMessages: [W_Credits] 67
+[2018.12.09-09.49.36:656][167]LogBlueprintUserMessages: [W_Credits] 68
+[2018.12.09-09.49.36:656][167]LogBlueprintUserMessages: [W_Credits] 69
+[2018.12.09-09.49.36:656][167]LogBlueprintUserMessages: [W_Credits] 70
+[2018.12.09-09.49.36:656][167]LogBlueprintUserMessages: [W_Credits] 71
+[2018.12.09-09.49.36:657][167]LogBlueprintUserMessages: [W_Credits] 72
+[2018.12.09-09.49.36:657][167]LogBlueprintUserMessages: [W_Credits] 73
+[2018.12.09-09.49.36:657][167]LogBlueprintUserMessages: [W_Credits] 74
+[2018.12.09-09.49.36:657][167]LogBlueprintUserMessages: [W_Credits] 75
+[2018.12.09-09.49.36:658][167]LogBlueprintUserMessages: [W_Credits] 76
+[2018.12.09-09.49.36:658][167]LogBlueprintUserMessages: [W_Credits] 77
+[2018.12.09-09.49.36:658][167]LogBlueprintUserMessages: [W_Credits] 78
+[2018.12.09-09.49.36:658][167]LogBlueprintUserMessages: [W_Credits] 79
+[2018.12.09-09.49.36:658][167]LogBlueprintUserMessages: [W_Credits] 80
+[2018.12.09-09.49.36:659][167]LogBlueprintUserMessages: [W_Credits] 81
+[2018.12.09-09.49.36:659][167]LogBlueprintUserMessages: [W_Credits] 82
+[2018.12.09-09.49.36:659][167]LogBlueprintUserMessages: [W_Credits] 83
+[2018.12.09-09.49.36:659][167]LogBlueprintUserMessages: [W_Credits] 84
+[2018.12.09-09.49.36:659][167]LogBlueprintUserMessages: [W_Credits] 85
+[2018.12.09-09.49.36:660][167]LogBlueprintUserMessages: [W_Credits] 86
+[2018.12.09-09.49.36:660][167]LogBlueprintUserMessages: [W_Credits] 87
+[2018.12.09-09.49.36:660][167]LogBlueprintUserMessages: [W_Credits] 88
+[2018.12.09-09.49.36:660][167]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.36:661][167]LogBlueprintUserMessages: [W_Credits] 90
+[2018.12.09-09.49.36:661][167]LogBlueprintUserMessages: [W_Credits] 91
+[2018.12.09-09.49.36:661][167]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.49.36:661][167]LogBlueprintUserMessages: [W_Credits] 93
+[2018.12.09-09.49.36:661][167]LogBlueprintUserMessages: [W_Credits] 94
+[2018.12.09-09.49.36:873][174]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuD1350755437A7185E23E389FFC20227B.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.12.09-09.49.53:531][173]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenu/BluePrints/Menus/W_CreditsText.W_CreditsText
+[2018.12.09-09.50.02:221][674]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.09-09.50.04:672][821]BlueprintLog: New page: Compile W_CreditsText
+[2018.12.09-09.50.05:030][824]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_CreditsText7ED934994F549BC6B9F6C48109666C46.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_CreditsText.uasset'
+[2018.12.09-09.50.08:452][ 28]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenu/BluePrints/Menus/W_CreditTitle.W_CreditTitle
+[2018.12.09-09.50.14:538][373]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.09-09.50.17:920][575]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.09-09.50.19:311][655]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_CreditTitle90395D8143A096834B0A50B591542516.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_CreditTitle.uasset'
+[2018.12.09-09.50.19:877][689]BlueprintLog: New page: Compile W_CreditTitle
+[2018.12.09-09.50.24:821][972]BlueprintLog: New page: Compile W_CreditTitle
+[2018.12.09-09.50.25:204][978]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_CreditTitle3B5B75534D9465130B034CB2D3E720E0.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_CreditTitle.uasset'
+[2018.12.09-09.50.49:883][449]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_CreditTitleE1BBDA6C4E697FE1B637A4A54A97822C.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_CreditTitle.uasset'
+[2018.12.09-09.50.50:167][466]BlueprintLog: New page: Compile W_CreditTitle
+[2018.12.09-09.50.58:322][940]LogTemp: Repeating last play command: Simulate
+[2018.12.09-09.50.58:348][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-09.50.58:348][940]PIE: New page: SIE session: Menu (Dec 8, 2018, 5:50:58 PM)
+[2018.12.09-09.50.58:348][940]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.12.09-09.50.58:350][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001621s)
+[2018.12.09-09.50.58:351][940]LogAIModule: Creating AISystem for world Menu
+[2018.12.09-09.50.58:351][940]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.12.09-09.50.58:351][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.002739s)
+[2018.12.09-09.50.58:384][940]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.09-09.50.58:391][940]LogInit: FAudioDevice initialized.
+[2018.12.09-09.50.58:423][940]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.12.09-09.50.58:425][940]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.12.09-01.50.58
+[2018.12.09-09.50.58:426][940]LogWorld: Bringing up level for play took: 0.001334
+[2018.12.09-09.50.58:440][940]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu -0.023
+[2018.12.09-09.50.58:443][940]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.50.58:444][940]LogBlueprintUserMessages: [W_Credits] 2
+[2018.12.09-09.50.58:444][940]LogBlueprintUserMessages: [W_Credits] 3
+[2018.12.09-09.50.58:444][940]LogBlueprintUserMessages: [W_Credits] 4
+[2018.12.09-09.50.58:445][940]LogBlueprintUserMessages: [W_Credits] 5
+[2018.12.09-09.50.58:445][940]LogBlueprintUserMessages: [W_Credits] 6
+[2018.12.09-09.50.58:445][940]LogBlueprintUserMessages: [W_Credits] 7
+[2018.12.09-09.50.58:445][940]LogBlueprintUserMessages: [W_Credits] 8
+[2018.12.09-09.50.58:445][940]LogBlueprintUserMessages: [W_Credits] 9
+[2018.12.09-09.50.58:446][940]LogBlueprintUserMessages: [W_Credits] 10
+[2018.12.09-09.50.58:446][940]LogBlueprintUserMessages: [W_Credits] 11
+[2018.12.09-09.50.58:446][940]LogBlueprintUserMessages: [W_Credits] 12
+[2018.12.09-09.50.58:446][940]LogBlueprintUserMessages: [W_Credits] 13
+[2018.12.09-09.50.58:447][940]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.50.58:447][940]LogBlueprintUserMessages: [W_Credits] 15
+[2018.12.09-09.50.58:447][940]LogBlueprintUserMessages: [W_Credits] 16
+[2018.12.09-09.50.58:447][940]LogBlueprintUserMessages: [W_Credits] 17
+[2018.12.09-09.50.58:447][940]LogBlueprintUserMessages: [W_Credits] 18
+[2018.12.09-09.50.58:448][940]LogBlueprintUserMessages: [W_Credits] 19
+[2018.12.09-09.50.58:448][940]LogBlueprintUserMessages: [W_Credits] 20
+[2018.12.09-09.50.58:448][940]LogBlueprintUserMessages: [W_Credits] 21
+[2018.12.09-09.50.58:448][940]LogBlueprintUserMessages: [W_Credits] 22
+[2018.12.09-09.50.58:449][940]LogBlueprintUserMessages: [W_Credits] 23
+[2018.12.09-09.50.58:449][940]LogBlueprintUserMessages: [W_Credits] 24
+[2018.12.09-09.50.58:449][940]LogBlueprintUserMessages: [W_Credits] 25
+[2018.12.09-09.50.58:449][940]LogBlueprintUserMessages: [W_Credits] 26
+[2018.12.09-09.50.58:449][940]LogBlueprintUserMessages: [W_Credits] 27
+[2018.12.09-09.50.58:450][940]LogBlueprintUserMessages: [W_Credits] 28
+[2018.12.09-09.50.58:450][940]LogBlueprintUserMessages: [W_Credits] 29
+[2018.12.09-09.50.58:450][940]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.50.58:450][940]LogBlueprintUserMessages: [W_Credits] 31
+[2018.12.09-09.50.58:451][940]LogBlueprintUserMessages: [W_Credits] 32
+[2018.12.09-09.50.58:451][940]LogBlueprintUserMessages: [W_Credits] 33
+[2018.12.09-09.50.58:451][940]LogBlueprintUserMessages: [W_Credits] 34
+[2018.12.09-09.50.58:451][940]LogBlueprintUserMessages: [W_Credits] 35
+[2018.12.09-09.50.58:451][940]LogBlueprintUserMessages: [W_Credits] 36
+[2018.12.09-09.50.58:452][940]LogBlueprintUserMessages: [W_Credits] 37
+[2018.12.09-09.50.58:452][940]LogBlueprintUserMessages: [W_Credits] 38
+[2018.12.09-09.50.58:452][940]LogBlueprintUserMessages: [W_Credits] 39
+[2018.12.09-09.50.58:452][940]LogBlueprintUserMessages: [W_Credits] 40
+[2018.12.09-09.50.58:453][940]LogBlueprintUserMessages: [W_Credits] 41
+[2018.12.09-09.50.58:453][940]LogBlueprintUserMessages: [W_Credits] 42
+[2018.12.09-09.50.58:453][940]LogBlueprintUserMessages: [W_Credits] 43
+[2018.12.09-09.50.58:453][940]LogBlueprintUserMessages: [W_Credits] 44
+[2018.12.09-09.50.58:453][940]LogBlueprintUserMessages: [W_Credits] 45
+[2018.12.09-09.50.58:454][940]LogBlueprintUserMessages: [W_Credits] 46
+[2018.12.09-09.50.58:454][940]LogBlueprintUserMessages: [W_Credits] 47
+[2018.12.09-09.50.58:454][940]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.50.58:454][940]LogBlueprintUserMessages: [W_Credits] 49
+[2018.12.09-09.50.58:455][940]LogBlueprintUserMessages: [W_Credits] 50
+[2018.12.09-09.50.58:455][940]LogBlueprintUserMessages: [W_Credits] 51
+[2018.12.09-09.50.58:455][940]LogBlueprintUserMessages: [W_Credits] 52
+[2018.12.09-09.50.58:455][940]LogBlueprintUserMessages: [W_Credits] 53
+[2018.12.09-09.50.58:455][940]LogBlueprintUserMessages: [W_Credits] 54
+[2018.12.09-09.50.58:456][940]LogBlueprintUserMessages: [W_Credits] 55
+[2018.12.09-09.50.58:456][940]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.50.58:456][940]LogBlueprintUserMessages: [W_Credits] 57
+[2018.12.09-09.50.58:456][940]LogBlueprintUserMessages: [W_Credits] 58
+[2018.12.09-09.50.58:457][940]LogBlueprintUserMessages: [W_Credits] 59
+[2018.12.09-09.50.58:457][940]LogBlueprintUserMessages: [W_Credits] 60
+[2018.12.09-09.50.58:457][940]LogBlueprintUserMessages: [W_Credits] 61
+[2018.12.09-09.50.58:457][940]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.50.58:457][940]LogBlueprintUserMessages: [W_Credits] 63
+[2018.12.09-09.50.58:458][940]LogBlueprintUserMessages: [W_Credits] 64
+[2018.12.09-09.50.58:458][940]LogBlueprintUserMessages: [W_Credits] 65
+[2018.12.09-09.50.58:458][940]LogBlueprintUserMessages: [W_Credits] 66
+[2018.12.09-09.50.58:458][940]LogBlueprintUserMessages: [W_Credits] 67
+[2018.12.09-09.50.58:459][940]LogBlueprintUserMessages: [W_Credits] 68
+[2018.12.09-09.50.58:459][940]LogBlueprintUserMessages: [W_Credits] 69
+[2018.12.09-09.50.58:459][940]LogBlueprintUserMessages: [W_Credits] 70
+[2018.12.09-09.50.58:459][940]LogBlueprintUserMessages: [W_Credits] 71
+[2018.12.09-09.50.58:459][940]LogBlueprintUserMessages: [W_Credits] 72
+[2018.12.09-09.50.58:460][940]LogBlueprintUserMessages: [W_Credits] 73
+[2018.12.09-09.50.58:460][940]LogBlueprintUserMessages: [W_Credits] 74
+[2018.12.09-09.50.58:460][940]LogBlueprintUserMessages: [W_Credits] 75
+[2018.12.09-09.50.58:460][940]LogBlueprintUserMessages: [W_Credits] 76
+[2018.12.09-09.50.58:460][940]LogBlueprintUserMessages: [W_Credits] 77
+[2018.12.09-09.50.58:461][940]LogBlueprintUserMessages: [W_Credits] 78
+[2018.12.09-09.50.58:461][940]LogBlueprintUserMessages: [W_Credits] 79
+[2018.12.09-09.50.58:461][940]LogBlueprintUserMessages: [W_Credits] 80
+[2018.12.09-09.50.58:461][940]LogBlueprintUserMessages: [W_Credits] 81
+[2018.12.09-09.50.58:462][940]LogBlueprintUserMessages: [W_Credits] 82
+[2018.12.09-09.50.58:462][940]LogBlueprintUserMessages: [W_Credits] 83
+[2018.12.09-09.50.58:462][940]LogBlueprintUserMessages: [W_Credits] 84
+[2018.12.09-09.50.58:462][940]LogBlueprintUserMessages: [W_Credits] 85
+[2018.12.09-09.50.58:462][940]LogBlueprintUserMessages: [W_Credits] 86
+[2018.12.09-09.50.58:463][940]LogBlueprintUserMessages: [W_Credits] 87
+[2018.12.09-09.50.58:463][940]LogBlueprintUserMessages: [W_Credits] 88
+[2018.12.09-09.50.58:463][940]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.50.58:463][940]LogBlueprintUserMessages: [W_Credits] 90
+[2018.12.09-09.50.58:464][940]LogBlueprintUserMessages: [W_Credits] 91
+[2018.12.09-09.50.58:464][940]LogBlueprintUserMessages: [W_Credits] Titletext
+[2018.12.09-09.50.58:464][940]LogBlueprintUserMessages: [W_Credits] 93
+[2018.12.09-09.50.58:464][940]LogBlueprintUserMessages: [W_Credits] 94
+[2018.12.09-09.50.59:381][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-09.50.59:413][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-09.50.59:444][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-09.50.59:480][997]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2018.12.09-09.51.10:076][627]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenu/BluePrints/Menus/W_Credits.W_Credits
+[2018.12.09-09.51.19:724][179]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_CreditsAFCD223B465DD1B09DC3559317F023B4.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_Credits.uasset'
+[2018.12.09-09.51.19:990][195]BlueprintLog: New page: Compile W_Credits
+[2018.12.09-09.51.21:818][289]LogTemp: Repeating last play command: Simulate
+[2018.12.09-09.51.21:862][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-09.51.21:863][289]PIE: New page: SIE session: Menu (Dec 8, 2018, 5:51:21 PM)
+[2018.12.09-09.51.21:863][289]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.12.09-09.51.21:865][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001636s)
+[2018.12.09-09.51.21:865][289]LogAIModule: Creating AISystem for world Menu
+[2018.12.09-09.51.21:865][289]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2018.12.09-09.51.21:866][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.002653s)
+[2018.12.09-09.51.21:900][289]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.09-09.51.21:907][289]LogInit: FAudioDevice initialized.
+[2018.12.09-09.51.21:937][289]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.12.09-09.51.21:939][289]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.12.09-01.51.21
+[2018.12.09-09.51.21:939][289]LogWorld: Bringing up level for play took: 0.001225
+[2018.12.09-09.51.21:953][289]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu -0.511
+[2018.12.09-09.51.22:858][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-09.51.22:889][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-09.51.22:923][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-09.51.22:982][343]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2018.12.09-09.52.49:252][421]LogSlate: Window 'Holodeck2 - Unreal Editor' being destroyed
+[2018.12.09-09.52.49:568][422]Cmd: QUIT_EDITOR
+[2018.12.09-09.52.50:266][422]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.09-09.52.50:284][422]LogExit: Preparing to exit.
