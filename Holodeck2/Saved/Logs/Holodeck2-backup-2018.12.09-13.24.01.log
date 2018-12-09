@@ -1,0 +1,1123 @@
+﻿Log file open, 12/09/18 13:15:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Holodeck2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.442312
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin VRExpansionPlugin
+LogStreaming: Display: Took  0.131s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.09-21.15.35:368][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.09-21.15.35:368][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.09-21.15.35:395][  0]LogHAL: Display: Platform has ~ 16 GB [17018798080 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.09-21.15.35:396][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.09-21.15.35:397][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.09-21.15.35:403][  0]LogInit: Computer: MSI
+[2018.12.09-21.15.35:403][  0]LogInit: User: CindyChiu
+[2018.12.09-21.15.35:403][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.12.09-21.15.35:403][  0]LogInit: High frequency timer resolution =2.156255 MHz
+[2018.12.09-21.15.35:403][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2018.12.09-21.15.35:403][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.09-21.15.35:403][  0]LogMemory: Process Physical Memory: 101.74 MB used, 101.74 MB peak
+[2018.12.09-21.15.35:403][  0]LogMemory: Process Virtual Memory: 97.92 MB used, 97.92 MB peak
+[2018.12.09-21.15.35:403][  0]LogMemory: Physical Memory: 5537.83 MB used,  10692.56 MB free, 16230.39 MB total
+[2018.12.09-21.15.35:403][  0]LogMemory: Virtual Memory: 4669.24 MB used,  10692.56 MB free, 134217728.00 MB total
+[2018.12.09-21.15.36:164][  0]LogInit: Using OS detected language (en-US).
+[2018.12.09-21.15.36:164][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.09-21.15.36:168][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.09-21.15.36:775][  0]LogStreaming: Display: Took  0.611s to InitEngineTextLocalization.
+[2018.12.09-21.15.36:776][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.09-21.15.36:891][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.09-21.15.36:891][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.09-21.15.40:084][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.09-21.15.40:084][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.09-21.15.40:597][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (Feature Level 11_0)
+[2018.12.09-21.15.40:597][  0]LogD3D11RHI:       8081/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.09-21.15.40:612][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2018.12.09-21.15.40:612][  0]LogD3D11RHI:       128/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.09-21.15.40:614][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.09-21.15.40:614][  0]LogD3D11RHI:       0/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.09-21.15.40:614][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.09-21.15.40:638][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.09-21.15.40:638][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.09-21.15.40:638][  0]LogWindows: EnumDisplayDevices:
+[2018.12.09-21.15.40:639][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2018.12.09-21.15.40:639][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.12.09-21.15.40:639][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.12.09-21.15.40:639][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2018.12.09-21.15.40:639][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2018.12.09-21.15.40:640][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2018.12.09-21.15.40:640][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2018.12.09-21.15.40:640][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.12.09-21.15.40:640][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 with Max-Q Design
+[2018.12.09-21.15.40:640][  0]LogD3D11RHI:   Driver Version: 391.48 (internal:23.21.13.9148, unified:391.48)
+[2018.12.09-21.15.40:640][  0]LogD3D11RHI:      Driver Date: 4-17-2018
+[2018.12.09-21.15.40:640][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2018.12.09-21.15.40:679][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.09-21.15.40:746][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.09-21.15.40:750][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Intermediate/Shaders/WorkingDirectory/13760/).
+[2018.12.09-21.15.40:751][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cindy Chiu/AppData/Local/Temp/UnrealShaderWorkingDir/5D8EE942488702C877AA33B5FDDAA795/'.
+[2018.12.09-21.15.41:084][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.09-21.15.41:099][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.09-21.15.41:112][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.09-21.15.41:125][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.09-21.15.41:145][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.09-21.15.41:159][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.09-21.15.41:173][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.09-21.15.41:188][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.09-21.15.41:195][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-21.15.41:279][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.09-21.15.41:348][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.09-21.15.41:348][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.09-21.15.41:371][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.09-21.15.41:371][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.09-21.15.41:386][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.09-21.15.41:401][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.09-21.15.41:418][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.09-21.15.41:442][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.09-21.15.41:454][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.09-21.15.41:454][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.09-21.15.41:577][  0]LogXGEController: Cleaning working directory: C:/Users/Cindy Chiu/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.09-21.15.41:577][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.09-21.15.41:577][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.09-21.15.41:577][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.09-21.15.43:795][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.09-21.15.44:014][  0]LogDerivedDataCache: Loaded boot cache 0.22s 72MB C:/Users/Cindy Chiu/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.09-21.15.44:015][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cindy Chiu/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.09-21.15.44:015][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.09-21.15.44:015][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.09-21.15.44:015][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.09-21.15.44:015][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.09-21.15.44:033][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.09-21.15.44:046][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cindy Chiu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.09-21.15.44:046][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.09-21.15.44:046][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.09-21.15.44:064][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.09-21.15.44:070][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.09-21.15.44:085][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.09-21.15.44:317][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
+[2018.12.09-21.15.44:705][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.09-21.15.45:006][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.09-21.15.45:025][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.09-21.15.45:025][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.09-21.15.45:026][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.09-21.15.45:026][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.09-21.15.45:077][  0]LogNetVersion: Holodeck2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3709674839)
+[2018.12.09-21.15.46:198][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.099943 seconds
+[2018.12.09-21.15.46:204][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.09-21.15.46:204][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.09-21.15.46:204][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.09-21.15.49:769][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.09-21.15.49:785][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.09-21.15.50:066][  0]SourceControl: Source control is disabled
+[2018.12.09-21.15.50:067][  0]SourceControl: Source control is disabled
+[2018.12.09-21.15.50:075][  0]SourceControl: Source control is disabled
+[2018.12.09-21.15.50:080][  0]SourceControl: Source control is disabled
+[2018.12.09-21.15.50:381][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.09-21.15.50:880][  0]LogOcInput: OculusInput pre-init called
+[2018.12.09-21.15.51:063][  0]LogEngine: Initializing Engine...
+[2018.12.09-21.15.51:065][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.09-21.15.51:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.09-21.15.51:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.09-21.15.51:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.09-21.15.51:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.09-21.15.51:423][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.09-21.15.51:459][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.09-21.15.51:481][  0]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.09-21.15.51:504][  0]LogInit: FAudioDevice initialized.
+[2018.12.09-21.15.51:504][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.09-21.15.51:544][  0]LogDerivedDataCache: Saved boot cache 0.04s 72MB C:/Users/Cindy Chiu/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.09-21.15.51:547][  0]LogInit: Texture streaming: Enabled
+[2018.12.09-21.15.51:570][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.09-21.15.51:631][  0]LogInit: Transaction tracking system initialized
+[2018.12.09-21.15.51:707][  0]BlueprintLog: New page: Editor Load
+[2018.12.09-21.15.51:882][  0]LocalizationService: Localization service is disabled
+[2018.12.09-21.15.52:695][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.09-21.15.52:695][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.09-21.15.52:696][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.09-21.15.52:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.09-21.15.52:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.09-21.15.52:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.09-21.15.52:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.09-21.15.52:991][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/' took 0.02s
+[2018.12.09-21.15.52:991][  0]SourceControl: Source control is disabled
+[2018.12.09-21.15.52:992][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.09-21.15.52:997][  0]LightingResults: New page: Lighting Build
+[2018.12.09-21.15.53:005][  0]MapCheck: New page: Map Check
+[2018.12.09-21.15.53:005][  0]LightingResults: New page: Lighting Build
+[2018.12.09-21.15.53:534][  0]LogLinker: Warning: Can't find file '/Game/Holodeck/Level/Range_BuiltData'
+[2018.12.09-21.15.53:534][  0]LogLinker: Warning: Can't find file for asset '/Game/Holodeck/Level/Range_BuiltData' while loading ../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap.
+[2018.12.09-21.15.53:534][  0]LoadErrors: Error: /Game/Holodeck/Level/Range : Can't find file for asset. /Game/Holodeck/Level/Range_BuiltData
+[2018.12.09-21.15.53:574][  0]LogLinker: Warning: Can't find file '/Game/Holodeck/Level/Range_BuiltData'
+[2018.12.09-21.15.53:574][  0]LogLinker: Warning: Can't find file for asset '/Game/Holodeck/Level/Range_BuiltData' while loading ../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap.
+[2018.12.09-21.15.53:574][  0]LoadErrors: Error: /Game/Holodeck/Level/Range : Can't find file for asset. /Game/Holodeck/Level/Range_BuiltData
+[2018.12.09-21.15.53:596][  0]LogLinker: Warning: Can't find file '/Game/Holodeck/Level/Range_BuiltData'
+[2018.12.09-21.15.53:596][  0]LoadErrors: Failed to load /Game/Holodeck/Level/Range_BuiltData.Range_BuiltData Referenced by PersistentLevel
+[2018.12.09-21.15.53:596][  0]LogLinker: Warning: Can't find file for asset '/Game/Holodeck/Level/Range_BuiltData' while loading NULL.
+[2018.12.09-21.15.53:596][  0]LoadErrors: Failed to load /Game/Holodeck/Level/Range_BuiltData.Range_BuiltData Referenced by PersistentLevel
+[2018.12.09-21.15.54:077][  0]LogAIModule: Creating AISystem for world Range
+[2018.12.09-21.15.54:096][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.09-21.15.54:127][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.09-21.15.54:194][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.776ms to complete.
+[2018.12.09-21.15.54:195][  0]LogFileHelpers: Loading map 'Range' took 1.203
+[2018.12.09-21.15.54:353][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-21.15.54:359][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-21.15.54:366][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-21.15.54:373][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-21.15.54:389][  0]LogCollectionManager: Loaded 0 collections in 0.001789 seconds
+[2018.12.09-21.15.54:442][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Collections/' took 0.01s
+[2018.12.09-21.15.54:442][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/Developers/CindyChiu/Collections/' took 0.01s
+[2018.12.09-21.15.54:442][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/Collections/' took 0.01s
+[2018.12.09-21.15.54:442][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.09-21.15.54:456][  0]LogContentBrowser: Native class hierarchy populated in 0.0126 seconds. Added 2622 classes and 613 folders.
+[2018.12.09-21.15.54:467][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.09-21.15.54:826][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.09-21.15.54:880][  0]LogSlate: Took 0.004871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.09-21.15.54:889][  0]LogSlate: Took 0.004467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.09-21.15.54:896][  0]LogSlate: Took 0.004214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.09-21.15.55:009][  0]LogRenderer: Reallocating scene render targets to support 884x468 Format 26 NumSamples 1 (Frame:1).
+[2018.12.09-21.15.55:181][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.09-21.15.55:181][  0]LogLoad: (Engine Initialization) Total time: 23.83 seconds
+[2018.12.09-21.15.55:181][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.09-21.15.55:228][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.09-21.15.55:261][  1]LogAssetRegistry: Asset discovery search completed in 10.9667 seconds
+[2018.12.09-21.15.55:263][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.09-21.15.55:263][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000075 seconds (updated 0 objects)
+[2018.12.09-21.16.54:779][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-21.16.54:797][606]LogSlate: Took 0.004004 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.09-21.17.01:208][938]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.09-21.17.01:489][938]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/Mpgii_Japanese_Flowers'
+[2018.12.09-21.17.01:489][938]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/Mpgii_Japanese_Flowers'
+[2018.12.09-21.17.01:490][938]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MainMenu/Assets/Audio/Mpgii_Japanese_Flowers.Mpgii_Japanese_Flowers'
+[2018.12.09-21.17.01:490][938]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/Di0nysys_-_Way_of_the_Sword'
+[2018.12.09-21.17.01:490][938]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/Di0nysys_-_Way_of_the_Sword'
+[2018.12.09-21.17.01:490][938]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MainMenu/Assets/Audio/Di0nysys_-_Way_of_the_Sword.Di0nysys_-_Way_of_the_Sword'
+[2018.12.09-21.17.01:597][938]LogAIModule: Creating AISystem for world Menu
+[2018.12.09-21.17.01:616][938]LogAssetEditorManager: Opening Asset editor for World /Game/MainMenu/Levels/Menu.Menu
+[2018.12.09-21.17.01:646][938]Cmd: MAP LOAD FILE="../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Levels/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.09-21.17.01:646][938]LightingResults: New page: Lighting Build
+[2018.12.09-21.17.01:647][938]LoadErrors: New page: Loading map: Menu.umap
+[2018.12.09-21.17.01:647][938]MapCheck: New page: Map Check
+[2018.12.09-21.17.01:647][938]LightingResults: New page: Lighting Build
+[2018.12.09-21.17.01:678][938]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.09-21.17.01:731][938]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.09-21.17.01:801][938]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.396ms to complete.
+[2018.12.09-21.17.01:801][938]LogFileHelpers: Loading map 'Menu' took 0.155
+[2018.12.09-21.17.18:310][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-21.17.41:690][910]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu
+[2018.12.09-21.17.42:205][910]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.12.09-21.17.42:997][910]LogSlate: Took 0.003635 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.09-21.17.46:838][135]LogSlate: Took 0.006681 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.12.09-21.17.52:774][491]LogTemp: Repeating last play command: Simulate
+[2018.12.09-21.17.52:793][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-21.17.52:806][491]PIE: New page: SIE session: Menu (Dec 9, 2018, 5:17:52 AM)
+[2018.12.09-21.17.52:807][491]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.12.09-21.17.52:809][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002583s)
+[2018.12.09-21.17.52:810][491]LogAIModule: Creating AISystem for world Menu
+[2018.12.09-21.17.52:810][491]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2018.12.09-21.17.52:810][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.003415s)
+[2018.12.09-21.17.52:839][491]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.09-21.17.52:846][491]LogInit: FAudioDevice initialized.
+[2018.12.09-21.17.52:893][491]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.12.09-21.17.52:895][491]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.12.09-13.17.52
+[2018.12.09-21.17.52:895][491]LogWorld: Bringing up level for play took: 0.001214
+[2018.12.09-21.17.52:914][491]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.12.09-21.17.52:922][491]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.12.09-21.17.52:922][491]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.12.09-21.17.52:924][491]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu 0.801
+[2018.12.09-21.18.28:348][270]LogSlate: Window 'Widget Reflector' being destroyed
+[2018.12.09-21.18.28:352][270]LogSlate: Window 'Widget Reflector' being destroyed
+[2018.12.09-21.18.31:723][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-21.18.31:759][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-21.18.31:789][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-21.18.31:791][472]LogSlate: Slate User Unregistered.  User Index 8
+[2018.12.09-21.18.31:791][472]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.12.09-21.18.31:832][475]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.12.09-21.19.22:553][509]LogTemp: Repeating last play command: Simulate
+[2018.12.09-21.19.22:572][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-21.19.22:572][509]PIE: New page: SIE session: Menu (Dec 9, 2018, 5:19:22 AM)
+[2018.12.09-21.19.22:572][509]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.12.09-21.19.22:574][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001678s)
+[2018.12.09-21.19.22:575][509]LogAIModule: Creating AISystem for world Menu
+[2018.12.09-21.19.22:575][509]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2018.12.09-21.19.22:575][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.002388s)
+[2018.12.09-21.19.22:606][509]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.09-21.19.22:615][509]LogInit: FAudioDevice initialized.
+[2018.12.09-21.19.22:642][509]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.12.09-21.19.22:644][509]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.12.09-13.19.22
+[2018.12.09-21.19.22:644][509]LogWorld: Bringing up level for play took: 0.001050
+[2018.12.09-21.19.22:657][509]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.12.09-21.19.22:657][509]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.12.09-21.19.22:658][509]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu 0.535
+[2018.12.09-21.19.34:853][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-21.19.34:939][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-21.19.34:975][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-21.19.35:002][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-21.19.35:004][245]LogSlate: Slate User Unregistered.  User Index 8
+[2018.12.09-21.19.35:004][245]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.12.09-21.19.35:048][248]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.12.09-21.20.30:243][556]LogEditorTransaction: Undo Edit Y
+[2018.12.09-21.20.30:500][568]LogEditorTransaction: Undo Edit X
+[2018.12.09-21.20.30:974][593]LogEditorTransaction: Undo Edit Y
+[2018.12.09-21.20.32:442][678]LogEditorTransaction: Undo Edit X
+[2018.12.09-21.20.42:583][280]BlueprintLog: New page: Compile W_MainMenu
+[2018.12.09-21.20.43:330][280]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.610 s
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: 
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 41]
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: SObjectWidget for 'W_Credits_C /Game/MainMenu/Levels/Menu.Menu:W_MainMenu_C_5.WidgetTree_0.W_Credits' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: Stack: 
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadbf871f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadbcc0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadbcdb356 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffad93b9a63 UE4Editor-UMG.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadb7a7496 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadb7b0255 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadb7a738e UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadb7b0215 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadb7a7496 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadb7b0255 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadb7a738e UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadb7b0215 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadb7af39a UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadfaefc17 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadfaf3419 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadb7a738e UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadb7b0215 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadb7b9355 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffad93e31f4 UE4Editor-UMG.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadc762ad1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadc73756e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadc6b3f54 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadc6b34ae UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffad8ac0091 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffada8adf4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffad8abf8ff UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffad8b205b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadf8f29fe UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadf9f5872 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadf9d24bf UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadfab9c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadf8a94c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadf941db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadf927c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffadf91b25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffae306d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffae3060270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffae306f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:331][280]LogOutputDevice: Error: [Callstack] 0x00007ffae305c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:332][280]LogOutputDevice: Error: [Callstack] 0x00007ffb2d576d41 USER32.dll!UnknownFunction []
+[2018.12.09-21.20.43:332][280]LogOutputDevice: Error: [Callstack] 0x00007ffb2d576713 USER32.dll!UnknownFunction []
+[2018.12.09-21.20.43:332][280]LogOutputDevice: Error: [Callstack] 0x00007ffae3070646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-21.20.43:332][280]LogOutputDevice: Error: [Callstack] 0x00007ff7c1f454e5 UE4Editor.exe!UnknownFunction []
+[2018.12.09-21.20.43:332][280]LogOutputDevice: Error: [Callstack] 0x00007ff7c1f55b3c UE4Editor.exe!UnknownFunction []
+[2018.12.09-21.20.43:332][280]LogOutputDevice: Error: [Callstack] 0x00007ff7c1f55bba UE4Editor.exe!UnknownFunction []
+[2018.12.09-21.20.43:332][280]LogOutputDevice: Error: [Callstack] 0x00007ff7c1f63dac UE4Editor.exe!UnknownFunction []
+[2018.12.09-21.20.43:332][280]LogOutputDevice: Error: [Callstack] 0x00007ff7c1f65aaa UE4Editor.exe!UnknownFunction []
+[2018.12.09-21.20.43:332][280]LogOutputDevice: Error: [Callstack] 0x00007ffb2bc73034 KERNEL32.DLL!UnknownFunction []
+[2018.12.09-21.20.43:332][280]LogOutputDevice: Error: [Callstack] 0x00007ffb2e2a1471 ntdll.dll!UnknownFunction []
+[2018.12.09-21.20.43:332][280]LogOutputDevice: Error: 
+[2018.12.09-21.20.43:343][280]LogStats:                SubmitErrorReport -  0.000 s
+[2018.12.09-21.20.43:844][280]LogStats:                    SendNewReport -  0.502 s
+[2018.12.09-21.20.43:844][280]LogStats:             FDebug::EnsureFailed -  1.124 s
+[2018.12.09-21.20.44:647][315]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu061AF17D499B67AF94E843ADE40F4C25.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.12.09-21.20.46:444][417]LogSlate: Took 0.003592 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.09-21.21.39:856][911]BlueprintLog: New page: Compile W_MainMenu
+[2018.12.09-21.21.40:409][928]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu13A321D14AA9BAD9C051289CFF1AA506.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.12.09-21.21.53:437][705]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Menu_BuiltData6A41FB7B4F5314CC6DE928ABB146E039.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menu_BuiltData.uasset'
+[2018.12.09-21.21.53:578][705]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/MenuAC3ECB5C4EA93DDB35C333A777B9B1FF.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menu.umap'
+[2018.12.09-21.21.53:612][705]LogFileHelpers: Saving map 'Menu' took 0.169
+[2018.12.09-21.22.03:193][260]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Main_Menu_M50FA1A254EEA784039CA1995075208BD.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Materials/Main_Menu_M.uasset'
+[2018.12.09-21.22.03:228][260]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Main_Menu_M401C03E7482209CB2AEC97B5EF8C4B46.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Materials/Menu_M/Main_Menu_M.uasset'
+[2018.12.09-21.22.10:784][550]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.09-21.22.32:681][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/CreditStruct.CreditStruct' ref from Metadata '/Game/MainMenu/BluePrints/Menus/CreditStruct.PackageMetaData'
+[2018.12.09-21.22.32:682][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/CreditStruct.CreditStruct:LastName_9_F2ECA6D14CD5E40643CADCA88CED275A' ref from Metadata '/Game/MainMenu/BluePrints/Menus/CreditStruct.PackageMetaData'
+[2018.12.09-21.22.32:682][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/CreditStruct.CreditStruct:Title_10_F0DEB7E74524F3A5EDE52F9B7617E546' ref from Metadata '/Game/MainMenu/BluePrints/Menus/CreditStruct.PackageMetaData'
+[2018.12.09-21.22.32:682][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/CreditStruct.CreditStruct:FirstName_5_80F3E838493AAA00B29F83BA01B57143' ref from Metadata '/Game/MainMenu/BluePrints/Menus/CreditStruct.PackageMetaData'
+[2018.12.09-21.22.32:688][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/MainMenuWidget.MainMenuWidget_C' ref from Metadata '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.22.32:688][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.22.32:688][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.22.32:688][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.22.32:688][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/MainMenuWidget.MainMenuWidget:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.22.32:688][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/MainMenuWidget.SKEL_MainMenuWidget_C:ReceiveBeginPlay' ref from Metadata '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.22.32:688][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/MainMenuWidget.SKEL_MainMenuWidget_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.22.32:688][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/MainMenuWidget.SKEL_MainMenuWidget_C:ReceiveTick' ref from Metadata '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.22.32:688][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/MainMenuWidget.SKEL_MainMenuWidget_C:Scene' ref from Metadata '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.22.32:688][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/MainMenuWidget.SKEL_MainMenuWidget_C:Widget' ref from Metadata '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.22.32:688][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/MainMenuWidget.SKEL_MainMenuWidget_C:UserConstructionScript' ref from Metadata '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.22.32:688][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/MainMenuWidget.SKEL_MainMenuWidget_C' ref from Metadata '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.22.32:688][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/MainMenuWidget.MainMenuWidget_C:Scene' ref from Metadata '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.22.32:688][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/MainMenuWidget.MainMenuWidget_C:Widget' ref from Metadata '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.22.32:688][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/MainMenuWidget.MainMenuWidget_C:UserConstructionScript' ref from Metadata '/Game/MainMenu/BluePrints/Menus/MainMenuWidget.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits_C' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits:GetTableText.K2Node_FunctionEntry_0' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits:CreateTextBoxPerson.K2Node_FunctionEntry_0' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits:GetData,SetText.K2Node_FunctionEntry_0' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.SKEL_W_Credits_C:PreConstruct' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.SKEL_W_Credits_C:Construct' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.SKEL_W_Credits_C:Tick' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.SKEL_W_Credits_C:MapOutput' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.SKEL_W_Credits_C:indexOfCredits' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.SKEL_W_Credits_C:ArrayIndex' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.SKEL_W_Credits_C:C_Data' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.SKEL_W_Credits_C:TitleMap' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.SKEL_W_Credits_C:GroupName' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.SKEL_W_Credits_C:WidgetIndex' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.SKEL_W_Credits_C:RowName' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.SKEL_W_Credits_C:C_ScrollBox' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.SKEL_W_Credits_C:GetTableText' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.SKEL_W_Credits_C' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits_C:MapOutput' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits_C:indexOfCredits' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits_C:ArrayIndex' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits_C:C_Data' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits_C:TitleMap' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits_C:GroupName' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits_C:WidgetIndex' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits_C:RowName' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits_C:C_ScrollBox' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits_C:Tick' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:696][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits_C:Construct' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:697][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_Credits.W_Credits_C:GetTableText' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_Credits.PackageMetaData'
+[2018.12.09-21.22.32:702][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditsText.W_CreditsText_C' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditsText.PackageMetaData'
+[2018.12.09-21.22.32:702][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditsText.W_CreditsText:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditsText.PackageMetaData'
+[2018.12.09-21.22.32:703][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditsText.W_CreditsText:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditsText.PackageMetaData'
+[2018.12.09-21.22.32:703][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditsText.W_CreditsText:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditsText.PackageMetaData'
+[2018.12.09-21.22.32:703][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditsText.SKEL_W_CreditsText_C:PreConstruct' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditsText.PackageMetaData'
+[2018.12.09-21.22.32:703][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditsText.SKEL_W_CreditsText_C:Construct' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditsText.PackageMetaData'
+[2018.12.09-21.22.32:703][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditsText.SKEL_W_CreditsText_C:Tick' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditsText.PackageMetaData'
+[2018.12.09-21.22.32:703][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditsText.SKEL_W_CreditsText_C:C_TextBox' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditsText.PackageMetaData'
+[2018.12.09-21.22.32:703][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditsText.SKEL_W_CreditsText_C' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditsText.PackageMetaData'
+[2018.12.09-21.22.32:703][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditsText.W_CreditsText_C:C_TextBox' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditsText.PackageMetaData'
+[2018.12.09-21.22.32:708][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditTitle.W_CreditTitle_C' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.22.32:708][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditTitle.W_CreditTitle:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.22.32:708][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditTitle.W_CreditTitle:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.22.32:708][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditTitle.W_CreditTitle:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.22.32:708][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditTitle.SKEL_W_CreditTitle_C:PreConstruct' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.22.32:708][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditTitle.SKEL_W_CreditTitle_C:Construct' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.22.32:708][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditTitle.SKEL_W_CreditTitle_C:Tick' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.22.32:708][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditTitle.SKEL_W_CreditTitle_C:C_TitleText' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.22.32:709][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditTitle.SKEL_W_CreditTitle_C' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.22.32:709][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_CreditTitle.W_CreditTitle_C:C_TitleText' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_CreditTitle.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.W_MainMenu_C' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.W_MainMenu_C:MainCanvas' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.W_MainMenu_C:Button_Credits' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.W_MainMenu_C:Button_back_2' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.W_MainMenu_C:Tick' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.W_MainMenu_C:Button_Quit' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.W_MainMenu_C:Button_Start' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.W_MainMenu_C:ButtonVBox' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.W_MainMenu_C:CreditBox' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.W_MainMenu_C:Image_1' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.W_MainMenu_C:MainBox' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:CreditBox' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:ButtonVBox' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:Button_Start' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:Button_Quit' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:Button_Credits' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:Button_back_2' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.W_MainMenu_C:W_Credits' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:Image_1' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:MainBox' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:MainCanvas' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:713][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:W_Credits' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:714][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:BndEvt__Button_back_2_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:714][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:BndEvt__Button_Quit_K2Node_ComponentBoundEvent_178_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:714][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:BndEvt__Button_Credits_K2Node_ComponentBoundEvent_165_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:714][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:BndEvt__Button_4_K2Node_ComponentBoundEvent_100_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:714][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:Tick' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:714][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:Construct' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:714][801]LogMetaData: Removing '/Game/MainMenu/BluePrints/W_MainMenu.SKEL_W_MainMenu_C:PreConstruct' ref from Metadata '/Game/MainMenu/BluePrints/Menus/W_MainMenu.PackageMetaData'
+[2018.12.09-21.22.32:752][801]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/CreditSheet2C4CAD3D34B71A5D6C2C4109C7E065250.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/CreditSheet2.uasset'
+[2018.12.09-21.22.32:764][801]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/CreditStruct67BA4F674CFBF47C09E9468CED8290BD.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/CreditStruct.uasset'
+[2018.12.09-21.22.32:783][801]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/MainMenuWidgetA55C8F8749D9FE38FB58848E7EDB141A.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/MainMenuWidget.uasset'
+[2018.12.09-21.22.32:823][801]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/MainMenuWidgetBC511201418AD074D0C0B29BCA5C5524.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/MainMenuWidget.uasset'
+[2018.12.09-21.22.32:829][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/BluePrints/W_Credits" FILE="../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/W_Credits.uasset" SILENT=true
+[2018.12.09-21.22.32:874][801]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_Credits515E68694D1218F9B731658A9C25E128.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/W_Credits.uasset'
+[2018.12.09-21.22.32:890][801]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_CreditsTextDB743D9F46AEE2F03F372296358341DF.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/W_CreditsText.uasset'
+[2018.12.09-21.22.32:905][801]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_CreditTitleD16A2349467A8AA09EBCE5B08B4CABE3.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/W_CreditTitle.uasset'
+[2018.12.09-21.22.32:947][801]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuB3A95B0849B6B8C3C38A669AF3FB46C4.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/W_MainMenu.uasset'
+[2018.12.09-21.22.38:162][ 15]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.09-21.22.42:281][233]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MainMenu/BluePrints/Menus/MainMenuWidget.Default__MainMenuWidget_C'
+[2018.12.09-21.23.22:509][556]MapCheck: New page: Map Check
+[2018.12.09-21.23.22:535][556]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.09-21.23.22:538][556]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.09-21.23.22:584][556]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Main_Menu_M, compiling. 
+[2018.12.09-21.23.22:591][556]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.09-21.23.22:591][556]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.12.09-21.23.22:597][556]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.12.09-21.23.23:291][556]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.09-21.23.23:291][556]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.09-21.23.23:291][556]TextureStreamingBuild: Display: Compiling optional shaders took 0.711 seconds.
+[2018.12.09-21.23.23:297][556]LogLevel: Display: Export Material TexCoord Scales took 0.007 seconds.
+[2018.12.09-21.23.23:307][556]TextureStreamingBuild: Display: Build Texture Streaming took 0.008 seconds.
+[2018.12.09-21.23.23:337][556]LightingResults: New page: Lighting Build - Dec 9, 2018, 5:23:23 AM
+[2018.12.09-21.23.23:378][556]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.09-21.23.23:459][556]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.09-21.23.23:479][556]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.09-21.23.23:990][556]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.09-21.23.23:990][556]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13760
+[2018.12.09-21.23.26:316][556]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.12.09-21.23.26:317][556]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.09-21.23.26:317][556]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.09-21.23.26:317][556]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.09-21.23.26:317][556]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.09-21.23.26:317][556]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.09-21.23.26:382][556]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.09-21.23.26:382][556]MapCheck: New page: Menu - Dec 9, 2018, 5:23:26 AM
+[2018.12.09-21.23.26:463][556]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 80.72ms to complete.
+[2018.12.09-21.23.26:486][556]LogEditorBuildUtils: Build time 0:03
+[2018.12.09-21.23.28:349][636]Job is a success!
+[2018.12.09-21.23.28:448][638]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2018.12.09-21.23.28:448][638]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.09-21.23.28:448][638]LogVolumetricLightmapImport:      BrickData 115x5x5 = 0.1Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2018.12.09-21.23.28:448][638]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.09-21.23.28:448][638]LogVolumetricLightmapImport:          0: 4.3% covering 100.0% of volume
+[2018.12.09-21.23.28:448][638]LogVolumetricLightmapImport:          1: 4.3% covering 1.6% of volume
+[2018.12.09-21.23.28:448][638]LogVolumetricLightmapImport:          2: 91.3% covering 0.5% of volume
+[2018.12.09-21.23.28:478][638]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2018.12.09-21.23.28:478][638]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2018.12.09-21.23.28:478][638]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.12.09-21.23.28:478][638]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.12.09-21.23.28:478][638]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.12.09-21.23.28:479][638]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2018.12.09-21.23.28:530][638]Lightmass on MSI: 1.37 sec total, 129 ms importing, 21 ms setup, 698 ms photons, 511 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 5.14 sec total, 107 ms processing.
+[2018.12.09-21.23.28:608][638]LogStaticLightingSystem: Illumination: 5.23 sec (3 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2018.12.09-21.23.28:608][638]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.12.09-21.23.28:608][638]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.12.09-21.23.29:322][638]DumpUnbuiltLightIteractions
+[2018.12.09-21.23.29:322][638]Lights with unbuilt interactions: 0
+[2018.12.09-21.23.29:322][638]
+[2018.12.09-21.23.29:322][638]Primitives with unbuilt interactions: 0
+[2018.12.09-21.23.29:379][639]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.09-21.23.29:379][639]MapCheck: New page: Menu - Dec 9, 2018, 5:23:29 AM
+[2018.12.09-21.23.29:461][639]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.845ms to complete.
+[2018.12.09-21.23.31:499][735]LogSlate: Took 0.008853 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.12.09-21.23.41:252][309]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Menu00A7EC0843456A47D09686BECA4E12D8.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menu.umap'
+[2018.12.09-21.23.41:331][309]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/Menu_BuiltData950105904393A12B57DCFC9E1BA9A397.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menu_BuiltData.uasset'
+[2018.12.09-21.23.43:623][382]LogSlate: Window 'Save Content' being destroyed
+[2018.12.09-21.23.43:679][382]LogSavePackage: Moving '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Saved/MainMenuWidget338487EE4D88483F4021AC8B2F0B8D29.tmp' to '../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/MainMenuWidget.uasset'
+[2018.12.09-21.23.54:200][  8]LogLinker: Warning: Can't find file '/Game/Holodeck/Level/Range_BuiltData'
+[2018.12.09-21.23.54:200][  8]LogLinker: Warning: Can't find file for asset '/Game/Holodeck/Level/Range_BuiltData' while loading ../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap.
+[2018.12.09-21.23.54:200][  8]LoadErrors: Error: /Game/Holodeck/Level/Range : Can't find file for asset. /Game/Holodeck/Level/Range_BuiltData
+[2018.12.09-21.23.54:209][  8]LogLinker: Warning: Can't find file '/Game/Holodeck/Level/Range_BuiltData'
+[2018.12.09-21.23.54:209][  8]LogLinker: Warning: Can't find file for asset '/Game/Holodeck/Level/Range_BuiltData' while loading ../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap.
+[2018.12.09-21.23.54:213][  8]LogLinker: Warning: Can't find file '/Game/Holodeck/Level/Range_BuiltData'
+[2018.12.09-21.23.54:213][  8]LoadErrors: Failed to load /Game/Holodeck/Level/Range_BuiltData.Range_BuiltData Referenced by PersistentLevel
+[2018.12.09-21.23.54:213][  8]LogLinker: Warning: Can't find file for asset '/Game/Holodeck/Level/Range_BuiltData' while loading NULL.
+[2018.12.09-21.23.54:215][  8]LogAIModule: Creating AISystem for world Range
+[2018.12.09-21.23.54:219][  8]LogAssetEditorManager: Opening Asset editor for World /Game/Holodeck/Level/Range.Range
+[2018.12.09-21.23.54:242][  8]Cmd: MAP LOAD FILE="../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.09-21.23.54:242][  8]LightingResults: New page: Lighting Build
+[2018.12.09-21.23.54:243][  8]LoadErrors: New page: Loading map: Range.umap
+[2018.12.09-21.23.54:244][  8]MapCheck: New page: Map Check
+[2018.12.09-21.23.54:244][  8]LightingResults: New page: Lighting Build
+[2018.12.09-21.23.55:853][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:853][  8]LogReferenceChain:  W_CreditTitle_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditTitle_C_3->Outer
+[2018.12.09-21.23.55:853][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:853][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:853][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:854][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_85->Outer
+[2018.12.09-21.23.55:854][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:854][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:854][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:854][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_84->Outer
+[2018.12.09-21.23.55:854][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:854][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:854][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:854][  8]LogReferenceChain:  W_CreditTitle_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditTitle_C_7->Outer
+[2018.12.09-21.23.55:855][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:855][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:855][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:855][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_83->Outer
+[2018.12.09-21.23.55:855][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:855][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:855][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:855][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_82->Outer
+[2018.12.09-21.23.55:856][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:856][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:856][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:856][  8]LogReferenceChain:  W_CreditTitle_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditTitle_C_6->Outer
+[2018.12.09-21.23.55:856][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:856][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:856][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:856][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_81->Outer
+[2018.12.09-21.23.55:856][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:857][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:857][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:857][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_80->Outer
+[2018.12.09-21.23.55:857][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:857][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:857][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:857][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_79->Outer
+[2018.12.09-21.23.55:857][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:857][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:858][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:858][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_78->Outer
+[2018.12.09-21.23.55:858][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:858][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:858][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:858][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_77->Outer
+[2018.12.09-21.23.55:858][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:858][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:858][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:859][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_76->Outer
+[2018.12.09-21.23.55:859][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:859][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:859][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:859][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_75->Outer
+[2018.12.09-21.23.55:859][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:859][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:859][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:859][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_74->Outer
+[2018.12.09-21.23.55:860][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:860][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:860][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:860][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_73->Outer
+[2018.12.09-21.23.55:860][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:860][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:860][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:860][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_72->Outer
+[2018.12.09-21.23.55:860][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:860][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:861][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:861][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_71->Outer
+[2018.12.09-21.23.55:861][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:861][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:861][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:861][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_70->Outer
+[2018.12.09-21.23.55:861][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:861][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:861][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:862][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_69->Outer
+[2018.12.09-21.23.55:862][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:862][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:862][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:862][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_68->Outer
+[2018.12.09-21.23.55:862][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:862][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:862][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:862][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_67->Outer
+[2018.12.09-21.23.55:863][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:863][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:863][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:863][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_66->Outer
+[2018.12.09-21.23.55:863][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:863][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:863][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:863][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_65->Outer
+[2018.12.09-21.23.55:863][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:864][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:864][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:864][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_64->Outer
+[2018.12.09-21.23.55:864][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:864][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:864][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:864][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_63->Outer
+[2018.12.09-21.23.55:864][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:864][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:864][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:865][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_62->Outer
+[2018.12.09-21.23.55:865][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:865][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:865][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:865][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_61->Outer
+[2018.12.09-21.23.55:865][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:865][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:865][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:865][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_60->Outer
+[2018.12.09-21.23.55:866][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:866][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:866][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:866][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_59->Outer
+[2018.12.09-21.23.55:866][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:866][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:866][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:866][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_58->Outer
+[2018.12.09-21.23.55:867][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:867][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:867][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:867][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_57->Outer
+[2018.12.09-21.23.55:867][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:867][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:867][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:867][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_56->Outer
+[2018.12.09-21.23.55:867][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:868][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:868][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:868][  8]LogReferenceChain:  W_CreditTitle_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditTitle_C_5->Outer
+[2018.12.09-21.23.55:868][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:868][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:868][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:868][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_55->Outer
+[2018.12.09-21.23.55:868][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:868][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:868][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:869][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_54->Outer
+[2018.12.09-21.23.55:869][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:869][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:869][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:869][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_53->Outer
+[2018.12.09-21.23.55:869][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:869][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:869][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:869][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_52->Outer
+[2018.12.09-21.23.55:870][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:870][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:870][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:870][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_51->Outer
+[2018.12.09-21.23.55:870][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:870][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:870][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:870][  8]LogReferenceChain:  W_CreditTitle_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditTitle_C_4->Outer
+[2018.12.09-21.23.55:870][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:871][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:871][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:871][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_50->Outer
+[2018.12.09-21.23.55:871][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:871][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:871][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:871][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_49->Outer
+[2018.12.09-21.23.55:871][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:871][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:872][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:872][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_48->Outer
+[2018.12.09-21.23.55:872][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:872][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:872][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:872][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_47->Outer
+[2018.12.09-21.23.55:872][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:872][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:872][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:873][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_46->Outer
+[2018.12.09-21.23.55:873][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:873][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:873][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:873][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_45->Outer
+[2018.12.09-21.23.55:873][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:873][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:873][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:873][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_44->Outer
+[2018.12.09-21.23.55:874][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:874][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:874][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:874][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_21->Outer
+[2018.12.09-21.23.55:874][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:874][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:874][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:874][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_43->Outer
+[2018.12.09-21.23.55:874][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:875][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:875][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:875][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_42->Outer
+[2018.12.09-21.23.55:875][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:875][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:875][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:875][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_41->Outer
+[2018.12.09-21.23.55:875][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:875][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:876][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:876][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_40->Outer
+[2018.12.09-21.23.55:876][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:876][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:876][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:876][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_39->Outer
+[2018.12.09-21.23.55:876][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:876][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:876][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:877][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_38->Outer
+[2018.12.09-21.23.55:877][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:877][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:877][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:877][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_37->Outer
+[2018.12.09-21.23.55:877][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:877][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:877][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:877][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_36->Outer
+[2018.12.09-21.23.55:878][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:878][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:878][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:878][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_35->Outer
+[2018.12.09-21.23.55:878][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:878][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:878][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:878][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_34->Outer
+[2018.12.09-21.23.55:878][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:879][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:879][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:879][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_33->Outer
+[2018.12.09-21.23.55:879][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:879][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:879][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:879][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_32->Outer
+[2018.12.09-21.23.55:879][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:879][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:880][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:880][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_31->Outer
+[2018.12.09-21.23.55:880][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:880][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:880][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:880][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_30->Outer
+[2018.12.09-21.23.55:880][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:880][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:880][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:881][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_29->Outer
+[2018.12.09-21.23.55:881][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:881][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:881][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:881][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_28->Outer
+[2018.12.09-21.23.55:881][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:881][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:881][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:881][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_27->Outer
+[2018.12.09-21.23.55:882][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:882][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:882][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:882][  8]LogReferenceChain:  W_CreditTitle_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditTitle_C_2->Outer
+[2018.12.09-21.23.55:882][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:882][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:882][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:882][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_26->Outer
+[2018.12.09-21.23.55:882][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:883][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:883][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:883][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_25->Outer
+[2018.12.09-21.23.55:883][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:883][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:883][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:883][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_24->Outer
+[2018.12.09-21.23.55:883][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:883][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:883][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:884][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_23->Outer
+[2018.12.09-21.23.55:884][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:884][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:884][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:884][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_22->Outer
+[2018.12.09-21.23.55:884][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:884][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:884][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:885][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_10->Outer
+[2018.12.09-21.23.55:885][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:885][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:885][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:885][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_20->Outer
+[2018.12.09-21.23.55:885][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:885][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:885][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:885][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_19->Outer
+[2018.12.09-21.23.55:886][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:886][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:886][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:886][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_18->Outer
+[2018.12.09-21.23.55:886][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:886][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:886][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:886][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_17->Outer
+[2018.12.09-21.23.55:886][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:887][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:887][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:887][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_16->Outer
+[2018.12.09-21.23.55:887][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:887][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:887][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:887][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_15->Outer
+[2018.12.09-21.23.55:887][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:887][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:888][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:888][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_14->Outer
+[2018.12.09-21.23.55:888][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:888][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:888][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:888][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_13->Outer
+[2018.12.09-21.23.55:888][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:888][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:888][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:889][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_12->Outer
+[2018.12.09-21.23.55:889][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:889][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:889][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:889][  8]LogReferenceChain:  W_CreditTitle_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditTitle_C_1->Outer
+[2018.12.09-21.23.55:889][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:889][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:889][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:890][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_11->Outer
+[2018.12.09-21.23.55:890][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:890][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:890][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:890][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_4->Outer
+[2018.12.09-21.23.55:890][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:890][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:890][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:890][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_9->Outer
+[2018.12.09-21.23.55:891][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:891][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:891][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:891][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_8->Outer
+[2018.12.09-21.23.55:891][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:891][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:891][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:891][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_7->Outer
+[2018.12.09-21.23.55:891][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:892][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:892][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:892][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_6->Outer
+[2018.12.09-21.23.55:892][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:892][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:892][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:892][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_5->Outer
+[2018.12.09-21.23.55:892][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:892][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:893][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:893][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_3->Outer
+[2018.12.09-21.23.55:893][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:893][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:893][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:893][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_2->Outer
+[2018.12.09-21.23.55:893][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:893][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:893][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:894][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_1->Outer
+[2018.12.09-21.23.55:894][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:894][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:894][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:894][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_0->Outer
+[2018.12.09-21.23.55:894][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:894][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:894][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:895][  8]LogReferenceChain:  W_CreditTitle_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditTitle_C_0->Outer
+[2018.12.09-21.23.55:895][  8]LogReferenceChain:   World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:895][  8]LogReferenceChain:   
+[2018.12.09-21.23.55:895][  8]LogReferenceChain: (root) GCObjectReferencer /Engine/Transient.GCObjectReferencer_0::AddReferencedObjects()
+[2018.12.09-21.23.55:895][  8]LogReferenceChain:  W_CreditsText_C /Game/MainMenu/BluePrints/Menu.Menu:W_CreditsText_C_46->Slot
+[2018.12.09-21.23.55:895][  8]LogReferenceChain:   ScrollBoxSlot /Game/MainMenu/BluePrints/Menu.Menu:REINST_W_MainMenu_C_0.WidgetTree_0.W_Credits.WidgetTree_1.C_ScrollBox.ScrollBoxSlot_50->Outer
+[2018.12.09-21.23.55:895][  8]LogReferenceChain:    ScrollBox /Game/MainMenu/BluePrints/Menu.Menu:REINST_W_MainMenu_C_0.WidgetTree_0.W_Credits.WidgetTree_1.C_ScrollBox->Outer
+[2018.12.09-21.23.55:896][  8]LogReferenceChain:     WidgetTree /Game/MainMenu/BluePrints/Menu.Menu:REINST_W_MainMenu_C_0.WidgetTree_0.W_Credits.WidgetTree_1->Outer
+[2018.12.09-21.23.55:896][  8]LogReferenceChain:      W_Credits_C /Game/MainMenu/BluePrints/Menu.Menu:REINST_W_MainMenu_C_0.WidgetTree_0.W_Credits->Outer
+[2018.12.09-21.23.55:896][  8]LogReferenceChain:       WidgetTree /Game/MainMenu/BluePrints/Menu.Menu:REINST_W_MainMenu_C_0.WidgetTree_0->Outer
+[2018.12.09-21.23.55:896][  8]LogReferenceChain:        (PendingKill) REINST_W_MainMenu_C_11 /Game/MainMenu/BluePrints/Menu.Menu:REINST_W_MainMenu_C_0->Outer
+[2018.12.09-21.23.55:896][  8]LogReferenceChain:         World /Game/MainMenu/BluePrints/Menu.Menu
+[2018.12.09-21.23.55:896][  8]LogReferenceChain:   
+[2018.12.09-21.23.56:056][  8]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: === Critical error: ===
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: 
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\EditorServer.cpp] [Line: 1939] 
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: /Game/MainMenu/BluePrints/Menu.Menu still around trying to load ../../../../../../Users/Cindy Chiu/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap
+[2018.12.09-21.23.56:964][  8]LogWindows: Error:    (Object is not currently rooted)
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: 
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: 
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: 
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: [Callstack] 0x00007ffb2a63a388 KERNELBASE.dll!UnknownFunction []
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: [Callstack] 0x00007ffae3076850 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: [Callstack] 0x00007ffadbd262fc UE4Editor-Core.dll!UnknownFunction []
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: [Callstack] 0x00007ffadbcb51db UE4Editor-Core.dll!UnknownFunction []
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: [Callstack] 0x00007ffada4861aa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: [Callstack] 0x00007ffada48e5aa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: [Callstack] 0x00007ffada4bbc74 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: [Callstack] 0x00007ffada4ac815 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: [Callstack] 0x00007ffada48f4a5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: [Callstack] 0x00007ffadad6da43 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: [Callstack] 0x00007ffada852f1c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: [Callstack] 0x00007ffaf5989801 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: [Callstack] 0x00007ffadad2f2c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: [Callstack] 0x00007ffaf5911d38 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: [Callstack] 0x00007ffaf34f42ad UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.09-21.23.56:964][  8]LogWindows: Error: [Callstack] 0x00007ffaf34b0499 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffaf34fefe3 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffaf34ae1ea UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffaf34aab30 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffaf350b950 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffaf34ff4af UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffadf8a8f0a UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffadf93fdce UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffadf926fca UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffadf91a87a UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffae306d16f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffae3060270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffae306f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffae305c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffb2d576d41 USER32.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffb2d576713 USER32.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffae3070646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ff7c1f454e5 UE4Editor.exe!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ff7c1f55b3c UE4Editor.exe!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ff7c1f55bba UE4Editor.exe!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ff7c1f63dac UE4Editor.exe!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ff7c1f65aaa UE4Editor.exe!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffb2bc73034 KERNEL32.DLL!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: [Callstack] 0x00007ffb2e2a1471 ntdll.dll!UnknownFunction []
+[2018.12.09-21.23.56:965][  8]LogWindows: Error: 
+[2018.12.09-21.23.56:982][  8]LogExit: Executing StaticShutdownAfterError
+[2018.12.09-21.23.56:986][  8]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.12.09-21.23.56:994][  8]Log file closed, 12/09/18 13:23:56
