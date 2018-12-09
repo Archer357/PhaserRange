@@ -1,0 +1,1300 @@
+﻿Log file open, 11/12/18 15:11:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Holodeck2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.302838
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin VRExpansionPlugin
+LogStreaming: Display: Took  0.147s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.12-23.11.19:405][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.12-23.11.19:405][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.12-23.11.19:429][  0]LogHAL: Display: Platform has ~ 16 GB [17091371008 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.12-23.11.19:429][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.12-23.11.19:430][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.12-23.11.19:437][  0]LogInit: Computer: DESKTOP-2QNA1SC
+[2018.11.12-23.11.19:437][  0]LogInit: User: darkm
+[2018.11.12-23.11.19:437][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.12-23.11.19:437][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.11.12-23.11.19:437][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.12-23.11.19:437][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.12-23.11.19:437][  0]LogMemory: Process Physical Memory: 100.03 MB used, 100.03 MB peak
+[2018.11.12-23.11.19:437][  0]LogMemory: Process Virtual Memory: 91.11 MB used, 91.11 MB peak
+[2018.11.12-23.11.19:437][  0]LogMemory: Physical Memory: 5718.53 MB used,  10581.07 MB free, 16299.60 MB total
+[2018.11.12-23.11.19:437][  0]LogMemory: Virtual Memory: 4644.94 MB used,  10581.07 MB free, 134217728.00 MB total
+[2018.11.12-23.11.19:675][  0]LogInit: Using OS detected language (en-US).
+[2018.11.12-23.11.19:675][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.12-23.11.19:676][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.12-23.11.20:108][  0]LogStreaming: Display: Took  0.432s to InitEngineTextLocalization.
+[2018.11.12-23.11.20:109][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.12-23.11.20:227][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.12-23.11.20:227][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.12-23.11.22:456][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.12-23.11.22:456][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.12-23.11.22:610][  0]LogD3D11RHI:    0. 'Radeon 500 Series' (Feature Level 11_0)
+[2018.11.12-23.11.22:610][  0]LogD3D11RHI:       1994/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.11.12-23.11.22:631][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2018.11.12-23.11.22:631][  0]LogD3D11RHI:       128/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.12-23.11.22:638][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.12-23.11.22:638][  0]LogD3D11RHI:       0/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.12-23.11.22:638][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.12-23.11.22:648][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.12-23.11.22:648][  0]LogD3D11RHI:     GPU DeviceId: 0x699f (for the marketing name, search the web for "GPU Device Id")
+[2018.11.12-23.11.22:649][  0]LogWindows: EnumDisplayDevices:
+[2018.11.12-23.11.22:649][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2018.11.12-23.11.22:649][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.11.12-23.11.22:649][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.11.12-23.11.22:650][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.12-23.11.22:650][  0]LogD3D11RHI:     Adapter Name: Radeon 500 Series
+[2018.11.12-23.11.22:650][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.12-23.11.22:650][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.12-23.11.22:650][  0]LogRHI: Texture pool is 1396 MB (70% of 1994 MB)
+[2018.11.12-23.11.22:736][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.12-23.11.22:769][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2018.11.12-23.11.22:774][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Intermediate/Shaders/WorkingDirectory/15028/).
+[2018.11.12-23.11.22:774][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/darkm/AppData/Local/Temp/UnrealShaderWorkingDir/712A4FB142916ACE82EA33A940748662/'.
+[2018.11.12-23.11.23:593][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.12-23.11.23:607][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.12-23.11.23:622][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.12-23.11.23:637][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.12-23.11.23:659][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.12-23.11.23:676][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.12-23.11.23:692][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.12-23.11.23:708][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.12-23.11.23:719][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:802][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-23.11.23:807][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.12-23.11.23:882][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.12-23.11.23:882][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.12-23.11.23:905][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.12-23.11.23:905][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.12-23.11.23:921][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.12-23.11.23:937][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.12-23.11.23:954][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.12-23.11.23:979][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.12-23.11.23:992][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.12-23.11.23:992][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.12-23.11.24:160][  0]LogXGEController: Cleaning working directory: C:/Users/darkm/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.12-23.11.24:161][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.12-23.11.24:161][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.12-23.11.24:161][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.12-23.11.26:082][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.12-23.11.26:547][  0]LogDerivedDataCache: Loaded boot cache 0.46s 86MB C:/Users/darkm/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.12-23.11.26:547][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/darkm/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.12-23.11.26:548][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.12-23.11.26:548][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.12-23.11.26:548][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.12-23.11.26:548][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.12-23.11.26:575][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.12-23.11.26:587][  0]LogDerivedDataCache: Using Local data cache path C:/Users/darkm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.12-23.11.26:587][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.12-23.11.26:587][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.12-23.11.26:609][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.12-23.11.26:624][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.12-23.11.26:644][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.12-23.11.27:052][  0]LogAssetRegistry: FAssetRegistry took 0.0325 seconds to start up
+[2018.11.12-23.11.27:447][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.12-23.11.27:837][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.12-23.11.27:883][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.12-23.11.27:884][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.12-23.11.27:885][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.12-23.11.27:885][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.12-23.11.27:949][  0]LogNetVersion: Holodeck2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3709674839)
+[2018.11.12-23.11.29:215][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.123552 seconds
+[2018.11.12-23.11.29:223][  0]LogUObjectArray: 38427 objects as part of root set at end of initial load.
+[2018.11.12-23.11.29:223][  0]LogUObjectAllocator: 6691312 out of 0 bytes used by permanent object pool.
+[2018.11.12-23.11.29:223][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.12-23.11.33:064][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.12-23.11.33:081][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.12-23.11.33:445][  0]SourceControl: Source control is disabled
+[2018.11.12-23.11.33:445][  0]SourceControl: Source control is disabled
+[2018.11.12-23.11.33:461][  0]SourceControl: Source control is disabled
+[2018.11.12-23.11.33:467][  0]SourceControl: Source control is disabled
+[2018.11.12-23.11.33:828][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.12-23.11.33:904][  0]LogOcInput: OculusInput pre-init called
+[2018.11.12-23.11.34:072][  0]LogEngine: Initializing Engine...
+[2018.11.12-23.11.34:074][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.12-23.11.34:077][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2018.11.12-23.11.34:077][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.12-23.11.34:078][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.12-23.11.34:078][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.12-23.11.34:288][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.12-23.11.34:322][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.12-23.11.34:347][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-23.11.35:201][  0]LogInit: FAudioDevice initialized.
+[2018.11.12-23.11.35:201][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.12-23.11.35:361][  0]LogDerivedDataCache: Saved boot cache 0.16s 86MB C:/Users/darkm/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.12-23.11.35:384][  0]LogInit: Texture streaming: Enabled
+[2018.11.12-23.11.35:414][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.12-23.11.35:442][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.12-23.11.35:491][  0]LogInit: Transaction tracking system initialized
+[2018.11.12-23.11.35:816][  0]BlueprintLog: New page: Editor Load
+[2018.11.12-23.11.36:084][  0]LocalizationService: Localization service is disabled
+[2018.11.12-23.11.36:782][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.12-23.11.36:783][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.12-23.11.36:783][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.12-23.11.36:783][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.12-23.11.36:783][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.12-23.11.36:783][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.12-23.11.36:783][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.12-23.11.37:143][  0]LogFileCache: Scanning file cache for directory 'C:/Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/' took 0.02s
+[2018.11.12-23.11.37:143][  0]SourceControl: Source control is disabled
+[2018.11.12-23.11.37:144][  0]Cmd: MAP LOAD FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Holodeck/Level/Range.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.12-23.11.37:145][  0]LightingResults: New page: Lighting Build
+[2018.11.12-23.11.37:158][  0]MapCheck: New page: Map Check
+[2018.11.12-23.11.37:159][  0]LightingResults: New page: Lighting Build
+[2018.11.12-23.11.37:970][  0]LogAIModule: Creating AISystem for world Range
+[2018.11.12-23.11.37:987][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.12-23.11.38:019][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.12-23.11.38:106][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86.489ms to complete.
+[2018.11.12-23.11.38:106][  0]LogFileHelpers: Loading map 'Range' took 0.962
+[2018.11.12-23.11.38:326][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-23.11.38:335][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-23.11.38:342][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-23.11.38:350][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-23.11.38:374][  0]LogCollectionManager: Loaded 0 collections in 0.002325 seconds
+[2018.11.12-23.11.38:440][  0]LogFileCache: Scanning file cache for directory 'C:/Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Collections/' took 0.01s
+[2018.11.12-23.11.38:440][  0]LogFileCache: Scanning file cache for directory 'C:/Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Developers/darkm/Collections/' took 0.01s
+[2018.11.12-23.11.38:440][  0]LogFileCache: Scanning file cache for directory 'C:/Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/Collections/' took 0.01s
+[2018.11.12-23.11.38:440][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.12-23.11.38:459][  0]LogContentBrowser: Native class hierarchy populated in 0.0164 seconds. Added 2622 classes and 613 folders.
+[2018.11.12-23.11.38:477][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.12-23.11.38:931][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.11.12-23.11.39:004][  0]LogSlate: Took 0.009164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.12-23.11.39:017][  0]LogSlate: Took 0.006182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.12-23.11.39:026][  0]LogSlate: Took 0.005638 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.12-23.11.39:122][  0]LogRenderer: Reallocating scene render targets to support 804x428 Format 26 NumSamples 1 (Frame:1).
+[2018.11.12-23.11.39:375][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.11.12-23.11.39:375][  0]LogLoad: (Engine Initialization) Total time: 25.37 seconds
+[2018.11.12-23.11.39:375][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.12-23.11.39:420][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.12-23.11.39:497][  1]LogRenderer: Reallocating scene render targets to support 804x440 Format 26 NumSamples 1 (Frame:3).
+[2018.11.12-23.11.39:514][  1]LogAssetRegistry: Asset discovery search completed in 12.4852 seconds
+[2018.11.12-23.11.39:516][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.12-23.11.39:516][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2018.11.12-23.11.43:509][233]LogSlate: Took 0.010514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.12-23.11.46:243][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-23.11.46:425][399]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.12-23.11.46:442][399]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenu/BluePrints/Menus/W_Credits.W_Credits
+[2018.11.12-23.11.47:138][399]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.11.12-23.11.48:182][399]LogSlate: Took 0.007055 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.12-23.11.49:740][475]LogTexture: Display: Building textures: StartPressed (BGRA8, 1920X554)
+[2018.11.12-23.11.49:740][475]LogTexture: Display: Building textures: StartHover (BGRA8, 1920X554)
+[2018.11.12-23.11.49:740][475]LogTexture: Display: Building textures: StartNormal (BGRA8, 1920X554)
+[2018.11.12-23.11.49:769][475]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu
+[2018.11.12-23.12.12:796][802]LogMaterial: Display: Missing cached shader map for material Main_Menu_M, compiling. 
+[2018.11.12-23.12.12:812][802]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/Mpgii_Japanese_Flowers'
+[2018.11.12-23.12.12:812][802]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/Mpgii_Japanese_Flowers'
+[2018.11.12-23.12.12:812][802]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MainMenu/Assets/Audio/Mpgii_Japanese_Flowers.Mpgii_Japanese_Flowers'
+[2018.11.12-23.12.12:813][802]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/Di0nysys_-_Way_of_the_Sword'
+[2018.11.12-23.12.12:813][802]LogLinker: Warning: Can't find file '/Game/MainMenu/Assets/Audio/Di0nysys_-_Way_of_the_Sword'
+[2018.11.12-23.12.12:813][802]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MainMenu/Assets/Audio/Di0nysys_-_Way_of_the_Sword.Di0nysys_-_Way_of_the_Sword'
+[2018.11.12-23.12.12:814][802]LogAIModule: Creating AISystem for world Menu
+[2018.11.12-23.12.12:836][802]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.12-23.12.12:838][802]LogAssetEditorManager: Opening Asset editor for World /Game/MainMenu/Levels/Menu.Menu
+[2018.11.12-23.12.12:882][802]Cmd: MAP LOAD FILE="../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Levels/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.12-23.12.12:882][802]LightingResults: New page: Lighting Build
+[2018.11.12-23.12.12:883][802]LoadErrors: New page: Loading map: Menu.umap
+[2018.11.12-23.12.12:883][802]MapCheck: New page: Map Check
+[2018.11.12-23.12.12:883][802]LightingResults: New page: Lighting Build
+[2018.11.12-23.12.12:935][802]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.12-23.12.13:011][802]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.12-23.12.13:122][802]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 110.804ms to complete.
+[2018.11.12-23.12.13:124][802]LogFileHelpers: Loading map 'Menu' took 0.243
+[2018.11.12-23.12.15:308][927]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.11.12-23.12.15:426][927]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-23.12.21:778][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-23.12.21:844][299]LogTemp: Repeating last play command: Simulate
+[2018.11.12-23.12.21:893][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-23.12.21:909][299]PIE: New page: SIE session: Menu (Nov 12, 2018, 7:12:21 AM)
+[2018.11.12-23.12.21:910][299]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.12-23.12.21:914][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004594s)
+[2018.11.12-23.12.21:915][299]LogAIModule: Creating AISystem for world Menu
+[2018.11.12-23.12.21:915][299]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2018.11.12-23.12.21:916][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.006057s)
+[2018.11.12-23.12.21:975][299]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-23.12.22:003][299]LogInit: FAudioDevice initialized.
+[2018.11.12-23.12.22:064][299]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.12-23.12.22:071][299]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-15.12.22
+[2018.11.12-23.12.22:073][299]LogWorld: Bringing up level for play took: 0.006045
+[2018.11.12-23.12.22:098][299]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2018.11.12-23.12.22:116][299]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu 0.635
+[2018.11.12-23.12.23:997][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-23.12.24:040][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-23.12.24:085][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-23.12.24:104][407]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.11.12-23.14.32:780][118]LogSlate: Took 0.035454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.11.12-23.14.43:817][778]BlueprintLog: New page: Compile W_MainMenu
+[2018.11.12-23.14.44:524][799]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu6F6318FD4824051F09963FA584C159E7.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.12-23.14.46:640][925]LogTemp: Repeating last play command: Simulate
+[2018.11.12-23.14.46:679][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-23.14.46:679][925]PIE: New page: SIE session: Menu (Nov 12, 2018, 7:14:46 AM)
+[2018.11.12-23.14.46:679][925]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.12-23.14.46:682][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003091s)
+[2018.11.12-23.14.46:683][925]LogAIModule: Creating AISystem for world Menu
+[2018.11.12-23.14.46:684][925]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2018.11.12-23.14.46:684][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.004471s)
+[2018.11.12-23.14.46:740][925]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-23.14.46:765][925]LogInit: FAudioDevice initialized.
+[2018.11.12-23.14.46:800][925]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.12-23.14.46:806][925]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-15.14.46
+[2018.11.12-23.14.46:806][925]LogWorld: Bringing up level for play took: 0.004467
+[2018.11.12-23.14.46:823][925]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu -0.659
+[2018.11.12-23.14.47:923][987]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.12-23.14.48:042][987]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-23.14.48:435][  3]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.12-23.14.48:465][  3]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-23.14.51:166][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-23.14.51:231][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-23.14.51:279][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-23.14.51:338][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-23.14.51:364][154]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.11.12-23.15.59:787][219]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.12-23.15.59:831][219]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-23.16.00:353][249]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.12-23.16.00:381][249]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-23.29.01:940][457]LogTemp: Repeating last play command: Simulate
+[2018.11.12-23.29.01:984][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-23.29.01:984][457]PIE: New page: SIE session: Menu (Nov 12, 2018, 7:29:01 AM)
+[2018.11.12-23.29.01:984][457]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.12-23.29.01:987][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003272s)
+[2018.11.12-23.29.01:988][457]LogAIModule: Creating AISystem for world Menu
+[2018.11.12-23.29.01:989][457]LogPlayLevel: PIE: World Init took: (0.001168s)
+[2018.11.12-23.29.01:989][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.004677s)
+[2018.11.12-23.29.02:066][457]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-23.29.02:091][457]LogInit: FAudioDevice initialized.
+[2018.11.12-23.29.02:125][457]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.12-23.29.02:130][457]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-15.29.02
+[2018.11.12-23.29.02:130][457]LogWorld: Bringing up level for play took: 0.004328
+[2018.11.12-23.29.02:147][457]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu 0.665
+[2018.11.12-23.29.06:385][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-23.29.06:424][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-23.29.06:471][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-23.29.06:490][708]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.11.12-23.45.17:222][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-23.45.17:414][430]LogRenderer: Reallocating scene render targets to support 804x448 Format 26 NumSamples 1 (Frame:103759).
+[2018.11.12-23.45.17:493][432]LogRenderer: Reallocating scene render targets to support 804x452 Format 26 NumSamples 1 (Frame:103763).
+[2018.11.12-23.45.17:531][433]LogRenderer: Reallocating scene render targets to support 804x456 Format 26 NumSamples 1 (Frame:103765).
+[2018.11.12-23.45.17:575][434]LogRenderer: Reallocating scene render targets to support 804x460 Format 26 NumSamples 1 (Frame:103767).
+[2018.11.12-23.45.17:657][436]LogRenderer: Reallocating scene render targets to support 804x468 Format 26 NumSamples 1 (Frame:103771).
+[2018.11.12-23.45.19:525][547]LogRenderer: Reallocating scene render targets to support 808x468 Format 26 NumSamples 1 (Frame:103858).
+[2018.11.12-23.45.19:561][548]LogRenderer: Reallocating scene render targets to support 816x468 Format 26 NumSamples 1 (Frame:103860).
+[2018.11.12-23.45.19:601][549]LogRenderer: Reallocating scene render targets to support 820x468 Format 26 NumSamples 1 (Frame:103862).
+[2018.11.12-23.45.19:676][551]LogRenderer: Reallocating scene render targets to support 824x468 Format 26 NumSamples 1 (Frame:103866).
+[2018.11.12-23.45.19:714][552]LogRenderer: Reallocating scene render targets to support 832x468 Format 26 NumSamples 1 (Frame:103868).
+[2018.11.12-23.45.19:755][553]LogRenderer: Reallocating scene render targets to support 844x468 Format 26 NumSamples 1 (Frame:103870).
+[2018.11.12-23.45.19:799][554]LogRenderer: Reallocating scene render targets to support 860x468 Format 26 NumSamples 1 (Frame:103872).
+[2018.11.12-23.45.20:008][563]LogRenderer: Reallocating scene render targets to support 864x468 Format 26 NumSamples 1 (Frame:103876).
+[2018.11.12-23.45.20:045][564]LogRenderer: Reallocating scene render targets to support 868x468 Format 26 NumSamples 1 (Frame:103878).
+[2018.11.12-23.45.20:116][567]LogRenderer: Reallocating scene render targets to support 872x468 Format 26 NumSamples 1 (Frame:103880).
+[2018.11.12-23.45.20:198][569]LogRenderer: Reallocating scene render targets to support 876x468 Format 26 NumSamples 1 (Frame:103884).
+[2018.11.12-23.47.12:554][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-23.49.47:073][207]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.49.47:588][209]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.49.49:114][215]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.49.50:652][222]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.49.51:166][224]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.49.52:692][231]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.49.57:274][312]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.49.57:788][314]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.01:369][332]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.03:460][345]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.03:963][346]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.06:508][386]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.07:022][388]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.07:525][389]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.10:151][439]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.12:193][468]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.14:756][508]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.23:994][552]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.30:119][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.30:636][638]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.36:776][725]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.38:824][734]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.40:917][747]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.41:431][749]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.43:524][762]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.45:052][768]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.45:567][770]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.47:106][777]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.49:197][790]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.50:728][796]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.50.57:369][888]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.00:634][922]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.02:680][931]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.03:194][933]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.03:700][934]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.06:772][948]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.07:277][949]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.20:039][100]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.22:134][113]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.23:665][120]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.24:181][122]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.28:482][161]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.30:009][167]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.30:525][169]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.32:053][175]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.32:569][177]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.34:617][216]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.38:696][265]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.44:325][292]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.46:415][305]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.47:941][311]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.49:478][318]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.49:981][319]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.52:524][361]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.57:634][445]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.51.59:725][458]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.52.00:746][462]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.52.01:261][464]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.52.02:791][470]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.52.03:305][472]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.52.03:810][473]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.52.08:418][495]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.52.12:090][548]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.52.14:652][589]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.52.18:230][634]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.52.20:276][643]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.52.20:791][645]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-23.54.10:864][949]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.12-23.54.11:058][950]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.13-00.12.28:036][891]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-00.12.28:095][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.12.34:611][277]LogTemp: Repeating last play command: Simulate
+[2018.11.13-00.12.34:664][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-00.12.34:665][277]PIE: New page: SIE session: Menu (Nov 12, 2018, 8:12:34 AM)
+[2018.11.13-00.12.34:665][277]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.13-00.12.34:669][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004054s)
+[2018.11.13-00.12.34:670][277]LogAIModule: Creating AISystem for world Menu
+[2018.11.13-00.12.34:670][277]LogPlayLevel: PIE: World Init took: (0.001329s)
+[2018.11.13-00.12.34:670][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.005626s)
+[2018.11.13-00.12.34:735][277]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.13-00.12.34:753][277]LogInit: FAudioDevice initialized.
+[2018.11.13-00.12.34:787][277]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.13-00.12.34:793][277]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-16.12.34
+[2018.11.13-00.12.34:793][277]LogWorld: Bringing up level for play took: 0.004846
+[2018.11.13-00.12.34:811][277]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu -0.658
+[2018.11.13-00.12.36:175][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-00.12.36:216][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-00.12.36:271][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-00.12.36:302][356]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.11.13-00.12.39:273][525]LogSlate: Took 0.005435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.13-00.16.44:740][200]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMenu/Levels/Menu' took 0.030
+[2018.11.13-00.16.44:743][200]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu/BluePrints/Menus/W_MainMenu] ([1] browsable assets)...
+[2018.11.13-00.16.44:743][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/BluePrints/Menus/W_MainMenu]
+[2018.11.13-00.16.44:851][200]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu_Auto1A57567614AC8EC6F29A51A949EC6E441.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Autosaves/Game/MainMenu/BluePrints/Menus/W_MainMenu_Auto1.uasset'
+[2018.11.13-00.16.44:852][200]LogFileHelpers: Auto-saving content packages took 0.111
+[2018.11.13-00.22.39:585][472]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuC5C2FE2C4BE03B9FA96F4984B1BDCD42.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.13-00.22.39:808][485]BlueprintLog: New page: Compile W_MainMenu
+[2018.11.13-00.24.35:834][372]BlueprintLog: New page: Compile W_MainMenu
+[2018.11.13-00.24.35:850][372]LogBlueprint: Warning: [Compiler W_MainMenu] Could not find a variable named "ScrollBox_Credits" in 'W_MainMenu_C'.
+Make sure 'W_MainMenu_C' has been compiled for  Get ScrollBox_Credits
+[2018.11.13-00.24.35:850][372]LogBlueprint: Warning: [Compiler W_MainMenu] Could not find a variable named "ScrollBox_Credits" in 'W_MainMenu_C'.
+Make sure 'W_MainMenu_C' has been compiled for  Get ScrollBox_Credits
+[2018.11.13-00.24.35:851][372]LogBlueprint: Error: [Compiler W_MainMenu] The property associated with  Scroll Box Credits  could not be found in '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu_C'
+[2018.11.13-00.24.35:851][372]LogBlueprint: Error: [Compiler W_MainMenu] The property associated with  Scroll Box Credits  could not be found in '/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu_C'
+[2018.11.13-00.24.36:037][372]LogBlueprint: Warning: [Compiler W_MainMenu] [4402.04] Compile of W_MainMenu failed. 2 Fatal Issue(s) 2 Warning(s) [in 202 ms] (/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu)
+[2018.11.13-00.24.36:482][392]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuA363DB7E4625BD53EE111F81C3F3CD25.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.13-00.24.57:143][602]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuFE48A89847A6E3FB5808668195C50DDC.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.13-00.25.46:190][509]LogSlate: Window 'Content Browser 2' being destroyed
+[2018.11.13-00.25.57:165][167]LogSlate: Window 'Content Browser 2' being destroyed
+[2018.11.13-00.26.55:900][676]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuD08C9337498C37B153791E8A4EA231A0.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.13-00.26.56:278][698]BlueprintLog: New page: Compile W_MainMenu
+[2018.11.13-00.31.51:464][640]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMenu/Levels/Menu' took 0.028
+[2018.11.13-00.31.51:466][640]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu/BluePrints/Menus/W_MainMenu] ([1] browsable assets)...
+[2018.11.13-00.31.51:466][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/BluePrints/Menus/W_MainMenu]
+[2018.11.13-00.31.51:541][640]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu_Auto2BB550E3B442FDE244B644FAF050F63C6.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Autosaves/Game/MainMenu/BluePrints/Menus/W_MainMenu_Auto2.uasset'
+[2018.11.13-00.31.51:543][640]LogFileHelpers: Auto-saving content packages took 0.078
+[2018.11.13-00.34.46:395][863]BlueprintLog: New page: Compile W_MainMenu
+[2018.11.13-00.34.46:415][863]LogBlueprint: Error: [Compiler W_MainMenu] The type of  Object  is undetermined.  Connect something to  Cast To W_Credits  to imply a specific type.
+[2018.11.13-00.34.46:416][863]LogBlueprint: Error: [Compiler W_MainMenu] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.11.13-00.34.46:670][863]LogBlueprint: Warning: [Compiler W_MainMenu] [5012.68] Compile of W_MainMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 274 ms] (/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu)
+[2018.11.13-00.34.47:162][896]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu32B08642413D444E599A42BA158E841F.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.13-00.41.51:516][520]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMenu/Levels/Menu' took 0.038
+[2018.11.13-00.41.51:518][520]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu/BluePrints/Menus/W_MainMenu] ([1] browsable assets)...
+[2018.11.13-00.41.51:519][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/BluePrints/Menus/W_MainMenu]
+[2018.11.13-00.41.51:600][520]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu_Auto3C66F5FEF472C895027FAEB9FAF25C2EB.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Autosaves/Game/MainMenu/BluePrints/Menus/W_MainMenu_Auto3.uasset'
+[2018.11.13-00.41.51:602][520]LogFileHelpers: Auto-saving content packages took 0.084
+[2018.11.13-02.11.45:553][989]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuA5FC70CD4F83D95BAEF32A856EDF08D5.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.13-02.11.46:078][ 20]BlueprintLog: New page: Compile W_MainMenu
+[2018.11.13-02.22.01:330][902]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu4D58C01742F263FD626F47B699245629.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.13-02.23.17:148][240]BlueprintLog: New page: Compile W_MainMenu
+[2018.11.13-02.23.17:889][261]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu7201E3F44119927A6396FCAC6B42D79F.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.13-02.23.18:966][323]LogTemp: Repeating last play command: Simulate
+[2018.11.13-02.23.19:030][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-02.23.19:030][323]PIE: New page: SIE session: Menu (Nov 12, 2018, 10:23:19 AM)
+[2018.11.13-02.23.19:030][323]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.13-02.23.19:034][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003606s)
+[2018.11.13-02.23.19:035][323]LogAIModule: Creating AISystem for world Menu
+[2018.11.13-02.23.19:035][323]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2018.11.13-02.23.19:035][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.005293s)
+[2018.11.13-02.23.19:096][323]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.13-02.23.19:112][323]LogInit: FAudioDevice initialized.
+[2018.11.13-02.23.19:149][323]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.13-02.23.19:155][323]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-18.23.19
+[2018.11.13-02.23.19:155][323]LogWorld: Bringing up level for play took: 0.004391
+[2018.11.13-02.23.19:172][323]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu -0.297
+[2018.11.13-02.23.20:936][417]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.23.21:025][417]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.24:584][584]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.23.24:629][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.27:869][734]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.23.27:925][734]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.29:078][797]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.23.29:117][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.29:137][797]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.23.29:174][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.29:420][809]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.23.29:452][809]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.30:070][842]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.13-02.23.30:131][842]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.30:623][867]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.13-02.23.30:650][867]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.31:077][890]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.13-02.23.31:106][890]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.31:122][890]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.13-02.23.31:152][890]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.32:975][995]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.13-02.23.33:025][995]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.33:772][ 35]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.13-02.23.33:804][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.33:859][ 37]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.13-02.23.33:890][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.33:913][ 37]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.13-02.23.33:943][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.33:960][ 37]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.23.36:264][140]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.13-02.23.36:296][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.38:664][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-02.23.43:021][432]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.13-02.23.43:055][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.43:079][432]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.13-02.23.43:113][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.44:987][510]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.13-02.23.45:027][510]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.45:052][510]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.13-02.23.45:094][510]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.45:673][538]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.13-02.23.45:707][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.48:191][644]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.13-02.23.48:237][644]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.48:968][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.23.49:011][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-02.23.49:059][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.23.49:083][684]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.13-02.23.49:486][706]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.23.49:564][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.54:742][954]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.23.54:802][954]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.54:839][954]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.23.54:892][954]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.54:942][954]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.23.54:996][954]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.55:626][976]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.23.55:683][976]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.55:715][976]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.23.55:767][976]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.57:838][ 62]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.23.57:898][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.23.59:197][112]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.23.59:244][112]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.24.01:159][207]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.24.01:231][207]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.24.02:017][247]LogTemp: Repeating last play command: Simulate
+[2018.11.13-02.24.02:063][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-02.24.02:063][247]PIE: New page: SIE session: Menu (Nov 12, 2018, 10:24:02 AM)
+[2018.11.13-02.24.02:063][247]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.13-02.24.02:066][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003236s)
+[2018.11.13-02.24.02:067][247]LogAIModule: Creating AISystem for world Menu
+[2018.11.13-02.24.02:067][247]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2018.11.13-02.24.02:067][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.004516s)
+[2018.11.13-02.24.02:130][247]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.13-02.24.02:146][247]LogInit: FAudioDevice initialized.
+[2018.11.13-02.24.02:179][247]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.13-02.24.02:185][247]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-18.24.02
+[2018.11.13-02.24.02:185][247]LogWorld: Bringing up level for play took: 0.004674
+[2018.11.13-02.24.02:202][247]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu 0.733
+[2018.11.13-02.24.03:788][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.24.03:832][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-02.24.03:904][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.24.03:937][328]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.11.13-02.24.16:112][948]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.24.20:946][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.13-02.24.22:018][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-02.24.22:103][261]LogTemp: Repeating last play command: Simulate
+[2018.11.13-02.24.22:166][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-02.24.22:166][261]PIE: New page: SIE session: Menu (Nov 12, 2018, 10:24:22 AM)
+[2018.11.13-02.24.22:167][261]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.13-02.24.22:171][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004339s)
+[2018.11.13-02.24.22:172][261]LogAIModule: Creating AISystem for world Menu
+[2018.11.13-02.24.22:173][261]LogPlayLevel: PIE: World Init took: (0.001545s)
+[2018.11.13-02.24.22:173][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.006346s)
+[2018.11.13-02.24.22:257][261]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.13-02.24.22:278][261]LogInit: FAudioDevice initialized.
+[2018.11.13-02.24.22:315][261]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.13-02.24.22:322][261]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-18.24.22
+[2018.11.13-02.24.22:323][261]LogWorld: Bringing up level for play took: 0.005496
+[2018.11.13-02.24.22:340][261]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu 0.871
+[2018.11.13-02.24.24:280][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.24.24:336][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-02.24.24:444][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.24.24:597][362]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.11.13-02.24.25:492][397]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/MenuE2FC668A4227CB5AF5DE44ACA7A8E989.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Levels/Menu.umap'
+[2018.11.13-02.24.26:194][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-02.26.21:262][249]BlueprintLog: New page: Compile W_MainMenu
+[2018.11.13-02.26.22:014][270]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuBFE2E0BA46B9832C814BD08832A4DA86.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.13-02.26.23:801][371]LogTemp: Repeating last play command: Simulate
+[2018.11.13-02.26.23:867][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-02.26.23:868][371]PIE: New page: SIE session: Menu (Nov 12, 2018, 10:26:23 AM)
+[2018.11.13-02.26.23:868][371]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.13-02.26.23:871][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003224s)
+[2018.11.13-02.26.23:872][371]LogAIModule: Creating AISystem for world Menu
+[2018.11.13-02.26.23:872][371]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2018.11.13-02.26.23:872][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.004560s)
+[2018.11.13-02.26.23:941][371]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.13-02.26.23:956][371]LogInit: FAudioDevice initialized.
+[2018.11.13-02.26.23:995][371]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.13-02.26.24:000][371]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-18.26.24
+[2018.11.13-02.26.24:001][371]LogWorld: Bringing up level for play took: 0.004210
+[2018.11.13-02.26.24:016][371]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu 0.547
+[2018.11.13-02.26.28:068][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.26.28:102][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-02.26.28:129][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.26.28:175][617]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.11.13-02.26.28:741][651]LogTemp: Repeating last play command: Simulate
+[2018.11.13-02.26.28:772][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-02.26.28:772][651]PIE: New page: SIE session: Menu (Nov 12, 2018, 10:26:28 AM)
+[2018.11.13-02.26.28:772][651]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.13-02.26.28:774][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002131s)
+[2018.11.13-02.26.28:775][651]LogAIModule: Creating AISystem for world Menu
+[2018.11.13-02.26.28:775][651]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2018.11.13-02.26.28:775][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.002968s)
+[2018.11.13-02.26.28:819][651]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.13-02.26.28:830][651]LogInit: FAudioDevice initialized.
+[2018.11.13-02.26.28:860][651]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.13-02.26.28:864][651]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-18.26.28
+[2018.11.13-02.26.28:864][651]LogWorld: Bringing up level for play took: 0.003104
+[2018.11.13-02.26.28:878][651]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu -0.59
+[2018.11.13-02.26.30:726][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.26.30:761][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-02.26.30:791][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.26.30:836][765]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.11.13-02.27.04:071][739]LogTemp: Repeating last play command: Simulate
+[2018.11.13-02.27.04:103][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-02.27.04:103][739]PIE: New page: SIE session: Menu (Nov 12, 2018, 10:27:04 AM)
+[2018.11.13-02.27.04:103][739]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.13-02.27.04:105][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002357s)
+[2018.11.13-02.27.04:106][739]LogAIModule: Creating AISystem for world Menu
+[2018.11.13-02.27.04:106][739]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.11.13-02.27.04:106][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.003303s)
+[2018.11.13-02.27.04:157][739]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.13-02.27.04:169][739]LogInit: FAudioDevice initialized.
+[2018.11.13-02.27.04:202][739]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.13-02.27.04:207][739]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-18.27.04
+[2018.11.13-02.27.04:207][739]LogWorld: Bringing up level for play took: 0.003295
+[2018.11.13-02.27.04:223][739]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu 0.754
+[2018.11.13-02.27.05:845][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.27.05:880][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-02.27.05:916][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.27.05:946][838]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.11.13-02.27.35:565][612]LogTemp: Repeating last play command: Simulate
+[2018.11.13-02.27.35:603][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-02.27.35:603][612]PIE: New page: SIE session: Menu (Nov 12, 2018, 10:27:35 AM)
+[2018.11.13-02.27.35:603][612]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.13-02.27.35:606][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002802s)
+[2018.11.13-02.27.35:607][612]LogAIModule: Creating AISystem for world Menu
+[2018.11.13-02.27.35:607][612]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2018.11.13-02.27.35:607][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.004031s)
+[2018.11.13-02.27.35:670][612]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.13-02.27.35:685][612]LogInit: FAudioDevice initialized.
+[2018.11.13-02.27.35:721][612]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.13-02.27.35:727][612]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-18.27.35
+[2018.11.13-02.27.35:727][612]LogWorld: Bringing up level for play took: 0.004379
+[2018.11.13-02.27.35:744][612]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu 0.275
+[2018.11.13-02.27.36:667][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.27.36:706][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-02.27.36:744][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.27.36:775][669]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.11.13-02.28.39:022][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.13-02.28.40:217][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-02.28.55:131][251]LogTemp: Repeating last play command: Simulate
+[2018.11.13-02.28.55:201][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-02.28.55:201][251]PIE: New page: SIE session: Menu (Nov 12, 2018, 10:28:55 AM)
+[2018.11.13-02.28.55:201][251]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.13-02.28.55:206][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004556s)
+[2018.11.13-02.28.55:207][251]LogAIModule: Creating AISystem for world Menu
+[2018.11.13-02.28.55:207][251]LogPlayLevel: PIE: World Init took: (0.001586s)
+[2018.11.13-02.28.55:208][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.006439s)
+[2018.11.13-02.28.55:296][251]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.13-02.28.55:317][251]LogInit: FAudioDevice initialized.
+[2018.11.13-02.28.55:357][251]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.13-02.28.55:360][251]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-18.28.55
+[2018.11.13-02.28.55:361][251]LogWorld: Bringing up level for play took: 0.001248
+[2018.11.13-02.28.55:380][251]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu -0.089
+[2018.11.13-02.28.56:141][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.28.56:182][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-02.28.56:240][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.28.56:274][296]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.11.13-02.29.06:679][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-02.29.11:088][ 87]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.13-02.29.25:729][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-02.29.25:812][890]LogTemp: Repeating last play command: Simulate
+[2018.11.13-02.29.25:868][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-02.29.25:868][890]PIE: New page: SIE session: Menu (Nov 12, 2018, 10:29:25 AM)
+[2018.11.13-02.29.25:868][890]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.13-02.29.25:872][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003892s)
+[2018.11.13-02.29.25:873][890]LogAIModule: Creating AISystem for world Menu
+[2018.11.13-02.29.25:874][890]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2018.11.13-02.29.25:874][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.005350s)
+[2018.11.13-02.29.25:941][890]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.13-02.29.25:960][890]LogInit: FAudioDevice initialized.
+[2018.11.13-02.29.25:997][890]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.13-02.29.26:004][890]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-18.29.26
+[2018.11.13-02.29.26:004][890]LogWorld: Bringing up level for play took: 0.005113
+[2018.11.13-02.29.26:022][890]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu 0.554
+[2018.11.13-02.29.27:340][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.29.27:387][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-02.29.27:473][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.29.27:514][966]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.11.13-02.29.29:761][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-02.29.38:458][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-02.29.43:005][744]LogTemp: Repeating last play command: Simulate
+[2018.11.13-02.29.43:067][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-02.29.43:068][744]PIE: New page: SIE session: Menu (Nov 12, 2018, 10:29:43 AM)
+[2018.11.13-02.29.43:068][744]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.13-02.29.43:073][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004544s)
+[2018.11.13-02.29.43:074][744]LogAIModule: Creating AISystem for world Menu
+[2018.11.13-02.29.43:074][744]LogPlayLevel: PIE: World Init took: (0.001361s)
+[2018.11.13-02.29.43:074][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.006202s)
+[2018.11.13-02.29.43:156][744]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.13-02.29.43:176][744]LogInit: FAudioDevice initialized.
+[2018.11.13-02.29.43:212][744]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.13-02.29.43:220][744]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-18.29.43
+[2018.11.13-02.29.43:220][744]LogWorld: Bringing up level for play took: 0.005664
+[2018.11.13-02.29.43:239][744]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu -0.23
+[2018.11.13-02.29.44:097][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.29.44:137][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-02.29.44:200][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.29.44:226][795]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.11.13-02.29.45:326][861]LogTemp: Repeating last play command: Simulate
+[2018.11.13-02.29.45:360][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-02.29.45:361][861]PIE: New page: SIE session: Menu (Nov 12, 2018, 10:29:45 AM)
+[2018.11.13-02.29.45:361][861]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.13-02.29.45:363][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002708s)
+[2018.11.13-02.29.45:364][861]LogAIModule: Creating AISystem for world Menu
+[2018.11.13-02.29.45:364][861]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2018.11.13-02.29.45:365][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.003812s)
+[2018.11.13-02.29.45:415][861]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.13-02.29.45:429][861]LogInit: FAudioDevice initialized.
+[2018.11.13-02.29.45:467][861]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.13-02.29.45:472][861]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-18.29.45
+[2018.11.13-02.29.45:472][861]LogWorld: Bringing up level for play took: 0.004472
+[2018.11.13-02.29.45:488][861]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu 0.019
+[2018.11.13-02.29.46:085][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.29.46:136][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-02.29.46:220][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.29.46:268][897]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.11.13-02.29.47:171][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.13-02.29.49:056][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-02.29.52:629][233]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.29.52:731][233]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.29.54:402][314]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuADA853A14A5C06E04317499F88EDBD4F.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.13-02.29.54:809][338]BlueprintLog: New page: Compile W_MainMenu
+[2018.11.13-02.29.57:368][441]LogTemp: Repeating last play command: Simulate
+[2018.11.13-02.29.57:439][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-02.29.57:440][441]PIE: New page: SIE session: Menu (Nov 12, 2018, 10:29:57 AM)
+[2018.11.13-02.29.57:440][441]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.13-02.29.57:445][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005402s)
+[2018.11.13-02.29.57:447][441]LogAIModule: Creating AISystem for world Menu
+[2018.11.13-02.29.57:447][441]LogPlayLevel: PIE: World Init took: (0.001598s)
+[2018.11.13-02.29.57:447][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.007330s)
+[2018.11.13-02.29.57:554][441]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.13-02.29.57:577][441]LogInit: FAudioDevice initialized.
+[2018.11.13-02.29.57:616][441]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.13-02.29.57:624][441]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-18.29.57
+[2018.11.13-02.29.57:624][441]LogWorld: Bringing up level for play took: 0.005858
+[2018.11.13-02.29.57:642][441]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu 0.173
+[2018.11.13-02.29.58:444][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.29.58:489][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-02.29.58:556][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-02.29.58:587][480]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.11.13-02.29.59:645][542]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.29.59:736][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.29.59:839][543]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.29.59:880][543]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.30.01:393][633]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.30.01:426][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.30.02:359][686]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.30.02:398][686]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.30.03:570][746]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.30.03:614][746]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.30.03:633][746]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.30.03:676][746]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.30.04:209][777]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.30.04:238][777]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.30.04:262][778]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.11.13-02.30.04:294][778]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.30.09:441][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-02.30.11:622][112]LogSlate: Window 'Save Content' being destroyed
+[2018.11.13-02.30.11:637][112]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-02.30.11:814][112]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Menu23740D4D464A3CBFD4E4A387B615A5D9.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Levels/Menu.umap'
+[2018.11.13-02.30.11:859][112]LogFileHelpers: Saving map 'Menu' took 0.209
+[2018.11.13-02.30.13:814][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-02.30.48:912][140]BlueprintLog: New page: Compile W_MainMenu
+[2018.11.13-02.30.56:046][536]Cmd: TRANSACTION UNDO
+[2018.11.13-02.30.56:046][536]LogEditorTransaction: Undo Move Components
+[2018.11.13-02.30.57:533][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-02.40.10:996][776]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Menu_Auto4BDB1AAD54C0BCF9157255E8F42674BE3.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Autosaves/Game/MainMenu/Levels/Menu_Auto4.umap'
+[2018.11.13-02.40.11:000][776]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMenu/Levels/Menu' took 0.085
+[2018.11.13-02.40.11:000][776]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.085
+[2018.11.13-02.40.11:003][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu/BluePrints/Menus/W_MainMenu] ([1] browsable assets)...
+[2018.11.13-02.40.11:003][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/BluePrints/Menus/W_MainMenu]
+[2018.11.13-02.40.11:087][776]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu_Auto49B60FEC44702AF5B363F9CB0452B641B.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Autosaves/Game/MainMenu/BluePrints/Menus/W_MainMenu_Auto4.uasset'
+[2018.11.13-02.40.11:088][776]LogFileHelpers: Auto-saving content packages took 0.087
+[2018.11.13-02.59.55:569][794]BlueprintLog: New page: Compile W_MainMenu
+[2018.11.13-02.59.56:217][814]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuB3F6AA4A465FE6C395C33FA5EFBF52B5.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.13-02.59.59:077][978]LogTemp: Repeating last play command: Simulate
+[2018.11.13-02.59.59:132][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-02.59.59:132][978]PIE: New page: SIE session: Menu (Nov 12, 2018, 10:59:59 AM)
+[2018.11.13-02.59.59:132][978]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.13-02.59.59:135][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003005s)
+[2018.11.13-02.59.59:136][978]LogAIModule: Creating AISystem for world Menu
+[2018.11.13-02.59.59:136][978]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2018.11.13-02.59.59:137][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.004446s)
+[2018.11.13-02.59.59:191][978]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.13-02.59.59:206][978]LogInit: FAudioDevice initialized.
+[2018.11.13-02.59.59:243][978]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.13-02.59.59:248][978]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-18.59.59
+[2018.11.13-02.59.59:248][978]LogWorld: Bringing up level for play took: 0.004095
+[2018.11.13-02.59.59:264][978]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu -0.204
+[2018.11.13-03.00.01:295][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-03.00.01:330][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-03.00.01:370][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-03.00.01:400][101]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.11.13-03.01.13:552][376]BlueprintLog: New page: Compile W_MainMenu
+[2018.11.13-03.01.13:572][376]LogBlueprint: Error: [Compiler W_MainMenu] The current value of the ' Input ' pin is invalid: 'Input' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.11.13-03.01.13:772][376]LogBlueprint: Warning: [Compiler W_MainMenu] [3799.78] Compile of W_MainMenu failed. 1 Fatal Issue(s) 0 Warning(s) [in 219 ms] (/Game/MainMenu/BluePrints/Menus/W_MainMenu.W_MainMenu)
+[2018.11.13-03.01.14:474][410]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenuC872E9274D61AD97D807A4A2EB760CAE.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.13-03.03.45:839][177]BlueprintLog: New page: Compile W_MainMenu
+[2018.11.13-03.03.46:573][203]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu78EC59654A3C677CD52C6EAB7089E70C.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.13-03.05.02:123][584]BlueprintLog: New page: Compile W_MainMenu
+[2018.11.13-03.05.03:011][609]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu9D6E1C784504C047C3863580DF49DD53.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.13-03.05.06:103][782]LogTemp: Repeating last play command: Simulate
+[2018.11.13-03.05.06:163][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-03.05.06:163][782]PIE: New page: SIE session: Menu (Nov 12, 2018, 11:05:06 AM)
+[2018.11.13-03.05.06:164][782]LogPlayLevel: Creating play world package: /Game/MainMenu/Levels/UEDPIE_0_Menu
+[2018.11.13-03.05.06:168][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004704s)
+[2018.11.13-03.05.06:170][782]LogAIModule: Creating AISystem for world Menu
+[2018.11.13-03.05.06:170][782]LogPlayLevel: PIE: World Init took: (0.001674s)
+[2018.11.13-03.05.06:170][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu/Levels/Menu.Menu to /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu (0.006681s)
+[2018.11.13-03.05.06:269][782]LogInit: XAudio2 using 'Speakers (Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.13-03.05.06:293][782]LogInit: FAudioDevice initialized.
+[2018.11.13-03.05.06:330][782]LogLoad: Game class is 'VRHolodeckGameMode_C'
+[2018.11.13-03.05.06:337][782]LogWorld: Bringing World /Game/MainMenu/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.11.12-19.05.06
+[2018.11.13-03.05.06:337][782]LogWorld: Bringing up level for play took: 0.005408
+[2018.11.13-03.05.06:356][782]PIE: Play in editor start time for /Game/MainMenu/Levels/UEDPIE_0_Menu 0.888
+[2018.11.13-03.05.07:298][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.13-03.05.09:332][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-03.05.14:245][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-03.05.14:284][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-03.05.14:335][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-03.05.14:368][163]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.11.13-03.06.52:506][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-03.07.47:992][501]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMenu/Levels/Menu' took 0.034
+[2018.11.13-03.07.47:994][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu/BluePrints/Menus/W_MainMenu] ([1] browsable assets)...
+[2018.11.13-03.07.47:994][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/BluePrints/Menus/W_MainMenu]
+[2018.11.13-03.07.48:064][501]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu_Auto54BA71EB644D60C6152CDECBECDE6EE3C.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Autosaves/Game/MainMenu/BluePrints/Menus/W_MainMenu_Auto5.uasset'
+[2018.11.13-03.07.48:066][501]LogFileHelpers: Auto-saving content packages took 0.073
+[2018.11.13-03.17.48:282][485]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMenu/Levels/Menu' took 0.033
+[2018.11.13-03.17.48:284][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu/BluePrints/Menus/W_MainMenu] ([1] browsable assets)...
+[2018.11.13-03.17.48:284][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/BluePrints/Menus/W_MainMenu]
+[2018.11.13-03.17.48:363][485]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu_Auto695D3A6934DDB857E48B99DA1987C9E85.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/Autosaves/Game/MainMenu/BluePrints/Menus/W_MainMenu_Auto6.uasset'
+[2018.11.13-03.17.48:365][485]LogFileHelpers: Auto-saving content packages took 0.082
+[2018.11.13-03.29.28:653][456]BlueprintLog: New page: Compile W_MainMenu
+[2018.11.13-03.29.29:414][479]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/W_MainMenu479D232D48DDABA5CFAAE0950A00569C.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/BluePrints/Menus/W_MainMenu.uasset'
+[2018.11.13-03.29.30:373][529]LogSavePackage: Moving '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Saved/MenuE1768F31485ED14CFF549B9874D34165.tmp' to '../../../../../../Users/darkm/Documents/GitHub/PhaserRange/Holodeck2/Content/MainMenu/Levels/Menu.umap'
+[2018.11.13-03.30.06:114][649]LogSlate: Window 'Holodeck2 - Unreal Editor' being destroyed
+[2018.11.13-03.30.06:371][650]Cmd: QUIT_EDITOR
+[2018.11.13-03.30.07:109][650]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.13-03.30.07:130][650]LogExit: Preparing to exit.
+[2018.11.13-03.30.08:099][650]LogExit: Editor shut down
+[2018.11.13-03.30.08:100][650]LogExit: Transaction tracking system shut down
+[2018.11.13-03.30.08:489][650]LogExit: Object subsystem successfully closed.
+[2018.11.13-03.30.08:521][650]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.13-03.30.08:526][650]LogD3D11RHI: Shutdown
+[2018.11.13-03.30.08:526][650]LogD3D11RHI: CleanupD3DDevice
+[2018.11.13-03.30.08:531][650]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.13-03.30.08:574][650]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (622)
+[2018.11.13-03.30.08:574][650]LogModuleManager: Shutting down and abandoning module Voice (620)
+[2018.11.13-03.30.08:574][650]LogModuleManager: Shutting down and abandoning module SequencerWidgets (618)
+[2018.11.13-03.30.08:574][650]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2018.11.13-03.30.08:574][650]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (614)
+[2018.11.13-03.30.08:574][650]LogModuleManager: Shutting down and abandoning module AddContentDialog (612)
+[2018.11.13-03.30.08:576][650]LogModuleManager: Shutting down and abandoning module WidgetCarousel (611)
+[2018.11.13-03.30.08:576][650]LogModuleManager: Shutting down and abandoning module EditorWidgets (608)
+[2018.11.13-03.30.08:576][650]LogModuleManager: Shutting down and abandoning module CollectionManager (606)
+[2018.11.13-03.30.08:576][650]LogModuleManager: Shutting down and abandoning module SceneOutliner (604)
+[2018.11.13-03.30.08:576][650]LogModuleManager: Shutting down and abandoning module StatsViewer (602)
+[2018.11.13-03.30.08:577][650]LogModuleManager: Shutting down and abandoning module FoliageEdit (600)
+[2018.11.13-03.30.08:577][650]LogModuleManager: Shutting down and abandoning module LandscapeEditor (598)
+[2018.11.13-03.30.08:577][650]LogModuleManager: Shutting down and abandoning module MeshPaintMode (596)
+[2018.11.13-03.30.08:577][650]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (594)
+[2018.11.13-03.30.08:577][650]LogModuleManager: Shutting down and abandoning module ActorPickerMode (592)
+[2018.11.13-03.30.08:577][650]LogModuleManager: Shutting down and abandoning module GeometryMode (590)
+[2018.11.13-03.30.08:577][650]LogModuleManager: Shutting down and abandoning module TextureAlignMode (588)
+[2018.11.13-03.30.08:577][650]LogModuleManager: Shutting down and abandoning module BspMode (586)
+[2018.11.13-03.30.08:577][650]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (584)
+[2018.11.13-03.30.08:577][650]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (582)
+[2018.11.13-03.30.08:577][650]LogModuleManager: Shutting down and abandoning module AutomationWorker (580)
+[2018.11.13-03.30.08:577][650]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (578)
+[2018.11.13-03.30.08:577][650]LogModuleManager: Shutting down and abandoning module SequenceRecorder (577)
+[2018.11.13-03.30.08:577][650]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (574)
+[2018.11.13-03.30.08:577][650]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (572)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module PlacementMode (571)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module MaterialEditor (570)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (566)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (564)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (562)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2018.11.13-03.30.08:578][650]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2018.11.13-03.30.08:579][650]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2018.11.13-03.30.08:579][650]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2018.11.13-03.30.08:581][650]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2018.11.13-03.30.08:582][650]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2018.11.13-03.30.08:582][650]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2018.11.13-03.30.08:582][650]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2018.11.13-03.30.08:582][650]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2018.11.13-03.30.08:582][650]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2018.11.13-03.30.08:582][650]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2018.11.13-03.30.08:582][650]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2018.11.13-03.30.09:078][650]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2018.11.13-03.30.09:078][650]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2018.11.13-03.30.09:078][650]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2018.11.13-03.30.09:078][650]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2018.11.13-03.30.09:078][650]LogModuleManager: Shutting down and abandoning module InputBindingEditor (502)
+[2018.11.13-03.30.09:078][650]LogModuleManager: Shutting down and abandoning module MergeActors (500)
+[2018.11.13-03.30.09:078][650]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (498)
+[2018.11.13-03.30.09:079][650]LogModuleManager: Shutting down and abandoning module LocalizationService (497)
+[2018.11.13-03.30.09:079][650]LogModuleManager: Shutting down and abandoning module HardwareTargeting (494)
+[2018.11.13-03.30.09:079][650]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (492)
+[2018.11.13-03.30.09:079][650]LogModuleManager: Shutting down and abandoning module UndoHistory (490)
+[2018.11.13-03.30.09:079][650]LogModuleManager: Shutting down and abandoning module XmlParser (488)
+[2018.11.13-03.30.09:079][650]LogModuleManager: Shutting down and abandoning module Blutility (486)
+[2018.11.13-03.30.09:079][650]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (484)
+[2018.11.13-03.30.09:079][650]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (483)
+[2018.11.13-03.30.09:079][650]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (480)
+[2018.11.13-03.30.09:079][650]LogModuleManager: Shutting down and abandoning module SettingsEditor (478)
+[2018.11.13-03.30.09:079][650]LogModuleManager: Shutting down and abandoning module ProjectLauncher (476)
+[2018.11.13-03.30.09:080][650]LogModuleManager: Shutting down and abandoning module SessionFrontend (474)
+[2018.11.13-03.30.09:080][650]LogModuleManager: Shutting down and abandoning module ProfilerClient (472)
+[2018.11.13-03.30.09:080][650]LogModuleManager: Shutting down and abandoning module DeviceManager (470)
+[2018.11.13-03.30.09:080][650]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (469)
+[2018.11.13-03.30.09:134][650]LogModuleManager: Shutting down and abandoning module AutomationController (466)
+[2018.11.13-03.30.09:134][650]LogModuleManager: Shutting down and abandoning module AutomationWindow (464)
+[2018.11.13-03.30.09:134][650]LogModuleManager: Shutting down and abandoning module Layers (462)
+[2018.11.13-03.30.09:134][650]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (460)
+[2018.11.13-03.30.09:134][650]LogModuleManager: Shutting down and abandoning module DetailCustomizations (458)
+[2018.11.13-03.30.09:134][650]LogModuleManager: Shutting down and abandoning module PackagesDialog (456)
+[2018.11.13-03.30.09:134][650]LogModuleManager: Shutting down and abandoning module Persona (454)
+[2018.11.13-03.30.09:135][650]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (453)
+[2018.11.13-03.30.09:135][650]LogModuleManager: Shutting down and abandoning module AnimGraph (451)
+[2018.11.13-03.30.09:135][650]LogModuleManager: Shutting down and abandoning module Kismet (448)
+[2018.11.13-03.30.09:141][650]LogModuleManager: Shutting down and abandoning module GraphEditor (446)
+[2018.11.13-03.30.09:142][650]LogModuleManager: Shutting down and abandoning module ClassViewer (444)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module Toolbox (442)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module DesktopPlatform (441)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.11.13-03.30.09:143][650]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.11.13-03.30.09:144][650]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.11.13-03.30.09:144][650]LogModuleManager: Shutting down and abandoning module ProfilerService (404)
+[2018.11.13-03.30.09:270][650]LogModuleManager: Shutting down and abandoning module TaskGraph (402)
+[2018.11.13-03.30.09:270][650]LogModuleManager: Shutting down and abandoning module VRExpansionPlugin (400)
+[2018.11.13-03.30.09:271][650]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.11.13-03.30.09:271][650]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.11.13-03.30.09:271][650]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.11.13-03.30.09:271][650]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.11.13-03.30.09:271][650]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.11.13-03.30.09:271][650]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.11.13-03.30.09:271][650]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.11.13-03.30.09:271][650]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.11.13-03.30.09:271][650]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.11.13-03.30.09:271][650]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.11.13-03.30.09:271][650]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.11.13-03.30.09:271][650]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.11.13-03.30.09:271][650]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.11.13-03.30.09:272][650]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
+[2018.11.13-03.30.09:272][650]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.11.13-03.30.09:272][650]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.11.13-03.30.09:272][650]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.11.13-03.30.09:276][650]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.11.13-03.30.09:276][650]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.11.13-03.30.09:277][650]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.11.13-03.30.09:277][650]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.11.13-03.30.09:277][650]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.11.13-03.30.09:277][650]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.11.13-03.30.09:277][650]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.11.13-03.30.09:277][650]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.11.13-03.30.09:277][650]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.11.13-03.30.09:277][650]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.11.13-03.30.09:277][650]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2018.11.13-03.30.09:277][650]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
+[2018.11.13-03.30.09:277][650]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.11.13-03.30.09:277][650]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.11.13-03.30.09:278][650]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.11.13-03.30.09:278][650]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.11.13-03.30.09:278][650]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.11.13-03.30.09:278][650]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2018.11.13-03.30.09:278][650]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2018.11.13-03.30.09:278][650]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2018.11.13-03.30.09:278][650]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2018.11.13-03.30.09:279][650]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2018.11.13-03.30.09:279][650]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2018.11.13-03.30.09:279][650]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2018.11.13-03.30.09:279][650]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2018.11.13-03.30.09:279][650]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2018.11.13-03.30.09:279][650]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2018.11.13-03.30.09:279][650]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2018.11.13-03.30.09:279][650]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2018.11.13-03.30.09:279][650]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2018.11.13-03.30.09:279][650]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2018.11.13-03.30.09:280][650]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2018.11.13-03.30.09:280][650]LogModuleManager: Shutting down and abandoning module Holodeck2 (300)
+[2018.11.13-03.30.09:280][650]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.11.13-03.30.09:280][650]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.11.13-03.30.09:280][650]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.11.13-03.30.09:280][650]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.11.13-03.30.09:280][650]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.11.13-03.30.09:280][650]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.11.13-03.30.09:280][650]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.11.13-03.30.09:280][650]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.13-03.30.09:280][650]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.13-03.30.09:382][650]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.13-03.30.09:483][650]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.13-03.30.09:483][650]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.13-03.30.09:489][650]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.13-03.30.09:489][650]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.13-03.30.09:489][650]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.13-03.30.09:489][650]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.13-03.30.09:492][650]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.13-03.30.09:493][650]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.13-03.30.09:493][650]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.13-03.30.09:493][650]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.13-03.30.09:493][650]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.13-03.30.09:493][650]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.13-03.30.09:496][650]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.13-03.30.09:496][650]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.13-03.30.09:496][650]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.13-03.30.09:496][650]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.13-03.30.09:496][650]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.13-03.30.09:496][650]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.11.13-03.30.09:498][650]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.11.13-03.30.09:504][650]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.11.13-03.30.09:504][650]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.11.13-03.30.09:504][650]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.11.13-03.30.09:504][650]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.11.13-03.30.09:504][650]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.11.13-03.30.09:504][650]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.11.13-03.30.09:504][650]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.11.13-03.30.09:505][650]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.11.13-03.30.09:505][650]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.11.13-03.30.09:505][650]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.11.13-03.30.09:505][650]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.11.13-03.30.09:505][650]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.11.13-03.30.09:505][650]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.11.13-03.30.09:505][650]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.11.13-03.30.09:505][650]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.11.13-03.30.09:505][650]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.11.13-03.30.09:506][650]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.11.13-03.30.09:506][650]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.11.13-03.30.09:507][650]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.11.13-03.30.09:507][650]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.11.13-03.30.09:509][650]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.11.13-03.30.09:509][650]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.11.13-03.30.09:509][650]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.11.13-03.30.09:509][650]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.11.13-03.30.09:509][650]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.11.13-03.30.09:509][650]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.11.13-03.30.09:509][650]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.11.13-03.30.09:509][650]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.11.13-03.30.09:509][650]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.11.13-03.30.09:509][650]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.11.13-03.30.09:509][650]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.11.13-03.30.09:509][650]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.11.13-03.30.09:509][650]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.11.13-03.30.09:510][650]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.11.13-03.30.09:510][650]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.11.13-03.30.09:511][650]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.11.13-03.30.09:511][650]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.11.13-03.30.09:511][650]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.11.13-03.30.09:563][650]LogDerivedDataCache: Shutdown
+[2018.11.13-03.30.09:563][650]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.11.13-03.30.09:563][650]LogXGEController: Cleaning working directory: C:/Users/darkm/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.11.13-03.30.09:564][650]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.11.13-03.30.09:565][650]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.11.13-03.30.09:565][650]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.11.13-03.30.09:565][650]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.11.13-03.30.09:565][650]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.11.13-03.30.09:565][650]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.11.13-03.30.09:566][650]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.11.13-03.30.09:566][650]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.11.13-03.30.09:568][650]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.11.13-03.30.09:568][650]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.11.13-03.30.09:583][650]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.11.13-03.30.09:583][650]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.11.13-03.30.09:583][650]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.11.13-03.30.09:583][650]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.11.13-03.30.09:583][650]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.11.13-03.30.09:583][650]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.11.13-03.30.09:583][650]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.11.13-03.30.09:583][650]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.11.13-03.30.09:583][650]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.11.13-03.30.09:583][650]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.13-03.30.09:583][650]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.13-03.30.09:583][650]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.13-03.30.09:583][650]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.13-03.30.09:583][650]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.13-03.30.09:584][650]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.13-03.30.09:584][650]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.13-03.30.09:584][650]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.13-03.30.09:584][650]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.13-03.30.09:585][650]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.13-03.30.09:586][650]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.13-03.30.09:599][650]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.13-03.30.09:599][650]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.13-03.30.09:599][650]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC70EAEFC-49EC-EB99-A5C7-69BFE8958044%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=b914ff53478b5f622d6555bf0841b6f9%7C86b6ae209afd4afba3857a84ef1c03f5%7C42b6a3b4-a436-4b48-864c-cd0cc8a0dc50&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.13-03.30.09:621][650]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.13-03.30.09:622][650]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.13-03.30.09:622][650]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.13-03.30.09:622][650]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.13-03.30.09:622][650]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.13-03.30.09:622][650]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.13-03.30.09:622][650]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.13-03.30.09:622][650]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.13-03.30.09:623][650]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.13-03.30.09:623][650]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.13-03.30.09:623][650]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.13-03.30.09:623][650]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.13-03.30.09:623][650]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.13-03.30.09:623][650]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.13-03.30.09:623][650]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.13-03.30.09:623][650]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.13-03.30.09:624][650]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.13-03.30.09:624][650]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.13-03.30.09:624][650]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.13-03.30.09:625][650]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.13-03.30.09:625][650]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.13-03.30.09:625][650]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.13-03.30.09:625][650]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.13-03.30.09:626][650]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.13-03.30.09:626][650]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.13-03.30.09:626][650]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.13-03.30.09:626][650]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.13-03.30.09:626][650]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.13-03.30.09:626][650]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.13-03.30.09:626][650]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.13-03.30.09:633][650]LogExit: Exiting.
+[2018.11.13-03.30.09:654][650]Log file closed, 11/12/18 19:30:09
